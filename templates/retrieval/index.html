@@ -19,70 +19,86 @@
 <body>
   <div class="container-fluid">
     <nav class="bg-body-tertiary pb-2 floating-nav">
-    <h1 style="text-align: center; font-weight: 700;">fin</h1>
-    <form id="selection-form" enctype="multipart/form-data" action="{% url 'retrieve' %}">
-      {% csrf_token %}
-    <div class="row p-2 justify-content-center">
-        <div class="col-3">
-          <div class="form-floating">
-            <select class="form-select" id="CompanySelect" aria-label="Select Company">
-              {% if cdict %}
-              <option value="">Select a company...</option>
-                {% for t,n in cdict.items %}
-                <option value="{{t}}">{{n}}</option>
-                {% endfor %}
-              {% else %}
-              <option value="">Company List not Available</option>
-              {% endif %}
-            </select>
-            <label for="CompanySelect">Choose Company</label>
+      <h1 style="text-align: center; font-weight: 700;">fin</h1>
+      <form id="selection-form" enctype="multipart/form-data" action="{% url 'retrieve' %}">
+        {% csrf_token %}
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 p-2 justify-content-center">
+          <div class="col-3">
+            <div class="form-floating" style="position: relative; z-index: 0; width: auto;">
+              <input class="form-control" type="text" id="company_field" placeholder="Enter Company Name">
+              <label for="company_field">Company Name</label>
+              <div class="parent-options">
+              </div>
+            </div>
           </div>
-        </div>
-        <div class="col-3">
-          <div class="form-floating">
-            <select class="form-select" id="QuarterSelect" aria-label="Select Quarter">
+          <div class="col-3">
+            <div class="form-floating">
+              <select class="form-select" id="QuarterSelect" aria-label="Select Quarter">
                 <option value="">select Quarter</option>
                 <option value="1">One (Q1)</option>
                 <option value="2">Two (Q2)</option>
                 <option value="3">Three (Q3)</option>
                 <option value="4">Four (Q4)</option>
-            </select>
-            <label for="QuarterSelect">Choose Quarter</label>
+              </select>
+              <label for="QuarterSelect">Choose Quarter</label>
+            </div>
           </div>
-        </div>
-        <div class="col-3">
-          <div class="form-floating">
-            <select class="form-select" id="ServiceSelect" aria-label="Select Quarter">
+          <div class="col-3">
+            <div class="form-floating">
+              <select class="form-select" id="ServiceSelect" aria-label="Select Service">
                 <option value="">select Service</option>
                 <option value="1">Summarize</option>
                 <option value="2">Sentiment</option>
                 <option value="3">Translate</option>
-            </select>
-            <label for="ServiceSelect">Choose Service</label>
+              </select>
+              <label for="ServiceSelect">Choose Service</label>
+            </div>
           </div>
         </div>
-      </div>
-      <button class="btn btn-primary mx-auto" id="submit-btn" type="submit" style="display: block;">Submit</button>
-    </form>
+        <button class="btn btn-primary mx-auto" id="submit-btn" type="submit" style="display: block;">Submit</button>
+      </form>
     </nav>
-  <div>
-    <div id="status"></div>
-    <div id="display_div" class="row mt-2">
-      <div class="col-6 mx-auto p-2" id="pdf_parent"></div>
-      <div class="col-6 mx-auto p-2" id="fin_parent"></div>
+    <div>
+      <div id="status"></div>
+      <div id="display_div" class="row mt-2">
+        <div class="col-6 mx-auto p-2" id="pdf_parent"></div>
+        <div class="col-6 mx-auto p-2" id="fin_parent"></div>
+      </div>
     </div>
   </div>
-  </div>
 
 
+  {% if cdict %}
+  <select id="cname_options" style="display: none;">
+    {% for i,j in cdict.items %}
+        <option value="{{i}}">{{j}}</option>
+        {% endfor %}
+      </select>
+  {% endif %}
 
 
 
 
   <script>
     console.log("Hi");
-    prev_doc = '';
 
+    companies = [];
+    if (cname_options){
+     for(i=0;i<cname_options.length;i++) {
+      cobjects = {id: cname_options.options[i].value.toString(), name: cname_options.options[i].text.toString()};
+      companies.push(cobjects);
+     }
+    }
+
+    company_names = [];
+    for(i=0;i<companies.length;i++){
+      company_names += companies[i].name.toString();
+    }
+
+    console.log(company_names);
+
+    prev_doc = ''; 
+    
     let lastScrollY = 0;
 
     window.addEventListener("scroll", function(e) {
