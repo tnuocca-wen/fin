@@ -48,7 +48,7 @@ def retrieve(request):
                 if file_exists(f"{fn}/{ticker}/{qrtr}/{ticker}.txt") is True:
                     download_blob(f"{fn}/{ticker}/{qrtr}/{ticker}.txt",f"{fp1}.txt")
                     if not os.path.exists(f"static/documents/{ticker}/{qrtr}/{ticker}.pdf"):
-                        print("hi")
+                        # print("hi")
                         download_blob(f"{fn}/{ticker}/{qrtr}/{ticker}.pdf",f"{fp1}.pdf")
                         status = 200
                         text = text_extract(fp)

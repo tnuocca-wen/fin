@@ -20,14 +20,14 @@
   <div class="container-fluid">
     <nav class="bg-body-tertiary pb-2 floating-nav">
       <h1 style="text-align: center; font-weight: 700;">fin</h1>
-      <form id="selection-form" enctype="multipart/form-data" action="{% url 'retrieve' %}">
+      <form autocomplete="off" id="selection-form" enctype="multipart/form-data" action="{% url 'retrieve' %}">
         {% csrf_token %}
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 p-2 justify-content-center">
           <div class="col-3">
             <div class="form-floating" style="position: relative; z-index: 0; width: auto;">
               <input class="form-control" type="text" id="company_field" placeholder="Enter Company Name">
               <label for="company_field">Company Name</label>
-              <div class="parent-options">
+              <div class="parent-options" id="parent-options">
               </div>
             </div>
           </div>
@@ -81,20 +81,128 @@
 
   <script>
     console.log("Hi");
+    
+    document.getElementById("company_field").addEventListener("click", function(e)
+    {this.value='';});
 
-    companies = [];
-    if (cname_options){
-     for(i=0;i<cname_options.length;i++) {
+    /*
+    autocomplete company names
+    */
+    
+    function autocomplete(inp, arr) {
+    /*the autocomplete function takes two arguments,
+    the text field element and an array of possible autocompleted values:*/
+    var currentFocus;
+    /*execute a function when someone writes in the text field:*/
+    inp.addEventListener("input", function(e) {
+        var a, b, i, val = this.value;
+        /*close any already open lists of autocompleted values*/
+        closeAllLists();
+        if (!val) { return false;}
+        currentFocus = -1;
+        /*create a DIV element that will contain the items (values):*/
+        a = document.getElementById("parent-options");
+        /*append the DIV element as a child of the autocomplete container:*/
+        /*for each item in the array...*/
+        for (i = 0; i < arr.length; i++) {
+          /*check if the item starts with the same letters as the t ext field value:*/
+          if (arr[i].name.substr(0, val.length).toUpperCase() == val.toUpperCase()) {
+            /*create a DIV element for each matching element:*/
+            b = document.createElement("DIV");
+            b.classList.add("options");
+            /*make the matching letters bold:*/
+            b.innerHTML = "<strong>" + arr[i].name.substr(0, val.length) + "</strong>";
+            b.innerHTML += arr[i].name.substr(val.length);
+            /*insert a input field that will hold the current array item's value:*/
+            b.innerHTML += "<input type='hidden' value='" + arr[i].name + "'>";
+            /*execute a function when someone clicks on the item value (DIV element):*/
+            b.addEventListener("click", function(e) {
+              /*insert the value for the autocomplete text field:*/
+              inp.value = this.getElementsByTagName("input")[0].value;
+              // console.log(inp.value);
+              /*close the list of autocompleted values,
+              (or any other open lists of autocompleted values:*/
+              closeAllLists();
+            });
+            a.appendChild(b);
+          }
+          // closeAllLists();
+        }
+    });
+    /*execute a function presses a key on the keyboard:*/
+    inp.addEventListener("keydown", function(e) {
+        var x = document.getElementById('parent-options');
+        if (x) x = x.getElementsByTagName("div");
+        if (e.keyCode == 40) {
+          /*If the arrow DOWN key is pressed,
+          increase the currentFocus variable:*/
+          currentFocus++;
+          /*and and make the current item more visible:*/
+          addActive(x);
+        } else if (e.keyCode == 38) { //up
+          /*If the arrow UP key is pressed,
+          decrease the currentFocus variable:*/
+          currentFocus--;
+          /*and and make the current item more visible:*/
+          addActive(x);
+        } else if (e.keyCode == 13) {
+          /*If the ENTER key is pressed, prevent the form from being submitted,*/
+          e.preventDefault();
+          if (currentFocus > -1) {
+            /*and simulate a click on the "active" item:*/
+            if (x) x[currentFocus].click();
+          }
+        }
+    });
+    function addActive(x) {
+      /*a function to classify an item as "active":*/
+      if (!x) return false;
+      /*start by removing the "active" class on all items:*/
+      removeActive(x);
+      if (currentFocus >= x.length) currentFocus = 0;
+      if (currentFocus < 0) currentFocus = (x.length - 1);
+      /*add class "autocomplete-active":*/
+      x[currentFocus].classList.add("options-active");
+    }
+    function removeActive(x) {
+      /*a function to remove the "active" class from all autocomplete items:*/
+      for (var i = 0; i < x.length; i++) {
+        x[i].classList.remove("options-active");
+      }
+    }
+    function closeAllLists(elmnt) {
+      /*close all autocomplete lists in the document,
+      except the one passed as an argument:*/
+      var x = document.getElementsByClassName("options");
+      for (var i = 0; i < x.length; i++) {
+        // if (elmnt != x[i] && elmnt != inp) {
+        x[i].parentNode.removeChild(x[i]);
+      // }
+    }
+  }
+  /*execute a function when someone clicks in the document:*/
+  document.addEventListener("click", function (e) {
+      closeAllLists();
+  });
+  }
+
+  
+  
+  // the rest
+  companies = [];
+  if (cname_options){
+    for(i=0;i<cname_options.length;i++) {
       cobjects = {id: cname_options.options[i].value.toString(), name: cname_options.options[i].text.toString()};
       companies.push(cobjects);
-     }
     }
-
-    company_names = [];
-    for(i=0;i<companies.length;i++){
-      company_names += companies[i].name.toString();
-    }
-
+  }
+  
+  company_names = [];
+  for(i=0;i<companies.length;i++){
+    company_names.push(companies[i].name.toString());
+  }
+  
+  autocomplete(document.getElementById("company_field"), companies);
     console.log(company_names);
 
     prev_doc = ''; 
@@ -122,18 +230,25 @@
   });
 
     var selection_form = document.getElementById('selection-form');
-    var cselect = document.getElementById('CompanySelect');
     var qselect = document.getElementById('QuarterSelect');
     var sselect = document.getElementById('ServiceSelect');
-      document.getElementById('submit-btn').addEventListener('click', function(e) {
-        e.preventDefault();
-        if (cselect.value != '' && qselect.value != '' && sselect.value != '')
+    var coselect = document.getElementById('company_field');
+    document.getElementById('submit-btn').addEventListener('click', function(e) {
+      e.preventDefault();
+      for (i=0;i<companies.length;i++){
+        if (coselect.value===companies[i].name){
+        var cselect = companies[i].id;
+        console.log(cselect);
+        break;
+      }
+    }
+      if (cselect != '' && qselect.value != '' && sselect.value != '')
         {
             if (document.getElementById("fin_text")){
               document.getElementById("fin_text").remove();
               document.getElementById("pdf_doc").remove();}
             formdata = new FormData();
-            selected = [cselect.value, qselect.value, sselect.value];
+            selected = [cselect, qselect.value, sselect.value];
             formdata.append("selected", JSON.stringify(selected))
             console.log(selected)
             fetch(selection_form.action, {
@@ -161,6 +276,7 @@
                       fin_text.id = "fin_text";
                       fin_text.style.overflowY = "scroll";
                       fin_text.style.height = "97vh";
+                      fin_text.style.border="1px dashed gray;"
                       fin_text.innerText = data.text;
                       document.getElementById("fin_parent").appendChild(fin_text);
                     }
