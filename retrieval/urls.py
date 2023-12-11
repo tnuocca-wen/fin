@@ -5,5 +5,6 @@ from django.conf import settings
 
 urlpatterns = [
     path('', views.index, name="index"),
-    path('retrieve/', views.retrieve, name="retrieve")
+    path('retrieve/', views.retrieve, name="retrieve"),
+    path('sentiment/', views.sentiment, name="sentiment"),
 ]

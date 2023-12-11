@@ -4,19 +4,19 @@
 
   .btn-primary {
     border-radius: .5px !important;
-    box-shadow: 1.5px 1.5px #888888;
-    background-color: rgb(43, 40, 40);
-    border: none;
+    box-shadow: 1.5px 1.5px #888888 !important;
+    background-color: rgb(43, 40, 40) !important;
+    border: none !important;
   }
   .btn-primary:hover {
-    background-color: rgb(236, 236, 236);
-    color: black;
-    box-shadow: -1.5px 1.5px #cac9c9;
+    background-color: rgb(236, 236, 236) !important;
+    color: black !important;
+    box-shadow: -1.5px 1.5px #cac9c9 !important;
   }
   .btn-primary:active {
     background-color: rgb(0, 0, 0) !important;
     color: rgb(255, 255, 255) !important;
-    box-shadow: -1.5px 1.5px #cac9c9;
+    box-shadow: -1.5px 1.5px #cac9c9 !important;
   }
   /* .btn-primary:focus {
     background-color: rgb(0, 0, 0) !important;
@@ -25,23 +25,29 @@
     border-color: rgba(255, 228, 196, 0.762);
   } */
   .form-select {
-    border-radius: .5px;
+    border-radius: .5px !important;
   }  
 
   input[type=text] {
     border-radius: .5px !important;
   }
 
+  #company_field {
+    border-radius: .7px;
+    overflow: hidden;
+    resize: none;
+  }
   .parent-options {
     position: absolute;
-    z-index: 1;
+    z-index: 10;
     width: 100%;
     max-height: 67vh;
     overflow-y: auto;
   }
-  .options {
+  .parent-options div {
     border-radius: .5px;
     background-color: white;
+    cursor: pointer;
     border: 1px solid rgba(128, 128, 128, 0.16);
     padding: 5px;
     width: 100%;
@@ -49,5 +55,47 @@
   .options-active {
     /*when navigating through the items using the arrow keys:*/
     background-color: rgb(56, 56, 56) !important;
-    color: #ffffff;
+    color: #ffffff !important;
+  }
+
+  .hyperlink {
+    color: #0c0c0c !important;
+    cursor:pointer !important;
+    font-size: smaller;
+  }
+  .hyperlink:hover {
+    background-color: #131313 !important;
+    color:rgb(247, 250, 249) !important;
+  }
+
+  .loader {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    display: block;
+    margin:15px auto;
+    position: relative;
+    color: #0c0c0c;
+    box-sizing: border-box;
+    animation: animloader 1s linear infinite alternate;
+  }
+  
+  @keyframes animloader {
+    0% {
+      box-shadow: -38px -12px ,  -14px 0,  14px 0, 38px 0;
+    }
+    33% {
+      box-shadow: -38px 0px, -14px -12px,  14px 0, 38px 0;
+    }
+    66% {
+      box-shadow: -38px 0px , -14px 0, 14px -12px, 38px 0;
+    }
+    100% {
+      box-shadow: -38px 0 , -14px 0, 14px 0 , 38px -12px;
+    }
+  }
+  
+  .ktaways:hover {
+    cursor: pointer !important;
+    text-decoration: underline !important;
   }

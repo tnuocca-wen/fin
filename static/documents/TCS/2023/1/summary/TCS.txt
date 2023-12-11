@@ -1,0 +1,69 @@
+Tata Consultancy Services (TCS) has provided the transcript of its earnings conference call for the quarter ended December 31, 2022. The call was conducted after the Board of Directors meeting on January 9, 2023. The transcript can be found on TCS's website. The conference call was moderated by Mr. Kedar Shirali, Global Head of Investor Relations at TCS. The call discussed TCS' financial results for the third quarter of fiscal year 2023. The call was webcasted and an archive including the transcript is available on TCS's website. The leadership team, including the CEO, COO, CFO, and CHRO, gave an overview of the company's performance and answered questions from participants. TCS does not provide specific revenue or earnings guidance and any forward-looking statements should be considered in the context of the company's risks.
+
+Tata Consultancy Services had strong growth in Q3, with revenue crossing the 7 billion mark in US dollars. Operating margin was 24.5% and net margin was 18.6%. The board announced a dividend of `75 per share, including a special dividend of `67 per share, resulting in a shareholder payout of `33,297 crore for the year. Revenues grew 13.5% year-on-year in constant currency and 19.1% in INR. Operating margin expanded 50 basis points to 24.5%. Net income margin was 18.6%. Cash from operations was `111.54 billion and free cash flows were `102.15 billion. The board also announced an interim dividend of `75 per share. The company onboarded 135,000 fresh engineers and brought on 7,000 more in Q3. Net hiring was ahead of revenue growth and the workforce strength as of December 31 was 613,974. Learning hours in Q3 were 11.4 million and attrition in IT services was at 21.3%.
+
+Tata Consultancy Services (TCS) had a strong quarter with growth in various segments. Retail and CPG grew 18.7% due to demand in the Travel and Hospitality segment. Life Sciences and Healthcare grew 14.4%, Technology and Services grew 13.6%, Communications and Media grew 13.5%, and Manufacturing grew 12.5%. The largest vertical, BFS, grew 11.1%. In terms of geography, North America and UK grew 15.4%, Continental Europe grew 9.7%, Latin America grew 14.6%, India grew 9.1%, Asia Pacific grew 9.5%, and the Middle East and Africa grew 8.6%. TCS also had success with its products and platforms, with 10 new customers for ignio™ and 7 clients going live. TCS BaNCS™ had six new wins and seven go lives, including a new win from a leading European CFD. Quartz blockchain platform had two new wins and one go live. TCS AI-powered platforms were implemented in the pharma industry and retail sector. TCS iON had seven wins and served over 35 assessment customers. Lastly, MasterCraft™ and Jile™ won 10 new clients and 21 renewals.
+
+In Q3, Tata Consultancy Services added more clients in various bands: 1 client in the $100 million plus band, 12 clients in the $50 million plus band, 35 clients in the $20 million plus band, 30 clients in the $10 million plus band, 39 clients in the $5 million plus band, and 42 clients in the $1 million plus band.
+
+Rajesh Gopinathan mentioned that there was moderation in growth in certain verticals due to seasonality and macroeconomic uncertainties.
+
+There is an increase in large operating model transformation engagements and vendor consolidation. TCS has won 20 such deals in the first three quarters of FY'23.
+
+TCS has partnered with BT Group for its digital unit to boost modernization plans.
+
+Cloud transformation is a strong area of growth, with TCS winning several new cloud transformation deals.
+
+Examples of these deals include partnerships with Boston Scientific Corporation, an international savings and investment firm, and the largest online travel company.
+
+TCS has developed innovative solutions using predictive analytics, machine learning, and AI. One example is their AI-based solution for PostNord, which measures truck fill rate in real-time and has improved revenue yield and reduced costs. TCS also partnered with a biopharmaceutical company to create an AI-based solution that speeds up the processing of patient complaints about drug-device combination products. Another example is their solution for Toyota Material Handling, which uses AI/ML and NLP to improve field service teams' ability to diagnose and repair, reducing downtime by 10% to 15%. TCS has also been entrusted with integration or divestiture mandates due to their contextual knowledge and proprietary accelerators. For example, TCS supported Philips Domestic Appliances in their transition to become a digital-first organization, which is expected to result in a 10x growth in sales. TCS also helped a North American bank with a seamless merger, integrating new products and migrating customers and users to the acquirer's platforms. This led to the bank expanding into a new market and acquiring over 1.5 million new customers.
+
+In Q3, TCS was chosen by a European company to lead the global integration of a large acquisition. TCS will set up a transformation management office to enable faster realization of synergies and serve as a foundation for future mergers and acquisitions. 
+
+TCS partnered with a US media and technology multinational to build a digital ecosystem platform. TCS designed and implemented the solution using AI/ML for agile operations, proactive care, and preventive fault management. The new platform helped deliver personalized customer experiences and achieved high customer satisfaction ratings.
+
+TCS also helped a US money transfer service provider transform its technology estate into a modern cloud-powered platform. This enabled the client to launch new products faster, expand into new markets, and strengthen customer relationships. The transformation resulted in increased customer loyalty, reduced barriers, and created new revenue streams.
+
+Additionally, TCS was chosen by an APAC-based automotive manufacturer as their co-innovation partner in developing a next-gen instrument panel cluster. TCS services included product development, HMI, functional safety, cyber security, and other cockpit related products.
+
+In the Utilities sector, TCS was selected by Western Power, an Australian power generator and distributor, to design, deliver, and support a distribution system operator platform solution. This solution enables the client to orchestrate DERs, such as rooftop solar batteries, and dispatch excess electricity into new energy markets and services. TCS' solution also addresses critical issues like low voltage network visibility and optimization.
+
+TCS is also involved in transforming the transportation sector. They are working with Transport of London to prepare for an electric and autonomous future. In Q3, they won a deal to transform the railways sector in the UK by creating a rail data marketplace. TCS will combine fragmented sources of rail data into one digital service using their DeXAM platform and a leading hyper scalar cloud.
+
+The Q3 order book had deal closures totaling $7.8 billion, with BFSI at $2.5 billion, retail at $1.2 billion, and North America at $4.2 billion. The company focused on headcount efficiency in Q3 and expects to end the year with a 4% YoY headcount growth. They invested in capacity building in 2021 and plan to hire between 125,000 to 150,000 for the year. Cost optimization deals have started picking up and the transition from discretionary IT spending to cost optimization deals may be smoother this time.
+
+Rajesh Gopinathan said that different markets have different dynamics. In the UK, there are strategic, long-term deals focused on cost restructuring, and the company is participating strongly in those. In the US, they are cautiously optimistic about future deals and conversations with customers are balanced. In Europe, decision-making is slow and it's hard to predict the outlook. The performance of the retail segment has been strong, particularly in travel and hospitality. The CPG sector is undergoing transformation, with investments in direct-to-customer strategies, analytics, and sustainability. Retail varies by region, with grocery doing well and discretionary retail being market-specific. US retail sales have been stronger than last year, though profitability has been impacted by cost structures. The company believes the overall industry is attractive and they have the capabilities to participate and stay relevant to customers.
+
+Vibhor Singhal mentioned that the travel and hospitality segment faced challenges during COVID but is now experiencing a strong rebound, with Greece and Spain reporting high bookings. He asked if this momentum will continue in the coming quarters, assuming no more waves or lockdowns. Rajesh Gopinathan responded that if things continue as they are, the sector is expected to do well due to demand and supply constraints. Structural changes have been identified, and preparatory investments will be made by forward-looking customers. Sudheer Guntupalli asked why the IT services business remains strong despite inflation and geopolitical concerns. Rajesh Gopinathan explained that IT is not totally discretionary and the tech needs of enterprises evolve over time.
+
+The technology landscape has stabilized compared to five years ago. There is less variety and more convergence on main platforms and architectural elements. Enterprise investments are focused on larger programs. The difference between the product space and services space reflects this. The medium term growth prospects for TCS are positive. In the US, growth is expected. In the UK, there are challenges but TCS is participating well. In Europe, TCS believes they have the capabilities to participate once the geopolitical situation calms down. There is confidence in TCS's ability to be relevant to customers across different scenarios. There are more cost take out deals in the pipeline, but the decision-making speed is not mentioned. The competitive intensity for such deals is not mentioned.
+
+Speed varies by markets. UK has fast decision making and lots of action. US is normal but cautious. Europe has significantly slowed down decision making.
+
+Competition is complex, narrowing down to a limited set of competitors. People are aggressive and hungry, but the competition set is narrower than before.
+
+There is no rethink on capital return mode. Growth is benchmarked to net profit or free cash flow trajectory.
+
+Buyback will be considered when possible from the regulatory perspective.
+
+Cloud adoption journey is one-third complete. Some customers face challenges with cloud costs and need help with transformation and architectural planning.
+
+Migration of complex workloads is ongoing, but acceleration is not expected in the next couple of years.
+
+Execution, rigor, and operational capabilities are needed for the steady move towards cloud adoption.
+
+Sandeep Shah asks if IT budgets in CY'23 will be conservative in the first half but normal in the second half. Rajesh Gopinathan says it's unlikely to be different in the UK, but in the US they need to wait and see. Europe will be more cautious this year. Sandeep Shah asks about pass-through costs, Samir Seksaria explains there has been an increase. Ravi Menon asks about growth in Regional Markets and Others segment, N G Subramaniam talks about opportunities in the digital core for banking, capital markets, and insurance.
+
+- Tata Consultancy Services announced a large deal win with Chinatrust Banking Corporation.
+- They are working on modernizing core banking systems with open banking and open APIs.
+- Opportunities are opening up in the banking and capital markets.
+- Travel costs have increased sharply, but they expect them to continue increasing as normalcy returns.
+- There was no budget flush in the previous quarter.
+- Budgets for CY'23 may be delayed due to indecision, but it is speculation at this point.
+- There may be cautious spending and lower budgets in the US due to indecision and cost takeout projects.
+
+Rajesh Gopinathan acknowledges that the US TCV is down sequentially and year-on-year. Gaurav Rateria asks if ACV growth could be lower than TCV growth and if it indicates future growth. Rajesh Gopinathan says there hasn't been much change in the mix of deal structures and mentions an elongation in decision making. He also notes that the qualified pipeline growth is ahead of actual TCV growth. Gaurav Rateria asks about prioritizing margins and investments. Samir Seksaria says margins are dependent on investments. Ashwin Mehta mentions strong growth in regional markets and asks about its sustainability. Rajesh Gopinathan explains that it's difficult to predict the sustainability of the segment, but it has come from both markets and product side.
+
+Manufacturing has been more resilient than expected. Manufacturing growth expected to be better in the next two years. However, there are concerns about global supply chain disruption and energy prices. Approach is to stay close to customers and participate opportunistically. TCV signing is slightly lower than the average win due to delayed decision making and weak demand in Europe. The retail deal includes CPG and TTH. December quarter performance was good, with growth in INR terms and constant currency. Operating margin expanded and net margin was at 18.6%. Attrition in IT services is decreasing. Call concludes with thanks and no discussion about the impact of Chat GPT.
+
+The moderator thanks the management members. The conference is now over. Thank you for joining. You can disconnect now. The transcript is edited for readability.

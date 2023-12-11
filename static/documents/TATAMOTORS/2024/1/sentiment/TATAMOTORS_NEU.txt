@@ -1,0 +1,611 @@
+Tata Motors Limited July 25, 2023 Tata Motors Group Q1 FY24 earnings call transcript MANAGEMENT: MR. PB BALAJI – GROUP CFO, TATA MOTORS LIMITED MR. ADRIAN MARDELL – CEO, JAGUAR LAND ROVER MR. GIRISH WAGH – EXECUTIVE DIRECTOR, TATA MOTORS LIMITED MR. SHAILESH CHANDRA – MD TMPVL AND TPEML MR. RICHARD MOLYNEUX –CFO, JAGUAR LAND ROVER MR. DHIMAN GUPTA – HEAD, TREASURY, IR, M&A, TATA MOTORS LIMITED Presentation Sneha Gavankar Good day, and welcome to Tata Motors Q1 FY24 Results Call.
+I am joined today by Mr. P. B. Balaji, Group CFO Tata Motors; Mr. Girish Wagh, Executive Director Tata Motors; Mr. Shailesh Chandra, MD, Tata Motors Passenger Vehicles Ltd and Tata Passenger Electric Mobility Ltd; Mr. Dhiman Gupta, Head Treasury, IR and Mergers and Acquisitions; Mr. Adrian Mardell, CEO, Jaguar Land Rover; Mr. Richard Molyneux, CFO, Jaguar Land Rover; and my colleagues from the Investor Relations team.
+As you would be aware, we have today also announced the corporate action involving cancellation of A ordinary shares and issue of ordinary shares in consideration through an NCLT scheme of arrangement.
+We plan to start our call with a brief presentation on the corporate action followed by Q&A on the topic.
+We will then commence the results presentation at 6:30 P.M. As a reminder, all participant lines will be in listen-only mode, and we will be taking questions via the teams platform, which is already open for you to submit your questions.
+You are requested to mention your name and the name of your organization while submitting the questions.
+I now hand over to Balaji to take this forward.
+Tata Motors Limited July 25, 2023 P. B. Balaji Thank you.
+Firstly, thanks everybody for joining this session.
+I think this is one particular topic that has been raised with us in multiple forums and multiple times.
+And we have always had a challenge in terms of how to go about cracking this, given the various rules, regulations of the scheme, of how the original shares were put together, what our Articles of Association allowed us to do it, as well as what the SEBI rules were, tax implication.
+There's a lot of issues that were there.
+And I think today we bring in front of you a pretty comprehensive set of actions that have been agreed with the Board, and the Board has actually approved this NCLT scheme of arrangement.
+And the person who has been working on this tirelessly has been Dhiman.
+And I want him to take you through the facets of the scheme for about 10 odd minutes.
+And then we will open up a Q&A that you may have.
+Dhiman, over to you.
+Dhiman Gupta Thank you, Balaji.
+As Sneha mentioned at the beginning of the call, we have a couple of slides here to walk you through the intricacies of the transaction.
+And then, we have a 15 to 20 minute Q&A before we start our usual results call at 6:30.
+Just starting off on this entire proposal, as you know, Tata Motors, one of the few companies had three classes of shares outstanding.
+We had ADRs outstanding on NYSE.
+We had ordinary shares listed on BSE, NSE, and then we had the DVRs listed on the Indian Stock Exchanges.
+In November last year, you would recollect, we announced our intention of delisting the ADRs from NYSE.
+That process got completed in January 2023, about six months back.
+Today, our Board has announced or approved an NCLT scheme of arrangement, which will cancel all our “A” ordinary shares and in consideration for such a capital reduction, we will be issuing ordinary shares to all our “A” ordinary shareholders.
+The consideration for this transaction has been set as such: for every 10 “A” ordinary shares, “A” ordinary shareholders will be getting seven ordinary shares as consideration.
+What does it mean?
+What does it do for the shareholders as a whole?
+It's a complete cashless transaction.
+There is no cash outgo, and neither does it impact our net debt or alter our nil auto net debt targets that we have set for ourselves.
+It's being done through an NCLT scheme of arrangement subject to various regulatory approvals and shareholder approvals.
+I'll cover that in a bit.
+And it is likely to take almost 12 months to 15 months for completion.
+Next Slide please.
+A little bit in terms of the context of the DVR’s and the reason and the rationale for this transaction.
+These DVR’s were issued almost 15 years back in 2008.
+They were issued at a 10% discount to the then prevailing ordinary share prices.
+They carried 1/10 of voting right and entitled the DVR holders to receive 5% higher
+Tata Motors Limited July 25, 2023 dividends.
+This was done in 2008.
+Along with Tata Motors, there were a couple of handful other companies who came up with DVR issuances.
+Most of those companies have now become defunct and Tata Motors is the only large corporate which has this instrument outstanding.
+In 2009, SEBI amended its regulation which did not permit Companies to issue such instruments in future, which carried either differential voting rights or dividends and hence the kind of market for this instrument never evolved.
+You can see the table below how it has trended, since it was issued.
+For over the entire 15 years, the average discount is about 43%, which is where it kind of closed yesterday, and in between, in the last five years, three years, last 12 months, the average discount itself has been around 50%.
+We have been approached by shareholders multiple times in the past, to take certain actions, which can help support the price.
+Next Slide please.
+Yeah, so the proposed scheme as I mentioned is being done through a NCLT scheme of arrangement and the consideration that is being offered to the “A” shareholders is 7 ordinary shares for every 10 “A” ordinary shares, or you can say in a way it's 0.7 ordinary shares for every “A” ordinary share.
+What's the taxation impact of the shareholders?
+It's a capital reduction, which is different from a merger transaction.
+So, even though the consideration is being in a non-cash form, it is going to be taxable in the hands of the shareholders.
+So, capital gains tax will be applicable depending on the shareholder's tax status and resident status.
+Further, the distribution of the shares by Tata Motors to the shareholders will be treated as a deemed dividend, and there will be certain withholding taxes on those deemed dividends as is applicable in the case of a normal dividend.
+The scheme will also call for formation of a trust, which is to be managed by an independent trustee.
+The role of the trust would be to receive all the ordinary shares that are being issued to the “A” ordinary shareholders as consideration for this transaction.
+The trust will then will appoint a merchant banker to sell such number of shares in the market through a block deal to realize the cash to settle the withholding tax liabilities that Tata Motors has towards the deemed dividend and any other, and the capital gains withholding tax for non-resident shareholders.
+And, the rest of the shares on a net basis will be distributed or credited to the Demat account of all the “A” ordinary shareholders as per their holding in the company.
+As I mentioned, this requires various level of approvals.
+It requires the approval of SEBI and stock exchanges, and once we have the SEBI and stock exchange approval, it goes to NCLT.
+As part of the NCLT process, we will be taking 75% approval from “A” ordinary shareholders as well as 75% approval of ordinary shareholders.
+And since the promoter Tata Sons also has a small shareholding holding in “A” ordinary shares, and shares will be issued to them, we will also be taking a majority of minority of the shareholders for the scheme to go through.
+We also require approval of creditors, obviously, since it's a non-cash transaction, we don't see too much of an issue.
+And then finally, NCLT approvals and all the other approvals are available.
+In terms of, the proposal for the capital reduction consideration of 0.7 or 7 ordinary shares for every 10 “A” ordinary shares, we had PWC go through, who are the registered values for this transaction.
+And then, we had two merchant banks giving a fairness opinion from the perspective of both “A” ordinary shares and ordinary shares.
+So we had
+Tata Motors Limited July 25, 2023 Citibank giving the opinion for “A” ordinary shares, and we had Axis Capital doing it for ordinary shareholders.
+Next Slide, please.
+Yeah, in terms of impact on TML share capital, this table kind of runs you through, what is the share capital base of Tata Motors, both for DVRs and ordinary shares, pre-transaction and post-transaction.
+I am not going to read out all the numbers here.
+Any clarifications, we're happy to take it offline.
+15 crore, which means that there is a 4.2% value accretion or EPS accretion for all the shareholders.
+Next slide, please.
+And it's a non-cash transaction.
+They don't have to relinquish their shareholding.
+So, with the ADRs delisted and the “A” ordinary shareholding being capital reduced in lieu of ordinary shares, we completely consolidate all our trading into ordinary shares, which is what most Indian companies do.
+Next slide.
+Yes.
+So, I see a couple of questions kind of coming through on the chat box.
+We will have another 15 minutes to take additional questions that you might have.
+Post that we'll kind of continue with our results call.
+Anything, questions pending we will take at the end of the session or our IR teams will revert to you.
+Yes, maybe what – we will just cover or summarize the taxation impact of this transaction, and also the trust structure.
+Anish, can you?
+Yes.
+So, we've got a slide in the annexure on the taxation impact of the transaction.
+I'll encourage all of you to go through it separately.
+We can clarify something offline.
+But as I said, this will be a taxable transaction in the hands of “A” ordinary shareholders.
+And the company will be withholding the applicable withholding taxes for each “A” shareholders will be deducted by the company.
+And the shares will be credited to each holder's account on a net basis.
+So, what are the taxation impacts that will come, that the company will be deducting?
+One is, the distribution of ordinary shares, it will be treated as a deemed dividend.
+So, there will be a withholding tax on that deemed dividend, basis the applicable tax rate on the various residency of the shareholders.
+The tables for such withholding rates are indicated in the table below.
+For non-resident holders specifically, law requires the company to withhold the gains on the capital
+Tata Motors Limited July 25, 2023 gains, so we will be doing that for the non-resident shareholders, which is about 2% of our overall shareholding base.
+When the trust sells the shares on the stock exchange to recover the withholding taxes, if there is any gain on the shares from the time of issue to the time they are sold, they will be deducted.
+Short-term withholding tax will be deducted.
+And then, other standards, securities tax, brokerage tax, etc, will apply.
+The point to note is that the deemed dividend that applies onto the company, the shareholders will be getting a credit in the capital gains tax.
+And whatever withholding taxes we are deducting, the shareholders will be issued certificates against those withholding tax, so that they can offset it against the taxes that need to be paid at their end.
+Yeah, next slide.
+We've got a schematic on how the trust is being put together to effect the withholding taxes that need to be deducted.
+So Tata Motors will be the settler of the trust.
+We will incorporate the trust and we will be funding the trust to take care of the initial setup cost.
+The independent trustees will be appointed by Tata Motors and they will be responsible to execute the purpose of the trust through a trust deed.
+It will involve the trust to receive all the shares, the ordinary shares, forming part of the transaction consideration.
+The trustees will appoint a merchant bank who will compute the number of shares to be sold to recover the withholding tax liabilities on a per shareholder basis, through a sale of shares on the stock market.
+Once these liabilities, withholding tax liabilities are either, transferred to Tata Motors to pay to the income tax or directly to the income tax government, the balance cash consideration, the balance shares on the net basis will be issued to the shareholders along with any surplus cash for fractional entitlement, etc., will also be distributed directly to the shareholders.
+The trust will be set up prior to the effective date once the approvals of the shareholders, etc.
+are received.
+P. B. Balaji So, if you want to take a question on this, Dhiman, I think there are a few questions on the line.
+Dhiman Gupta Yes.
+P. B. Balaji When will this cancellation of “A” ordinary shares, let me just publish this question.
+Just give us a minute, please.
+So, will the number of shares issued to “A” ordinary shareholders differ depending on the tax liability for each category of investors, like mutual fund, individual NRI, and how do you intend to manage it?
+Dhiman Gupta Yes, so the consideration that is going to be issued by Tata Motors will not change.
+So, the ratio will still be 0.7.
+So, at a Tata Motors level, what is issued to the trust doesn't change.
+The trust then decides the number of shares that it needs to sell to recover the withholding tax liabilities, bases the tax residencies of each and every shareholder.
+And as you see from the table, the withholding tax liabilities are different for different classes.
+So for domestic shareholders, it's 10%.
+Domestic shareholders form above 30% of our shareholding base in “A” ordinary shareholders.
+You have mutual funds and insurance companies, the withholding tax liability is 0%.
+You have FPIs at 17%, and then for NRIs, it's slightly higher, who are about 2% of our capital base.
+So yes, you are right from a Tata Motors perspective, the number of shares which
+Tata Motors Limited July 25, 2023 are issued doesn't change, but the net that is received by the shareholders post the trust selling shares to recover the withholding tax liabilities will differ.
+P. B. Balaji Yeah.
+Okay, thanks.
+Another one is, when will this be operational?
+When will the cancellation of “A” ordinary shares and issue of ordinary shares be done?
+Any timeline?
+Dhiman Gupta Yeah, so, there are a host of steps that we need to go through before we reach that.
+As I explained, we first need the SEBI NOC approval, post that we will be filing a petition with NCLT to admit the scheme.
+We then go to an EGM, where it needs to be approved by the requisite majority of shareholders.
+Post that, we need various other approvals from NCLT.
+We expect this to take anywhere between 12 to 15 months.
+Once the NCLT approval is received, and we file the scheme with the ROC, the scheme becomes effective.
+And the shareholders who are holders of “A” ordinary shares on the record date that is determined by the Board of the Company after the NCLT approvals are received, their shares will get extinguished and ordinary shares will get issued in lieu of that.
+So yes, it would be about 12 to 15 months.
+P. B. Balaji Okay.
+Fair enough.
+And second question is, so what happens in between if share prices changes?
+No impact at all because the consideration has been fixed today.
+Dhiman Gupta Yeah.
+So it's not a cash consideration.
+It's a relative ratio.
+So, irrespective of how the “A” ordinary shares trade from here on, the ratio of 7 ordinary shares for 10 “A” ordinary shares doesn't change.
+P. B. Balaji Okay.
+Can you throw some light?
+Dhiman Gupta Yes.
+So, interesting question.
+I think, probably the most challenging part of this equation, I think the valuers, PWC, who were the valuers to this transaction and Citi and Axis who were the fairness opinion, they put various angles on this number.
+I think at one hand, the perspective was that the “A” ordinary and ordinary shareholders have the same economic rights, they have the same liquidation rights, other than the voting rights, which are different.
+And for the voting rights, they were issued at a 10% discount originally.
+And, on the other hand, for various market factors, the DVRs have traded at a deep, deep discount of 50% or 40% and various other numbers, which is the other reality.
+I think they have given weightage to both facets of the equation.
+And they've given different weightages, I guess, the market factor is a reality, the economic equality was a reality at the time of issue.
+Tata Motors Limited July 25, 2023 P. B. Balaji Fair enough.
+I think one more question in terms of what will be the issue price to the trust?
+Actually, that may not be relevant because you're going to issue seven ordinary shares in lieu of the 10 “A” ordinary shares that are being canceled.
+So therefore, there's no price implication at this point in time.
+It's a differential, it's a proportion to what the ordinary to “A” ordinary number is.
+That's what is more relevant, which is already being fixed now.
+And I think the record date, a lot of questions related to the process.
+All I can say is that at this point in time, we are getting into submitting the schemes in the NCLT over the next 15 days, that's priority one.
+And there's enough time between now and by the time the NCLT final process comes for us to engage again and again.
+But, since it's a significant event, we thought we will come upfront about it and talk to all of you today about it.
+I think with this, let's probably wind up the questions related to DVRs and move on to the results presentation, please.
+Can you put it up, Anish?
+Okay.
+Thanks to all of you for joining the session on the results piece.
+On the Safe Harbor statement, I will just draw your attention of one accounting policy change that is coming through from a JLR IFRS perspective.
+This does not impact consolidated results.
+It only impacts JLR IFRS numbers, where grant accounting, which they had earlier done on net basis is now moving into gross basis.
+And that accounting is having an impact on the EBITDA numbers which is being called out in the respective slides.
+Nothing material there, but something that’s just a call out here.
+Next slide, please.
+A set of series of actions that are coming in there.
+Otherwise, from a JLR perspective, the order book of 185K as well as the launch of the Agratas, Tata Son's arm that is investing in battery cells, launching and announcing its manufacturing facility to supply, i.e.
+to manufacture in the UK.
+That was a big announcement last week.
+Next Slide, please.
+5,300 crores, a swing of almost ~Rs.
+10,000 crores over last year, same time.
+Next Slide, please.
+Where did this growth come from?
+So with this, let me hand it over to Richard.
+Richard, are you there?
+Hello?
+Richard, can you hear us?
+Tata Motors Limited July 25, 2023 Richard Molyneux Hang on, can you hear me now?
+P. B. Balaji Yes, I can.
+Go ahead, Richard.
+Richard Molyneux Perfect, okay.
+Well, look, I'd actually like to hold on this chart.
+Where's it gone?
+Where's the chart gone?
+P. B. Balaji One minute, one minute.
+Richard Molyneux There it is.
+I'd actually like to hold on this chart for a couple of seconds, partly because it's a stunning picture, but also because it's a perfect reflection, an exemplar of our modern luxury strategy at JLR.
+It's the Range Rover Sport SV, Edition One.
+Over 2,000 of them, at a price of between GBP160,000 and GBP190,000, and they're all reserved before we've even started production.
+That's what JLR can do.
+I will say that there's one sort of one-off item within that 8.6% EBIT, so the underlying is more like 7.5%, but that underlying item to do with the manufacturing absorption is non-cash item.
+Okay.
+So, if we move forward.
+So, this is a summary of what I've said.
+The only additional points to note on here is our order book remains strong, 185,000 units, 76% of which are still Range Rover, Range Rover Sport and Defender.
+The next chart, please.
+Okay.
+In terms of volumes, this shows wholesales at the top and retails at the bottom.
+The story is fairly similar in both counts.
+The biggest impact in that is Velar, where we're moving to a facelifted mid-cycle refresh of that car in '24 model year.
+So, we're in the middle of the transition between the old Velar and the new Velar.
+That's the biggest impact there.
+But I will call out Defender.
+Defender is now consistently running at a rate of over 100,000 vehicles per year.
+And it is winning awards.
+Discovery and Jaguar at the moment in their current incarnations are relatively flat.
+Okay, next chart please.
+This looks at the same number set but splits it by region rather than by brand.
+And the JV within China is making money.
+It had PBT of GBP19 million in the quarter.
+EBITDA of 15% and EBIT of 4%.
+We do have some small challenges in within the UK and Europe.
+So, there's always a seasonality between Q4 and Q1 within the UK.
+They're not generic in the same way that they were beforehand, but we still have some constraints within our PHEV supply system, and the PHEV, particularly on the Range Rover where there is a pure electric range of over 100 kilometers, is in extremely high demand and we're still working with our supply base to bring supply up to the level of that demand.
+And that is all to do with the supply constraints that we have in terms of PHEV availability.
+So, we then move to the next chart.
+And profit after tax, by the way, is GBP323 million.
+So, that walk is largely volume and mix.
+But if you look at the split within that, there’s actually more of it which is mix.
+But we need that, because one representation is that we also have inflation within our structural cost base, both in terms of labor and the utilities, and even the interest that we pay in our debt, which is slightly related to inflation.
+This stuff is never instant in terms of its impact.
+Admin is largely our transformation, so the
+Tata Motors Limited July 25, 2023 biggest impact there is in terms of our digital cost, our digital transformation, and engineering I'll talk about in a minute.
+FX did exactly what you would expect in the quarter.
+But we were c. 60% to 70% hedged on that exposure, and therefore we have a hedge pickup that you can see there.
+So, that is what generates our GBP435 million worth of profit before tax, as I mentioned before that turns into GBP323 million after tax.
+Next chart.
+This shows the walk from PBT to cash.
+When you take the PBT net out D&A and other non-cash items and take off cash tax, you get to a cash profit after tax of GBP 1,135 million.
+And what that does, even with GBP 700 million worth of investment, is it generates a GBP450 million free cash flow.
+And that GBP 450 million of free cash flow is without any working capital impact.
+Next page.
+So, the next page does talk about investment.
+So in total, GBP 697 million, which GBP 174 million is capital.
+The rest is engineering.
+This is natural.
+This is part of our cycle plan.
+Between 2024 and 2026, we have EMA, we have new Jaguar, and we have MLA BEV coming, and the engineers are working hard on those programs.
+And those programs are the ones which are already past their capitalization gates.
+So, this is a natural part of our cycle that will probably stay at these levels for a few months.
+So D&A is virtually exactly the same as the amount capitalized.
+Next page.
+So if we move into a business update, so on the left hand side here you can see our wholesale volume.
+We still do have chip and other supply constraints.
+I've mentioned PHEV beforehand.
+We do expect them to slowly reduce over time but we're still in the phase where our production systems are flowing but they're not flowing as fluently or automatically as we'd like.
+It still requires very active management on our side to make sure that we're looking through our supply base to identify problems.
+And we're working, for example, in the world of AI and digital science with a company called Everstream to try and look through our supply base much more cleanly through to Tier 1, Tier 2, Tier 3 and Tier N to be able to get insight of any problems that are coming.
+So it is working, but it's not a perfectly functioning machine as of yet, still requires active management.
+Next page.
+This is absolutely crucial for us.
+This is the rate of production of Range Rover and Range Rover Sport in Solihull.
+So we will be able to take Range Rover, Range Rover Sport production over the 3,000 units per week barrier.
+That's really important for us, as we try and build
+Next chart.
+So there's two examples here of what we've been up to this quarter.
+There's '24 model year Range Rover Evoque on the left-hand side with a much tighter, neater exterior package, and new technology.
+So the PHEV on this car now goes 35 miles, sorry, 39 miles on a pure electric charge.
+But it's not just exteriors.
+Interior‘s on the right-hand side.
+This is Discovery Sport.
+A massive change on the interior of the car, very much in-line with our modern luxury vision, and the way that we want to take the Discovery brand in terms of its focus on family, on stowage, on seating, and on wellness.
+Next chart.
+Yet we may not have the type of vertical automotive synergies that you get within a VW world, but the scope of the businesses within the Tata empire allow us to access synergies, that no vertically integrated OEM would be able to generate, and this is one absolutely perfect example of that.
+Next chart.
+So, outlook for the rest of this year.
+So our priorities, you can read there, continue to work on supply availability, focus on continuing to drive our brands, vehicles such that, that you saw at the start on that chart, the Range Rover Sport SV, drive activation, drive orders, and execute our reimagined plans flawlessly.
+So I'd like to thank you for your time and hand back to Balaji.
+P. B. Balaji Thanks Richard.
+Next Slide please.
+Moving on to commercial vehicles.
+Next Slide.
+Sorry, let's go back to the slide.
+Next Slide please.
+Next Slide please.
+Tata Motors Limited July 25, 2023 Overall call out.
+Next Slide.
+Overall numbers.
+900 crores.
+Next Slide, please.
+Where did the monies come from?
+Fundamentally on volumes as well as on realization.
+This is what, it just tells you that we are on strategy, and that's more or less explains the entire lot.
+Next slide, please.
+Let me hand it over to Girish to take you through the business highlights.
+Girish?
+Girish Wagh Yeah.
+Thanks, Balaji.
+Because when we migrated to BS6 Phase 2, I think almost entire range we have changed completely.
+So, I think as a result of this, we had a high amount of change content.
+But as we ended the quarter, we are out of it and we are back to the required level of production now.
+And we have now around 16% of our sales being generated from digitally driven channels.
+We also followed it up with, first of its kind, an influencer testimonials and advocacy event, wherein we had more than 250 influencers testing our vehicles and giving their positive testimonials.
+And towards this, we will have to drive the BS6 Phase 2, both product and brand superiority in the micro segments and markets.
+I think, we have now the FAME certificates available for all the variants.
+Anish, next slide.
+On the new businesses, on electric mobility, as a part of the CESL first tender, we have now deployed more than 100 buses, so almost 180 buses that we have deployed in Q1 of FY24.
+And we have now more than 600 buses which are operational.
+The new buses that we have deployed, within three weeks, they have covered almost 5 lakh kilometers and total our electric buses have now covered more than 75 million kilometers.
+Overall, we sold 600 electric vehicles in the quarter that's including ACE and the buses.
+And as I mentioned, we now have the FAME certificate for most of the applications with which we will start ramping up the retail.
+In addition to this, after we signed the agreement with Cummins for formation of a JV, actually the new wholly owned subsidiary was set up to develop and manufacture a range of low and zero emission powertrains as a continuation of agreement that we had signed with Cummins.
+Coming to the smart city mobility, the DTC CESL operations, as I said, started from 29th June.
+More than 200 buses have been deployed.
+And the e-bus fleet, the earlier one as well as the new one, has crossed more than 75 million kilometers and the operational revenue in the first quarter was around Rs.
+133 crores.
+Moving on to the digital businesses, Fleet Edge now has almost 450,000 vehicles on the platform.
+We had two options, a basic as well as an advanced one.
+And equal interest being shown in both the subscription models.
+Tata Motors Limited July 25, 2023 FY23.
+So that's the summary of the CV business.
+Back to you, Balaji.
+P. B. Balaji Thanks, Girish.
+Next Slide, please.
+Moving on to PV.
+Next slide, please.
+On the EV side, we ended the quarter at 19,000 units, on track now for 100,000 kind of volume for the full-year basis.
+The new launch is also lined up.
+Next slide, please.
+I'll talk about it in a minute.
+And draw your attention to the PV EV financial split, that is there.
+One is we had IPL in the early part of the year where we had Tiago EV on full blast in IPL, which has given us substantial order intake, and that will not be there in the second half of the year.
+And, then on top of it, if I add PLI, which we have now filed for Tiago EVs, the ARAI certificates have been received, and now we're going to the next phase of filing to the ministry.
+So, the other way the overall EBITDA is just a mix issue that is playing out, but the individual portions have their own plans and own strategies.
+Next Slide, please.
+Let me, the same number playing out, if you look at the volume, mix realization, variable cost, all trending in the right direction.
+The investment that we are making in terms of additional employees coming on board, more FME being put into the EV business for IPL, those are the stuff that are playing out in the numbers that you see.
+Next Slide.
+Let me give it to Shailesh to take you through the business.
+Tata Motors Limited July 25, 2023 Shailesh Chandra Thank you, Balaji.
+So let me start with the industry.
+And this is on the back of several new launches which have happened in the industry, including Tiago EV for Tata Motors.
+So that's what's been happening in the industry.
+We have maintained our number one position in the compact SUV segment, which is combination of Nexon and Punch.
+And number two in the number two in the high SUV segment, which is Harrier and Safari.
+So, that has been broadly the highlights of the industry and passenger vehicle and EV business.
+The demand is held at a very high level.
+We also know that last year the festive season was in September, October, which is now going to be October and November.
+As far as we are concerned, we'll focus on retail momentum in quarter two.
+A lot of marketing actions that we have planned for, as far as our growth is concerned in hatches, Tiago and Altroz will be the key focus.
+While
+This is something which we will drive.
+So that's the update from my side, back to you Balaji.
+P. B. Balaji Yeah.
+Thanks Shailesh.
+2,000 crores, almost entirely explained by working capital.
+And this is seasonal, particularly driven from CV.
+It's reversing going forward.
+Next Slide.
+On the Capex side, we are guided for Rs.
+8,000 crores, and we are on track for that.
+Next Slide.
+Tata Motors Finance.
+Let me take a few minutes on this one.
+AUM of ~ Rs.
+42,000 crores.
+191 crores.
+539 crores.
+And we will continue to be focused on this one.
+In the meanwhile, the demerger of the NBFC business of Tata Motors Finance into Tata Motors Finance Solution has been completed.
+And therefore, all lending activities have now been consolidated into one entity.
+And one NBFC license will be surrendered in the coming days.
+Next Slide.
+You've seen all the information on this, and we hope to continue this trend in the coming days and would be engaging with the agencies proactively.
+Next Slide.
+So, the priorities for the respective businesses are clear, and we intend to execute them flawlessly.
+And this quarter is one of just executing what we said we will do.
+And it's our intention to keep repeating that in the coming quarters as well.
+Tata Motors Limited July 25, 2023 Questions and Answers session So, with this, let me open up questions, which is a fair number of them that have already come up.
+And let me start.
+I think there's lots of questions coming to your way Richard and Adrian.
+So, let me start.
+First is the question related to depreciation expense on a quarter-on-quarter basis.
+Any reason why that's coming down?
+And second is, how are the demand trends that are there for the various segments?
+And, can you just talk about that?
+Richard Molyneux Okay.
+That's the natural effect of the wind-out of the impairment that we took a couple of years ago.
+It's entirely natural.
+It's consistent in Q1 with the fall in Q4, so no change there.
+The order bank is still 76% of the big three, which is exactly the same as last quarter as well.
+So we're pretty much seeing the ongoing trend, we called out six months ago, and we'll continue over the next six months for sure.
+P. B. Balaji Thanks Adrain, I think question, Shailesh your way.
+I thought we had covered in my section, but you further want to add light on that?
+Shailesh Chandra Yeah, Balaji, I think you pretty much covered.
+And, yes, we also are seeing costs coming from Sanand 2, which is the Ford plant that we had acquired in TPEM.
+All these are for the right reasons, right?
+P. B. Balaji Thanks, Shailesh.
+I think Girish next set of questions coming here, there are a series of questions on two themes.
+What are we going to do with respect to restoring market shares?
+And are we having a rethink or how do you want to think about profitability versus market shares?
+We spend some time on these two?
+Tata Motors Limited July 25, 2023 Girish Wagh Okay.
+So, I think first of all on the demand environment, if I were to limit myself to the second quarter.
+And depending upon the segment, I think it will vary between 5% to 10%.
+So, that is what we are looking at currently.
+I think there is also a subset question here, Balaji, about July.
+That is the target that we have set for ourselves.
+This will be followed by a lot of BTL activation to communicate this to individual customers and a lot of back-to-back trials to prove the benefits.
+The way we have done right from the beginning of Q3 of the last year, Balaji.
+P. B. Balaji Thanks, Girish.
+Richard, this is coming your way.
+Let me summarize a few themes that are coming out.
+One is, Q2 in particular, this quarter, we delivered 93,000.
+That's one set of questions.
+Second, I think linked to margins, which you have touched about briefly but there is a lot of curiosity around it, saying that first of all, it is 8.6% for the quarter, but you said there's some one-offs there.
+What are these one-offs?
+You're saying underlying 7.5%.
+How does that math work out?
+Number one, two, and number three.
+This is the kind of number.
+How do you then look at 6% EBIT margins?
+Can you talk about these three?
+Tata Motors Limited July 25, 2023 Richard Molyneux Yes, absolutely.
+So, the first issue, are we comfortable on 400,000 for the full year?
+Yes, we are.
+So, we have said that Q2 will be similar to previous quarters, and that was 95,000 units in Q4 last year and 93,000 units this quarter.
+We're already putting some inventory in the system to allow us to sell higher volume in the back end of the year.
+And I also mentioned that we have a second body shop coming on stream for our MLA Range Rover and Range Rover Sport that will impact us in the back end of the year.
+So, yes, we are still in line with 400,000 units commitment for the full year.
+In terms of the second question, in terms of the one-offs, the effect of building 10,000 units more than your wholesale, is that a proportion of our manufacturing costs gets absorbed onto the balance sheet.
+That during the quarter was GBP60 million.
+That's by far the biggest of the one-offs.
+And then in terms of the guidance, what we've said is we'll review it in three months time.
+And if we, if the world progresses as we expect it to, then we'll review it.
+And certainly on the P&L, the EBIT side of things, it wouldn't be impossible that we would revise it upwards at that time.
+P. B. Balaji Thanks Richard.
+Adrian, this is probably for you, both in terms of demand again.
+How's the order book in China?
+How's it looking?
+And elsewhere, I saw another question.
+Can you just talk about the demand situation in your various markets to give us a sense of how is it playing out?
+Order banks don't build in China quite like they would do in UK and Europe.
+By the way, the customers do like stock on the ground, so to some extent we actually see the ongoing order bank in China be fed by more product actually being put into the marketplace, and Richard mentioned, that we are putting more product onto the water to enable that in the second half of the year.
+The actual order bank number for China, the team have just shown me, is just over 10,000 units, but order banks in China don't get built in other way, other regions will be 40,000 or 50,000, just the way they are.
+Can you repeat your second half of the question Balaji?
+I missed that, I'm sorry.
+P. B. Balaji The rest of your demand in various parts of the world, how are you seeing it develop?
+Tata Motors Limited July 25, 2023 Adrian Mardell I see.
+Okay, thank you, yeah.
+And the biggest regions that really are pulling demand for those three products are North America, Middle East, and reference back to the China comment as well.
+And from what we can see, that will continue for the balance of this year.
+So, should we get to the point at the end of the year that it starts to turn off, we particularly on fixed marketing, which would always be our preference.
+P. B. Balaji Got it.
+Let me flip it to Girish, on costs.
+How do you see the inflation there?
+And second one, Shailesh, coming at your end, PLI, how do you intend to treat those benefits?
+Girish Wagh So on the first one, I think what has a bigger impact in commercial vehicles is the steel, both flat and long.
+And as we get from Q1 to Q2, the prices will go back to Q4 levels.
+Shailesh, over to you.
+Regarding how we are going to treat this in terms of pricing action, I think, you would have realized that a part of it is already factored in our strategic pricing in some of our models.
+And going forward, depending on how the overall competitive landscape pans out, we'll take calls.
+P. B. Balaji Yeah, thanks, Shailesh.
+On the same inflation point, Richard, coming your way, how are you seeing the decline in raw materials as we get into the second half of the year?
+This takes a while to feed through, obviously, we're significantly hedged on many of those materials.
+But we do expect it to net of hedging to flow through into the second half of the year.
+P. B. Balaji Thank you.
+I think there's one question on the battery plant.
+Maybe I will take that.
+The Capex for next year in JLR, does it include the new battery plant investment made by Tata.
+Just to clarify, both JLR and Tata Motors are not investees in this company.
+It's a direct, wholly owned subsidiary of Tata's Sons.
+Agratas is 100% owned by Tata's Sons.
+So we are both anchor customers here as both Tata Motors and JLR are.
+For the India plant, Tata Motors will be the anchor customer.
+For the UK plant, JLR is an anchor customer.
+So there's no cash outflow / investment being made by these companies into Agratas.
+Richard Molyneux Yeah, so look, our capitalization varies across our cycle.
+And it's because we have a fairly concentrated product cadence in 2024 to 2026, so a lot of our engineers are now working on programs at quite a late stage in their development cycle, and it's those programs at the late stage of cycle that tend to get capitalized.
+So it's something that varies through our cycle.
+We believe that sort of a long-term average, given where we are, it is more in the 50% to 60% range, and we would expect to stay sort of at the type of levels that we are now for the next few quarters.
+P. B. Balaji Yeah, thanks Richard.
+I think Adrian, this is an interesting question coming in.
+We have not seen much success of traditional global luxury car OEM’s EVs so far.
+What's your assessment of what's not working for them, and how will JLR be different?
+Adrian Mardell Yeah, thanks Balaji.
+No, so I think the observation behind the question is correct.
+And you have to segment the question, I think, and feed it to its different regions.
+So I'm going to do that, and I'm actually going to focus the answer on the China region, which is probably the most important changes in NEV, which is BEV and PHEV over the course of the last 12 months or so.
+It's pretty clear at the moment that industry in China, for NEV, I say BEV and PHEV, is really focused and concentrated around RMB 400,000 and below.
+That's where the industry is taking off.
+So from the bottom of the product range, if that makes sense.
+But it
+Tata Motors Limited July 25, 2023 does show that the transition above those transacting points, I'd say the RMB400,000 again, hasn't really taken off as yet.
+Now for us, our first launches of all BEV, will be MLA, which will go on sale, order later this year and on sale later next year and into China in 2025, early 2025.
+I think the most important things for us is that we launch a brilliant modern luxury product, which we will do.
+We will continue with our ICE offerings.
+And we will also electrify that product.
+Two years down the line, I think it's very difficult to predict exactly what the take up rate will be.
+But we're confident so long as we pass the criteria of it being a brilliantly refined, modern luxury, luxurious offering.
+Then in time, the transition from ICE to BEV will actually happen.
+We never actually believed that.
+And I think it's starting to show itself a little bit now.
+But we think we have a complement of power train in our most important products.
+P. B. Balaji Thank you, Adrian.
+Shailesh, this is coming your way.
+In terms of order backlog for your EVs and ICE portfolio, and what should be the industry VME given the kind of moderation and demand that you're starting to see?
+Shailesh Chandra So, as far as order backlog for both EVs and ICE, in general it is, in general the waiting periods are in the range of 3 weeks to 12 weeks, depending on the model and variant.
+As far as VME is concerned, the industry has kind of a tale of two cities.
+So, as far as we are concerned, our VME has been kept under tight control still.
+And, as and when the competitive situation demands that we need to do certain things for creation of demand, we will do that.
+P. B. Balaji Thanks, Shailesh.
+I think, Adrian, this is another interesting question coming in.
+Adrian Mardell Yeah, thanks Balaji.
+Concerned, no, but I think there's opportunities for us here on cost.
+I mean, I think we're on record previously say over the next phase as supply starts to increase and balance out with demand, which will happen.
+I mean, that's going to happen may be three, four quarters down the road.
+Then a couple of things we expect to happen.
+Tata Motors Limited July 25, 2023 percentage points.
+But we do think there's an opportunity on variable costs in three places.
+One, biggest of which is material costs for the inflationary items, which you just mentioned and referenced earlier.
+P. B. Balaji Thanks, Adrian.
+Shailesh, I think there's still a lot of clarification that is sought a sort on the EV margins, and can you just go through it once again.
+And let me, let me just call out some of the tailwinds, which are very clear.
+So that is going to be a big one.
+P. B. Balaji Linked to that to a few questions on the ecosystem of EV, including service technicians, etc, dealerships, charging network.
+Can you spend some time on that?
+Shailesh Chandra Yeah, so Balaji, today we have a shop-in-shop concept in the existing dealers.
+And the chart that you had shown in the presentation earlier shows that with the launch of Tiago EV, there has been a shift in terms of micro markets now.
+More than 49% of the sales of Tiago EV kind of a product is coming from other than the top 20 cities.
+And going forward, we also want to separate, ICE as well as the EV showrooms, as and when we see the volumes in certain cities, which go to a certain level where the separate channel becomes viable.
+Tata Motors Limited July 25, 2023 building the service capability from an infra perspective as well as also training the service engineers for those service stations.
+So, that is also an ongoing process.
+I believe I have covered both the points.
+P. B. Balaji Yes, you did.
+Thank you.
+And Adrian, this is coming your way in terms of the order book.
+Can you throw some color on that?
+One and maybe I'll ask the second question as well.
+The Land Rover brand can you confirm how much of the sales are actually coming from existing customers and as this has been any material change or anything to read there?
+Adrian Mardell Yes, Okay.
+I give you a data point.
+When we had pre-COVID, we would have had about 50,000 to 60,000 outside of the big three orders.
+One, because we haven't prioritized build.
+And two, because, and two by the way, because we now refreshed the vehicles - Discovery Sport and Evoque also.
+So that's what's been happening in terms of the existing order book.
+In terms of the loyalty, I'll just give you a data reference, because I don't have all of that data, but Range Rover has the highest loyalty in any brand at the moment, 41% actually of existing vehicle owners are then going to buy the Range Rover product.
+P. B. Balaji Got it.
+Richard, what would be the effective tax rate that we should assume for JLR?
+Richard Molyneux Tax rate this quarter is 26%.
+At the moment we have a deferred tax asset that's not on the balance sheet.
+UK long-term tax rates are 25%.
+P. B. Balaji I think there's another question.
+I will take it in terms of, are there any obstacles that are stopping us from actually stepping up our guidance or changing our guidance?
+What are we thinking about the guidance piece there?
+I think when we reflected on it, it was simple, just three months have passed in the quarter.
+We would just want to get more clarity on the year before we are able to touch around guidance.
+You know that from a delivery perspective our plan is the strategy hasn't changed, execution hasn't changed.
+We want
+Tata Motors Limited July 25, 2023 to keep executing it.
+And the numbers, I think once we have a better handle on the year we can talk about it, otherwise it'll be a bit premature.
+Yeah, and Girish, this is coming your way.
+Just on the BS6 Phase 2 transition, have we now fully transitioned, how should we view the performance of the segment from a volume and market share perspective?
+Girish Wagh So, I think I gave some color on this.
+So, yes, we have transitioned the entire portfolio to BS6 Phase 2.
+We will communicate that value.
+Balaji.
+P. B. Balaji Yes.
+Thank you.
+And Richard, this is coming your way.
+There are a few questions around this, particularly the 110 bps that we have called out as one-off and saying the underlying is more like 7.5%, implication of inventorization of costs onto the balance sheet.
+Can you just give some clarity on that?
+Richard Molyneux Yes, sure.
+So, I've mentioned beforehand, we produced 103,000 units in quarter.
+We wholesaled 93,000.
+That stock is valued on the balance sheet and its material costs plus some proportion of manufacturing costs.
+So, that manufacturing costs for those vehicles sits on the balance sheet, not in the P&L.
+When those vehicles are sold, that will reverse back out.
+So it's a timing impact of the stock buildup that we have.
+Hope that explains it.
+P. B. Balaji Yeah, I think we're now coming to the end of the questions.
+There are one or two.
+Let me pick up some of those.
+One is a question on cash, saying that we are having GBP4 billion of cash at JLR and Rs.
+8,000 crores of cash at domestic.
+Don't you think as a company, you're holding high levels of cash?
+I think our plan is to go to net debt free, and therefore we will look at all opportunities to see what are the best way to handle this cash.
+So we will keep working on that.
+And again, a same point on net debt.
+Do you believe that given your future cash flow generation, do you think you'll be net debt free earlier?
+Tata Motors Limited July 25, 2023 Repeat the same answer.
+Let's wait for another quarter or two before we are able to confirm that.
+We've just started the year.
+We'd want to place a few more quarters before we do it.
+I mean, I think with this we are now more or less done with the questions that are there.
+I'm not able to see anything that is new that is coming out.
+If there's one question on Tata Technologies IPO, saying that what's the timing that you have for that?
+We are working through the points that are there.
+And at an appropriate time, we'll let you know.
+So, I think with this, we are done with any questions, anything on WhatsApp, anything that's come through, nothing, right?
+So thanks a lot, all of you.
+Thanks a lot to my colleagues in JLR, colleagues here around the room, as well as people who have joined on the call.
+Really appreciate your probing questions, and thanks a lot for your support.
+And look forward to speaking to you again.
+Thank you.

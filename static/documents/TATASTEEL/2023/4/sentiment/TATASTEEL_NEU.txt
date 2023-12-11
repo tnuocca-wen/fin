@@ -1,0 +1,626 @@
+CORPORATE PARTICIPANTS T V Narendran, CEO & MD – Tata Steel Limited Koushik Chatterjee, ED & CFO – Tata Steel Limited Samita Shah, VP Corporate Finance, Treasury, & Risk Management – Tata Steel Limited CONFERENCE CALL PARTICIPANTS Alok Deora, Motilal Oswal Amit Murarka, Axis Capital Ashish Jain, Macquarie Kirtan Mehta, BoB Capital Mudit Bhandari, IIFL Pinakin Parekh, JP Morgan Prashanth Kota, Emkay Global Ritesh Shah, Investec Satyadeep Jain, Ambit Capital Sumangal Nevatia, Kotak Securities Vishnu Kumar, Avendus Spark Capital PRESENTATION Operator: Ladies and gentlemen, good day, and welcome to the Tata Steel analyst call.
+Please note that this meeting is being recorded.
+All the attendees, audio and video has been disabled from the backend and will be enabled subsequently.
+I would now like to hand the conference over to Ms. Samita Shah.
+Thank you and over to you ma’am.
+Samita Shah: VP CFTRM – Tata Steel Limited Thank you, Kinshuk.
+Good afternoon, good morning, and good evening to all our viewers joining us today.
+Welcome to this call to discuss our results for the fourth quarter and the year ending 31st March 2023.
+I am joined by our CEO and MD, Mr. T.V.
+Narendran; and our ED and CFO, Mr. Koushik Chatterjee.
+I will request them to make a few opening remarks before we open the call and take your questions.
+Before I hand it to them, I will remind you that the entire conversation today is governed by the safe harbour clause, which is on Page 2 of the presentation, which is uploaded on our website.
+Thank you, and over to you, Naren.
+T. V. Narendran: CEO & MD - Tata Steel Limited Thanks, Samita.
+Good morning, good afternoon, good evening depending on where you are.
+Just a few comments before I hand over to Koushik.
+In the US, prices were over $1,000/t.
+NINL is currently operating at a run rate of 1 million tons (crude steel plus pig iron) on an annualised basis.
+1,400 - 1,500 per ton provided during the last earnings call.
+Sustainability is at the core of our strategy and Tata Steel is committed to net zero by 2045.
+Our route and pace of decarbonisation across geographies will be calibrated for each location based on the local regulatory framework, government support, and willingness of customers to pay for the higher cost green steel.
+We commissioned PLTCM (Pickling Line and Tandem Cold Mill), which is part of the 2.2 MTPA Cold Rolling Mill Complex at Kalinganagar, and Full Hard Cold Rolled Coils are now being produced.
+The CAL (Continuous Annealing Line) and the CGL (Continuous Galvanizing Line) will be progressively commissioned in the next year or so.
+Moving to Europe, steel deliveries were at 2.1 million tons in the fourth quarter and around 8 million tons for the whole year.
+We have also commenced the relining of one of the blast furnaces at IJmuiden in early April, which will be completed in the first half of this financial year.
+Thank you, and over to you, Koushik.
+Koushik Chatterjee: ED & CFO – Tata Steel Limited Thank you, Naren.
+Good morning, good afternoon, and good evening to all those who have joined in.
+Let me give you a deeper sense of the financial performance.
+Our consolidated revenue stood at Rs.
+62,962 crores, while our EBITDA stood at about Rs.
+7,225 crores, which translates to a consolidated margin of 11%.
+At Tata Steel Standalone, EBITDA stood at Rs.
+8,089 crores, which translates to an EBITDA per ton of Rs.
+16,258.
+187 crores to Rs.
+962 crores due to higher production and notified IBM prices.
+571 crores in the third quarter.
+Taxes for the quarter stood at about Rs.
+We had previously explained that with each buy-in, a proportion or a portion of the accounting surplus of the pension is utilised to secure the insurance and a non-cash deferred tax charge is recorded in the profit and loss account.
+We had also guided that we expect this movement to continue till the full derisking is completed.
+We can confirm that the residual insurance of 38% of liabilities is currently underway and will be completed in 1Q of this financial year, subsequent to which the business will be fully de-risked from any pension fund exposure.
+The discussions with the UK government are still ongoing, but it remains uncertain whether adequate support for decarbonisation would be agreed.
+Given these circumstances, we have taken an impairment charge of Rs.
+11,070 crores in the Tata Steel Standalone books, reflecting investment in the overseas portfolio.
+Moving to the cash flows, operating cash flow for the quarter stood at about Rs.
+8,861 crores versus Rs.
+2.4 lakh crores or $30 billion.
+Our consolidated EBITDA stood at Rs.
+32,698 crores, which translates to a margin of 13%.
+Standalone EBITDA stood at about Rs.
+28,175 crores for the year and translates to an EBITDA per ton of Rs.
+15,467, while TSE EBITDA stood at about £477 million, which translates to an EBITDA per ton of about £58.
+3
+We spent about Rs.
+4,396 crores for the quarter and Rs.
+14,142 crores for the full year on capex.
+In FY2024, we will look to deploy about Rs.
+16,000 crores in capex, of which Rs.
+10,000 crores will be in India, largely focused on expediting and accelerating the Kalinganagar project.
+16,000 crores.
+Further, Blast Furnace 6 reline in IJmuiden in Tata Steel Netherlands will also form a part, and we continue to prioritize this strategic capex over the next 12 months.
+The free cash flow generated for the quarter was Rs.
+3,900 crores during the quarter and stands at about Rs.
+67,810 crores.
+Our financial strategy is calibrated to generate returns across the cycle, and our financial metrics remain within the mediumterm targets.
+Net debt to EBITDA is at 2.07x and Net debt to Equity is at 0.61x.
+As mentioned in the press release, the Board has recommended a dividend of Rs.
+3.6 per share.
+With this, I will end my comments and open the floor for questions.
+Thank you so much.
+QUESTIONS AND ANSWERS Operator The first question is from Sumangal Nevatia of Kotak Securities.
+Sumangal Nevatia, Kotak Securities: My first question is on the 5 MTPA Kalinganagar plant.
+Could you share some specific timeline as to where we are as far as the commissioning is concerned and what sort of volume growth, we can expect in FY2024 and FY2025?
+T. V. Narendran: CEO & MD - Tata Steel Limited Yes.
+So, Sumangal, basically as you heard from Koushik, we have commissioned the pellet plant and also the Cold Rolling Mill without the annealing and the galvanising facilities, which are going to come up over the next 12 to 18 months.
+In terms of volumes, it will come up in stages.
+But the new blast furnace will not have any impact on this financial year.
+It will have some impact in the next financial year because it is expected to come around March or April.
+Sumangal Nevatia, Kotak Securities: Understood.
+That is very clear.
+Thank you.
+My second question is on prices, both India and Europe.
+Could you please guide what we are looking at in terms of 1Q versus the previous quarter and in terms of cost how are the costs moving?
+4
+T. V. Narendran: CEO & MD - Tata Steel Limited As far as India is concerned, we are expecting this quarter to be Rs.
+The market is still looking for some direction, so keeping that in mind, this is what we feel.
+I would like to comment a little bit on the cost side.
+In terms of actual cost versus the spot prices, it will converge maybe in 2Q and 3Q with larger convergence in the latter.
+The deliveries will be of slabs which were produced last year.
+Sumangal Nevatia, Kotak Securities: Okay I got it.
+Just one last question, if I may, on this.
+I just want to understand when is the plant reaching the end of life and what is our strategy?
+I mean do we shut the plant if we are not satisfied with the support and what timeline are we looking at towards the final decision because we have been hearing about this negotiation for quite some time now.
+Could you guide a specific time plan, sir?
+T. V. Narendran: CEO & MD - Tata Steel Limited There are two types of assets.
+The downstream assets are fine.
+It is more the upstream assets which are reaching the end of life and those assets are reaching the end of life in the next 12 to 24 months.
+Whenever we feel it is unsafe to run the operation in discussion with all the stakeholders, we will have to take that call.
+This is assuming nothing comes out of any of these discussions or nothing close to what we want comes out of any of these discussions.
+In some sense we'll have to take a call within the next 12 to 24 months on the heavy end if there's no support from the government.
+Operator The next question from Prashanth Kota of Emkay Global.
+So, my question is regarding the European operations.
+It's been 15 years, we've done all the hard work, we've shown integrity, commitment, and compassion.
+Now we are in a situation where in the UK there is an end-of-life situation and in the Netherlands, the upcoming relining.
+5
+So eventually, we will need government help in both countries.
+So, in this situation, is it not a good idea to say quits?
+T. V. Narendran: CEO & MD - Tata Steel Limited So, Prashanth, a couple of comments.
+Firstly, we need to separate the Netherlands and the UK businesses because they are very differently positioned.
+The Dutch business has traditionally been one of the strongest steel businesses in Europe which may not have been so visible because it's always been under Tata Steel Europe.
+Just to give you a sense, in the last 15 years the Dutch business has not had to seek any support from India and has been able to take care of its own needs.
+We expect it to continue to do so.
+Even if we were to transition, yes, we need support from the government but also the Dutch business generates its own free cash flows, unlike the UK business.
+So, government support is important, but also because other governments are supporting other steel companies, so we also want to make sure there is as close to a level playing field as possible.
+So for those reasons, we will seek support from the government but it's not like it is in the UK where the cash flows of the business don't support the transition, and investment [inaudible].
+So there the call is, in some sense, more urgent, and we will have to discuss with all of the stakeholders, including the unions and everybody else and we will take the right call at the right time.
+Koushik, I don't know if you want to add anything to my response here.
+Koushik Chatterjee: ED & CFO – Tata Steel Limited No, that's fine.
+I think what you have summarised is the most relevant.
+These are two different businesses, which will have two different paths.
+As Naren mentioned, he is actually giving a timeline of 12 to 24 months.
+I am sure we will come back to you when the time comes and talk about our plans in detail.
+Prashanth Kota, Emkay Global: Sure, sir.
+The second question is regarding, given where the coking coal costs are, can we expect some more working capital release in the coming quarters?
+We are watchful about it, but we are taking, not just depending on the price, but also on the efficiency factors on working capital.
+But given the long supply chain, especially in Europe and elsewhere, we will look at working capital release through the year.
+This quarter also, in Netherlands, as they release the slab stocks for the sales, there would be some release.
+Operator The next question from Pinakin Parekh of JP Morgan 6
+Pinakin Parekh, JP Morgan Hello.
+I just wanted to understand what the cash burn was in Europe in the second half of FY23, between UK and Netherlands.
+Koushik Chatterjee: ED & CFO – Tata Steel Limited So in the UK, we normally have a burn of roughly £100 to £150 million in six months’ time whereas in Netherlands, we are sitting on cash of €600 million.
+So, there is no cash burn as such from Netherlands.
+Of course, when there are cycles of [inaudible] energy price increase, they will draw on working capital but otherwise they are sitting on more than half a billion euros of cash.
+Pinakin Parekh, JP Morgan And just to continue, for FY2024, the capex guidance is Rs.
+16,000 crores on a consolidated basis.
+Rs.
+10,000 crores of that is for standalone, so that implies, probably Rs.
+6,000 crores for subsidiaries.
+How much of that would be in Europe?
+As a consolidated entity, how much would Europe be able to fund of that capex and how much would be required from India?
+Koushik Chatterjee: ED & CFO – Tata Steel Limited No, so let me explain.
+I said Rs.
+10,000 crores is Standalone India which is Tata Steel limited, of which about 70% would be on the Kalinganagar project and 30% will be sustenance and other projects.
+And, when I say Kalinganagar, I'm also including the raw materials which are linked to Kalinganagar.
+So that's the proportion as far as India is concerned Then I said that there are other Indian subsidiaries, which are actually on an expansion mode, be it Tinplate Company, be it Metaliks and others which would be ~Rs.
+2,000 crores, and all of them are value accretive.
+Tata Steel Netherlands is going to spend about Rs.
+3,000 crores and this will be spent completely on their own.
+Of Rs.
+3,000 crores, Rs.
+1,100 crores is kind of one – off in the blast furnace reline and the rest of it is actually sustenance, environment, and improvement projects.
+And all of this will be spent by the Netherlands from its own cash.
+As far as UK is concerned, we are somewhere between, say, Rs.
+600 to 800 crores, which is again the critical capex of license to operate, safety, compliance and so on.
+So, this is broadly the mix as far as the Rs.
+16,000 crores is concerned.
+Pinakin Parekh, JP Morgan Thank you and just lastly, on the UK, one of the key investors’ concerns we get is that what kind of shock can a Tata Steel shareholder expect in 12 to 24 months from UK?
+What are the two extremes in terms of capital support, which would be required if either the company goes ahead to fund the new investment, or it has to shut down operations?
+Is it hundreds of millions of pounds number or is it billions of pounds?
+Can you give us some colour over there?
+Koushik Chatterjee: ED & CFO – Tata Steel Limited Yes, surely.
+So, I think, as Naren mentioned that it is not one bucket.
+The downstream assets are good assets.
+The distribution is an important part of the UK market and there are other value-added products which comes out from downstream.
+They are not reaching the end of life; they can certainly continue.
+When we are looking at the upstream facilities, I certainly think it is hundreds of millions and not billions, that much of a point I can make.
+And, secondly, it is also a question of addressing it in an orderly manner.
+Therefore, it's not a shock that we would be looking at, at least from 7
+a cash flow point of view.
+But it is how do you orderly address that issue depending on the conversations that happen with various stakeholders, and which includes the government, unions, and other stakeholders.
+We will have to find an alternative where the volumes continue from a downstream point of view.
+If there is a solution to it, which comes in between, we will see as to how it must be.
+But any incremental investment on a new asset will have to be value accretive, it cannot be one which does not have an investment case.
+Pinakin Parekh, JP Morgan I understand.
+That's very clear.
+Can we expect the old target of $1 billion a year?
+Koushik Chatterjee: ED & CFO – Tata Steel Limited I mentioned that last year's volatility in the markets etc meant that we had to focus on creating cash flows and also, we did the Neelachal acquisition which itself was about Rs.11,000 crores and along with some of the downstream ferro - alloys business - all taken together, it was Rs.
+12,000 crores.
+So, we expect to resume deleveraging this year at about Rs.
+8,300 crores, or about $1 billion.
+It may not be equally paced across the year.
+It will be more during H2.
+H2 is when we will have the ability, because just now honestly, our biggest priority is to allocate capital for Tata Steel Kalinganagar, because that is the most value accretive capital deployment that we can have at this point of time.
+Operator The next question is from Satyadeep Jain of Ambit.
+Satyadeep Jain, Ambit A couple of questions.
+Firstly, on Europe.
+I think in the accounts its mentioned that TS Global Holdings is looking to provide letter of comfort on refinancing of UK debt.
+Given, we are looking at different opportunities and options in the next 12 to 24 months, would it be prudent to take on that debt and refinance at TS Global Holdings?
+What is the thought behind that?
+I understand the conversations with the government whatever the headline figures are, one to two billion pounds, are tied to some support for downstream and upstream.
+If downstream assets are in good shape, does the company need that support from the government for downstream also?
+Or is support for upstream sufficient?
+Koushik Chatterjee: ED & CFO – Tata Steel Limited Fundamentally, the letter of comfort is not something new.
+First of all, all of the debt is reflected in the consolidated balance sheet.
+So, it's not new debt that we are taking on.
+[inaudible] What we have is the remnant of that debt, which originally was much larger.
+And this letter of comfort is more from a going concern point of view, audit requirements etc.
+And honestly, we have supported that company for 15 years.
+So, this is not going to add any additional burden on Tata Steel, because it's the debt which is already reflected in Tata Steel books.
+So one shouldn't kind of worry about it, even when we look at the orderly transition, this debt is essentially Tata Steel debt.
+8
+Second part of it is, you talked about the government support on downstream etc.
+Actually, what we have asked the government is a full kit, which is upstream, midstream, and downstream.
+If this has to transit, it has to transit through the EAF route, and that EAF includes steelmaking, it includes the TSCR, hot strip mill, and the downstream will continue.
+So, it is the upstream and midstream which will then feed into the downstream.
+And therefore, this £1 to 2 billion is not £1 billion, its more [inaudible].
+And that project size was an integrated project.
+It was not just parts of the project.
+So, I don't know if I have been able to clarify, but fundamentally, it's been a new configuration in an integrated manner.
+Satyadeep Jain, Ambit Just a clarification question on the first part.
+But given you are now looking at a situation where there could be a hard decision maybe 12 months to 24 months on the line, would it be prudent to take on the debt at the TS Global Holdings or keep that debt at TSUK and then depending on what that action is, those debt holders can also bear that liability or whatever that is based on that decision or what's the thought process behind refinancing that debt?
+Koushik Chatterjee: ED & CFO – Tata Steel Limited That's why I stressed upon the point on orderly transition in whichever way we do.
+These debts are essentially debt out of our relationship banks, and we have taken the debt over many years.
+And one of the things that Tata Steel and indeed, Tata Group doesn't do is to leave the lenders in the lurch.
+So, I think that is something which is fundamental.
+How do you minimise the exposure by pairing of the debt or pairing of the liabilities that you have, which is what we're working on at this point of time.
+And therefore, we are typically principally always in the zone where we honour the stakeholders who've provided capital.
+Satyadeep Jain, Ambit Fair enough.
+So, second question on the capex, of the Rs.
+10,000 crores you're looking at KPO-2 say Rs.
+7,000 crores.
+How much has already been spent on KPO-2 in the last maybe 2 odd years and what is the budgeted amount you're looking at in FY24?
+There's a lot of capacity coming online in flat steel in the next 2 years.
+And given Europe is also looking at Carbon Border Adjustment Tax, where do you think the outlet for all that capacity for flat steel could be, which markets would you be looking at for that product?
+T. V. Narendran: CEO & MD - Tata Steel Limited I'll answer the second part and Koushik can address the first part on how much we spent so far on Kalinganagar.
+So, if you look at Kalinganagar 5 MTPA expansion, there is a 2.2 MTPA cold rolling mill coming with it.
+So, the incremental HR that we will sell even after the expansion is not significant.
+Secondly, we've always sold 85% of what we produce or often 90% of what we produce in the domestic market.
+So, I don't see a volume pressure.
+Exports will always be exercised more as a strategic option for us at 10% to 15%, but balance should not be a problem for us to sell in the domestic market.
+Yes, Koushik?
+9
+Koushik Chatterjee: ED & CFO – Tata Steel Limited Yes.
+In the last few years, we have spent about Rs.
+17,000 crores on the Kalinganagar expansion, of which about Rs.
+6,500 crores were in the last financial year.
+So, we will do similar numbers in this financial year.
+And the project is broadly in line.
+We had slowed down the project for a year or two, but other than that, it's in line.
+Operator The next question is from Alok Deora of Motilal Oswal.
+Alok Deora, Motilal Oswal: Yes.
+Just had a couple of questions.
+First is, on coking coal, what was our consumption cost for the quarter?
+And how do we see that?
+T. V. Narendran: CEO & MD - Tata Steel Limited Yes.
+So Alok, for coking coal, if I look at it from an India point of view for fourth quarter, it was around $267/t, I think on consumption basis, and now it will be at around $277/t.
+These are FOB prices, so you need to add the freight.
+This is for India.
+Alok Deora, Motilal Oswal: Sure.
+What's the sense you're getting and how do you see the price shaping up in near to medium term?
+So, I mean, just your thoughts on that would be helpful?
+T. V. Narendran: CEO & MD - Tata Steel Limited Yes.
+So obviously, a lot depends on what's happening in China.
+But I think few things have happened since then.
+But China is shifting more and more to consumption-led growth, and which need not be as steel intensive as the traditional investment-led growth that China had.
+So, it's not necessary that they need to buy all the coal that they used to buy earlier from 10
+Australia.
+If coal prices go below $200/t, that's a different matter.
+It's a little bit more within the normal band of $500 to $700/t that is fluctuating.
+Operator The next question is from Vishnu Kumar of Avendus Spark.
+Vishnu Kumar, Avendus Spark Capital Yes.
+This is Vishnu from Spark, sir.
+I just wanted to understand what the effective production would be this year considering the annualised activities.
+T. V. Narendran: CEO & MD - Tata Steel Limited Yes.
+Vishnu Kumar, Avendus Spark Capital Specifically for Europe, given that we will be taking some shutdown for this maintenance?
+T. V. Narendran: CEO & MD - Tata Steel Limited Yes.
+So, I'm talking of deliveries.
+While we had a production shutdown in Europe, last year, we produced more and sold less because some of what we produced were slabs which we stocked up.
+This will release working capital as well as give us more sales and production.
+So, when I say 1.5 million, it is sales, not production, and half of that will be in Europe and half of that will be in India.
+Operator The next question is from Amit Murarka of Axis Capital.
+Amit Murarka, Axis Capital On Europe again, we used to maintain that there is not going to be any cash support from India.
+But now with TS Holdings providing some support to the TSUK, is it essentially some change in policy or stance?
+Koushik Chatterjee: ED & CFO – Tata Steel Limited Amit, this cash, and this letter of support has been in place for possibly a decade.
+It is neither a guarantee nor a binding letter of comfort.
+This is as I said earlier, it is required for audit purposes because when you do the going concern testing, 11
+there are various stress tests that are done.
+And one of the stress tests is that if the company does not have the ability to support or refinance the loan that comes due, and these loans are fundamentally working capital loans.
+So, if that comes up for renewal, then will there be a support from Tata Steel.
+And that is an intent letter and not a guarantee.
+It's more explicit today because that's the part of the stress test that has been done.
+There is no change in policy.
+And in case of U.K., it is essentially working within the means to be cash neutral.
+So that is how we look at it.
+Pending the outcome of the discussions with the government and a more strategic call on the UK upstream, this is the status that has been carried on.
+Amit Murarka, Axis Capital Okay, understood.
+I had a question on the India Standalone business from a 4Q perspective.
+Could you help better understand that fall?
+Koushik Chatterjee: ED & CFO – Tata Steel Limited One was royalty I know, that's been the iron ore royalty, which is the re-notified prices of the IBM.
+But we can explain it and give it to you subsequently.
+Samita Shah: VP CFTRM – Tata Steel Limited It's largely that.
+So, we have the royalties coming just with a lag, and that's why you're seeing some of the [inaudible] in this quarter.
+Amit Murarka, Axis Capital And could you quantify that, because I guess this will be a bit of a one-off in nature in that sense then?
+Koushik Chatterjee: ED & CFO – Tata Steel Limited No, it's not one-off in nature.
+It goes through the ups and downs.
+The IBM prices are notified with a lag and then that affects it.
+It is also benchmarked to the international prices but there is a significant lag associated with it.
+Unless the royalty rates are revised, which is a very different thing, which is what has happened in the past.
+So that is what you're seeing at this point of time.
+Maybe, Samita, you can give the exact number offline.
+Operator The next question is from Ritesh Shah of Investec.
+Ritesh Shah, Investec Sir, first question is on ESG.
+If I go back to September 2021, I think the company had a release stating IJmuiden operations plans to opt for hydrogen based DRI.
+In current press release, we have indicated about injecting hydrogen into blast furnace.
+So just wanted to understand thought process on hydrogen based DRI for Ijmuiden economics, gas versus green hydrogen?
+And the same thing on what scale are we doing at Jamshedpur operations right now?
+That's the first question.
+12
+T. V. Narendran: CEO & MD - Tata Steel Limited Yes.
+Okay.
+When you look at making steel with a lower carbon footprint, there's going to be a bouquet of solutions and it depends on the context and the geography and the regulations.
+So if you look at Europe, the natural progression is coal to gas to hydrogen.
+And there's a lot of hydrogen infrastructure being built; a lot of work is going on.
+And so the whole plan in IJmuiden is convert from coal to gas, and then when hydrogen is available, convert from gas to hydrogen.
+So, which means you eventually shut down blast furnaces and build gas based DRI production, where you will substitute the gas with hydrogen.
+When you look at India, the challenge we have is most of the steel capacity not only for us but for the industry will be in Eastern India because that's where the iron ore is.
+And we don't see too much of availability of gas, at least at the scale at which we want, in the near future.
+It may be 10 – 15 years later, we don't know.
+Till such time, we cannot just be static and hence we are looking at various other options.
+So injecting hydrogen into a blast furnace is addressing the problem to some extent, you can't replace the coal with hydrogen in the blast furnace, you can replace some of what we call the PCI with the hydrogen and even that needs to be done very carefully That's why the amount of hydrogen we injected was higher than what anybody else has done, and that's why it's caught a lot of attention globally.
+So in our E Furnace, which is a 500 – 550 cubic meter blast furnace, injecting hydrogen for about 4 days to 5 days, gives us a lot of data and a lot of information which helps us move to the next level of scale.
+In addition, of course, as you know, we are also setting up a scrap-based recycling-based unit in Ludhiana, which will be more about recycling and no coal.
+But Europe, the transition, particularly Netherlands will be in this direction, more replacing the blast furnace.
+Ritesh Shah, Investec Sir, on Netherlands, I went through some research.
+Whatever we have indicated in past, it's contingent on government support.
+What gives us comfort?
+We understand it's one of the best furnaces on carbon intensity.
+T. V. Narendran: CEO & MD - Tata Steel Limited So, there are 2 – 3 things.
+But what is the extent of support, we haven't concluded yet.
+Secondly, our transition to hydrogen is also very important from the Dutch government's hydrogen ecosystem point of view, because we will have one of the biggest offtakes of hydrogen if we convert to a hydrogen-based usage.
+So, when the Dutch government is building infrastructure for hydrogen, we are a very important part of the plans.
+So, the Dutch assets has its own ability to support a lot of the transition.
+Of course, we need support from the government.
+Here the cash flows of the business can also support the transition.
+Ritesh Shah, Investec Sure.
+I just have one question quickly on P&L and one on balance sheet.
+This is for Koushik sir.
+1,700/t on sequential basis.
+If we look at the blended number, if it was simple math, the increase comes at Rs.
+4,500/t.
+So how should we look at the gap of Rs.
+4,500/t versus Rs.
+1,700/t?
+This is on a per ton basis sequentially.
+13
+Samita Shah: VP CFTRM – Tata Steel Limited Yes.
+Well, Ritesh, I think if you look at income from operations, it's Rs.
+3,500/t, but that's the entire income.
+But we are just talking about steel NR when we're talking about Rs.
+1,700/t.
+Koushik Chatterjee: ED & CFO – Tata Steel Limited The income is [inaudible].
+Maybe we'll break it up between the NR and the other incomes.
+Ritesh Shah, Investec Sure.
+And sir, last question is what prompted impairments for UK right now?
+And how should we look at the next testing, what will prompt more impairments?
+We just checked the balance sheet; I think the exposure via loans and investments is upwards of Rs.
+20,000 crores.
+So how should we look at this number going forward?
+Koushik Chatterjee: ED & CFO – Tata Steel Limited In the year-end, as per the accounting standards, there is always a review of the investments across any company.
+But in our case, we do it either on a 6-month basis or a year-end basis, and that is based on the value-in-use assessment of that unit.
+And as Naren mentioned that as part of the business (the upstream and the midstream businesses) are coming towards end of life in some time, we have to moderate the future cash flows, earnings, and costs and so on.
+1,100 crores in the standalone books.
+As we move forward, this will get tested again at either quarter end or 6 months end.
+The assumptions will not change much in quarter-to-quarter, but certainly, in a 6-month period, it will be reassessed, and that's the discussions which we have internally along with the auditors.
+And the outcome of that will have to come about.
+So, as I said, the PPE numbers are not something which is very significant.
+And we've done deep restructuring of the assets also.
+So, this is something that will continue to be assessed at every period end.
+Operator The next question is from Kirtan Mehta of BoB Capital Kirtan Mehta, BoB Capital Couple of questions from my side.
+Would you be able to clarify the investment numbers that we have in the books of India towards UK and Europe?
+Would it be possible to sort of give us that breakup as well?
+Koushik Chatterjee: ED & CFO – Tata Steel Limited Well, you have to look at the balance sheet when it comes and see the investment numbers.
+Those investment numbers are largely reflecting Europe.
+I think that is how we give it.
+We don't give UK and Europe separately, because it is flowing from Tata Steel India into the overseas holding company, which essentially holds these 2 businesses apart from Canada.
+Kirtan Mehta, BoB Capital Right.
+And just one more thing.
+There has been a mention about the delay in ramp-up of cold mill at IJmuiden.
+Would you be able to clarify its capacity and potential contribution to the margin to the Netherlands plant once it comes up?
+14
+T. V. Narendran: CEO & MD - Tata Steel Limited It's an existing plant which had an upgrade, I think the capacity is about 1.6 million tons.
+We had to announce force majeure because that mill was supplying to a lot of auto customers, so we gave them enough notice to plan alternatives.
+Now I think we are close to a stage where we will withdraw the force majeure because there's lot more stability.
+It was more a mix impact than a volume impact, because if you didn't produce cold rolled then you sold it as hot rolled.
+I think the impact, maybe Samita can clarify.
+I think it was £70 [inaudible] for the quarter or something like that... Samita Shah: VP CFTRM – Tata Steel Limited Yes.
+It was partly reflected in the last quarter and also partly this quarter.
+T. V. Narendran: CEO & MD - Tata Steel Limited Correct.
+Correct.
+Kirtan Mehta, BoB Capital Right, understood.
+One more question, if I may.
+In terms of the India business, we recently did around Rs.
+16,000/t on the standalone operations.
+When we want to look at this number in the sustainable context or more in terms of the average margin over the cycle, how far we are from the cycle in the margin, and how should we think that margin would change as we commission the pellet plant as well as the cold roll mill there?
+T. V. Narendran: CEO & MD - Tata Steel Limited So normally, we look at a long-term margin of around Rs.
+14,000 – 15,000/t.
+When we plan long-term, we look at it because that's been our numbers, if you look at the worst quarters, not on a quarterly basis but on an annual basis.
+So it fluctuates.
+We've seen Rs.
+30,000, and we've seen Rs.
+7,000.
+If you see last year, despite all the challenges, we are still in that range.
+I'm talking about standalone, not consolidated.
+So pretty much Rs.
+15,000 is close to range, slightly higher than the range.
+Kirtan Mehta, BoB Capital Right.
+And would you be able to add colour on that how this sustainable range of Rs.
+15,000 could change with the commissioning of the pellet plant as well as the cold roll mill?
+T. V. Narendran: CEO & MD - Tata Steel Limited Yes.
+So obviously the pellet plant and cold rolling mill is impacting - the cold rolling mill is 2 million tons of value-add in a 21 million tons mix, and the pellet plant is adding about 6 million tons of pellets.
+But I would say, typically Rs.
+800 crores to Rs.
+1,000 crores a year is what you would get benefit of the pellet plant.
+And the cold rolling mill, again, normally, if you look at HR/CR gap on a long-term basis, you will look at $100/t.
+In terms of the kind of product mix, it helps 15
+us get into the very high-end auto etc.
+So, it gives us a high-end of the margin range.
+15,000 on a like-to-like basis.
+Operator We would now like hand over the conference to Ms. Samita Shah for chat questions.
+Over to you ma'am.
+Samita Shah: VP CFTRM – Tata Steel Limited Thank you, Kinshuk.
+The first question is on the ramp-up of TSK Phase 2, which I think we have answered.
+So the other question on TSK Phase 2 is how much raw material integration will be there, especially for coking coal and iron ore for this 5 million tonne expansion?
+T. V. Narendran: CEO & MD - Tata Steel Limited As far as iron ore is concerned, all the iron ore that we need we will produce ourselves.
+We are fully integrated, and the expansion of the iron ore production continues.
+I think this year, we are around 36 – 38 million tonnes.
+The goal is not to buy any iron ore or pellets in the market.
+Coking coal, we are typically about 15% to 20% coverage, because we can't expand in coal as fast as we can do in iron ore. We are in the middle of an expansion in West Bokaro from the current level of about 6 million tonnes of raw coal to about 10 million tonnes.
+6 million tonnes of raw coal means about 2.5 million tonnes of clean coal.
+So, taking it up to about 4 – 5 million tonnes of clean coal is what we are working on.
+So, 15% to 20% is the range at which we will be in for coal.
+Rest we are currently importing, and we'll continue to import.
+Samita Shah: VP CFTRM – Tata Steel Limited The next question was on coking coal consumption costs, which I think we have answered.
+There are a lot of questions on Europe and TSUK.
+What is the rationale for the impairment right now?
+Can you quantify what is the value of investment on the books of Tata Steel?
+And what will be the volume at Europe after the restructuring that you've talked about?
+So, I think the restructuring is what we talked about downstream, but these are some of the questions.
+Koushik Chatterjee: ED & CFO – Tata Steel Limited So, I actually answered that question a little while back, when I mentioned that the impairment is part of the annual exercise as per the accounting standards to look at investments.
+And this has been done effectively in a manner where the future cash flows and the value-in-use is tested against the carrying value.
+And depending on how the business performs, there will be triggers for looking at this potentially every quarter, if not every 6 months.
+Samita Shah: VP CFTRM – Tata Steel Limited The next question is how much coking coal do you expect to import for Indian operations in FY2024?
+And how much of that will be through quarterly contracts?
+T. V. Narendran: CEO & MD - Tata Steel Limited So, overall, we buy 15 million tonnes of coking coal, both for Europe and India.
+I would assume, India, if I were to look at -- must be about 10 – 12 million tons, sorry, 8 – 10 million tons.
+Yes, and how much would be quarterly contracts, Samita, can you check with Peeyush and … 16
+Samita Shah: VP CFTRM – Tata Steel Limited Yes.
+So, it's largely quarterly, but we can come back Koushik Chatterjee: ED & CFO – Tata Steel Limited Index-based.
+Samita Shah: VP CFTRM – Tata Steel Limited There is a question around funding of UK.
+And I’ll just club some of the questions together.
+Given the impairment, how much funding do you expect to provide TSUK in FY2024?
+16,000 crores capex spend?
+Koushik Chatterjee: ED & CFO – Tata Steel Limited As I mentioned earlier, the impairment doesn't trigger any funding.
+Impairment is a non-cash charge of your investment.
+There is no cash impact on that.
+I guided in the beginning that we are looking at starting the deleveraging process in or rather restarting the process in FY2024.
+It will be done more in H2.
+We do target about $1 billion to do that, which has been our long-term target.
+And we will look forward to taking as much as cash flows that we can towards deleveraging after we meet our cash flow requirements on capex etc.
+and the Rs.
+16,000 crore capex is largely borne out of internal generation.
+Samita Shah: VP CFTRM – Tata Steel Limited Next question is, if we decide to close the UK business, what would be the one-time closure cost incl.
+the pension cost?
+Koushik Chatterjee: ED & CFO – Tata Steel Limited So, the pension is not going to be a cost at all because that's been taken care of.
+The closure cost or the restructuring cost, I would say, because we would certainly look at the downstream business.
+But the upstream, we will have to assess that, and some assessment is being done, as we speak.
+But it all depends on how the conversations with the government and stakeholders happen, because that's a decision which will happen after consultation with all stakeholders.
+Samita Shah: VP CFTRM – Tata Steel Limited The next question is on Kalinganagar.
+Could you share the total capex spent so far and the remaining capex?
+I think you answered this, but maybe the remaining.
+Koushik Chatterjee: ED & CFO – Tata Steel Limited Yes.
+I think we said Rs.
+17,000 crores has been spent.
+This year, we will be spending about Rs.
+6,500 - 7,000 crores.
+And thereafter, the numbers will be much smaller, maybe about another Rs.
+3,000 crores - 4,000 crores.
+Samita Shah: VP CFTRM – Tata Steel Limited The next question is on NINL expansion.
+Could you share the timeline on the finalisation of the 5 million tons NINL expansion after completion of DFR and getting Board approval?
+17
+And during this financial year, we will go back to the Tata Steel Board with our proposal for the next expansion, so that we can get started on that soon.
+Samita Shah: VP CFTRM – Tata Steel Limited Okay.
+The next question is on the working capital and the debt reduction.
+And does the $1 billion debt reduction guidance assume this working capital release?
+Koushik Chatterjee: ED & CFO – Tata Steel Limited Yes, of course.
+I think the $1 billion debt reduction takes all sources of capital, which is working capital release, earnings and running the business across all geographies more tightly.
+Samita Shah: VP CFTRM – Tata Steel Limited The next question is on the interest cost.
+In the previous years, the significant deleveraging has been one of the key aspects of ensuring that our interest rates are within control.
+And now with further deleveraging targeted during this year and for the years ahead, I think we will ensure that the interest rates are within the control.
+Samita Shah: VP CFTRM – Tata Steel Limited The next question is on green hydrogen project.
+What are the economics and timelines of the pilot injection which you've done in India.
+What is the timeline for hydrogen based DRI at TSN?
+By when do you expect to do this?
+T. V. Narendran: CEO & MD - Tata Steel Limited So as far as the India experiment is concerned, it is still early stages.
+Smaller blast furnace, some injection, we will study it, keep scaling it up.
+But there is a limit to how much hydrogen you can put into a blast furnace.
+I think whoever is working on it is trying to see how much of the PCI that we inject can be substituted with hydrogen.
+Obviously, the cost of that hydrogen, the hydrogen that we injected, for instance, in the blast furnace today in Jamshedpur has cost us about $12/kg.
+Of course, if you're looking at using hydrogen and scale as a reductant to reduce DRI, then you're looking at hydrogen to be made available at around $2/kg or less.
+And obviously, all this must be green hydrogen if it has to make sense.
+In Netherlands, there is a plan which has been submitted to the government.
+We are in conversation with the government.
+And our plan as proposed to the government was to shut down one of the blast furnaces over the next year, convert it into 18
+gas based DRI.
+So that by 2030, you have one blast furnace down and a gas-based or hydrogen-based DRI line.
+And by 2035, you have the other blast furnace down, so that you become a completely gas or hydrogen based DRI production unit.
+So, that's the timeline.
+But once our conversation with the government moves to the next level, we will be able to give more definite timelines.
+Samita Shah: VP CFTRM – Tata Steel Limited There's another question on hydrogen, so I'll just take it right now.
+It says with regards to the trial of the hydrogen injection at Jamshedpur plant, by when does it look feasible to use hydrogen more widely for Indian operations?
+T. V. Narendran: CEO & MD - Tata Steel Limited The answer for the second question is no.
+Like we said, nobody else has injected too much hydrogen into a blast furnace, we did it over 4 – 5 days.
+So that itself is first in the world kind of thing.
+Some others have done it by mixing it with coke oven gas and injecting it, whereas we injected hydrogen itself into the blast furnace.
+This is giving us more data.
+Typically, in process industry when you try out something new, you take it up step-by-step, because you want to see the implications of any change that you make in the process, particularly in terms of the energy balance and the constituents of what was inside a blast furnace.
+So, we'll do it gradually.
+Samita Shah: VP CFTRM – Tata Steel Limited There's a question on the merger of the subsidiaries.
+When do we expect the merger of Tata Steel Long Products to be completed?
+And can we expect any tax benefits from the merger?
+Koushik Chatterjee: ED & CFO – Tata Steel Limited So, the merger process is underway with the NCLT hearings, and the first motions started.
+It will happen progressively for each of the companies.
+So we'll see what are the things that we can draw.
+Samita Shah: VP CFTRM – Tata Steel Limited There's a question on NINL, on the iron ore mines, what is the status?
+Are these mines running?
+T. V. Narendran: CEO & MD - Tata Steel Limited Yes, the mines are running and are feeding the Neelachal plant.
+I think we are running the mines at an annualized rate of 1.5 million tons.
+Again, as the rest of the plant, it has gone as per plan.
+Samita Shah: VP CFTRM – Tata Steel Limited One more question on India.
+This is on the capex spend and the CWIP on the balance sheet.
+If Rs.
+17,500 crores have been spent on KPO till date, the CWIP is about Rs.
+30,000 crores.
+So, what accounts for the balance Rs.
+12,500 crores of CWIP as on 31st March 2023?
+19
+Koushik Chatterjee: ED & CFO – Tata Steel Limited There are several other projects, including KPO, there are projects relating to the iron ore mines, the infrastructure around it, the augmentation of various capacities.
+So, it is a large part of those CWIPs there, plus, there are significant amount of sustenance capex, which is an ongoing scheme over 5 years in each of the facilities now, be it Jamshedpur or in Kalinganagar or Meramandali and so on.
+Samita Shah: VP CFTRM – Tata Steel Limited Then there are questions around steel demand internationally, especially given what is happening in China.
+So I’ll just club a couple of questions.
+And what is your view on international steel markets this year?
+And I think while exports should go to 8 million tons, if they continue to export at that level, I'm sure there'll be trade actions which will also follow.
+I think that is the comment on the Chinese steel side.
+In terms of globally, yes, on the demand side, a lot depends on what happens in China.
+In the US, [inaudible] there's a lot of investments happening.
+And this is largely to do with Chinese exports being more moderated and a lot more of regionalisation of supply chains and value chains.
+Samita Shah: VP CFTRM – Tata Steel Limited Multiple questions on the steel market in India.
+Are there any shutdowns?
+And thirdly, is there an impact of pre-election spend expected on steel demand?
+T. V. Narendran: CEO & MD - Tata Steel Limited So, yes, 1Q every year normally has a lot of shutdowns.
+That's normally the time when we plan a lot of our shutdowns.
+We did have a lot of shutdowns in multiple sites, nothing as big as the one we are having in Netherlands, but few days here and there.
+That is one.
+20
+If I look at residential, it's a bit of a mixed bag.
+I'm talking about Indian customers of steel, who may be exporting their products to the global markets.
+Yes, I think I've covered it.
+Samita Shah: VP CFTRM – Tata Steel Limited Yes.
+Yes.
+And the third question was if there is any pre-election impact on steel demand?
+T. V. Narendran: CEO & MD - Tata Steel Limited Yes.
+So, there I said, I believe in the infrastructure side, yes, there's more and more acceleration, there is more and more push to complete projects.
+So that will certainly happen.
+So that's right.
+If you talk to some of our bigger customers, they're full up in orders, construction companies.
+Samita Shah: VP CFTRM – Tata Steel Limited Some questions again on Europe.
+So, Koushik, maybe you could sort of talk about it a little more, again, in terms of the impairment, what is the expectation for the future?
+How much more do we expect?
+Are there any triggers?
+Also, a question in terms of what is the PPE?
+So, a lot of questions around the impact likely and the Europe exposure.
+Koushik Chatterjee: ED & CFO – Tata Steel Limited It's like looking into the future, but I would try to articulate that if and when a decision after consultation with all stakeholders going through the due process, we do come to a conclusion on the assets, at that point of time, it will certainly trigger a full review of the value-in-use of the business because only the downstream will remain, whereas the upstream will not be there.
+And therefore, the cash-generating unit will certainly have an impact of how much will be the impairment.
+It is likely to be more in the standalone because that's the investment carrying value.
+As I mentioned a little while back that the consolidated impairment has been taken some years back on the PPE, as well as through the losses that have been over the years.
+And that's when the investment review will reflect on the numbers.
+These numbers are very hard to predict and talk about because of the fact that at the time when the impairment actually happens, that's the time when you do the full assessment of the numbers.
+As I said that we carry the overseas holding in the books of Tata Steel as in the investment numbers and that largely reflects IJmuiden and UK.
+In that a large part of it is IJmuiden in Netherlands and some part of it in the UK.
+Maybe taking a guess, it would be in the region of 65:35 kind of ratio.
+But the other thing which I would like to say is any impairment whenever triggered is a non-cash charge and therefore, it will not have any cash impact.
+Other than any cost that is taken or undertaken for closure and that's when Pinakin asked whether this is in hundreds of millions or is in many billions, I said it is in millions.
+And I think you should take comfort from 21
+that.
+And if that were to happen, then the residual business, the target will certainly be to ensure that it works on a cashfree basis.
+Samita Shah: VP CFTRM – Tata Steel Limited Okay.
+I think we have time for maybe one audio question, which we will take it before we end the call.
+Over to you, Kinshuk Operator Thank you, ma’am.
+The next question is from Ashish Jain of Macquarie Ashish Jain, Macquarie So, Koushik, I've just 2 quick questions.
+How are you funding those losses today?
+Koushik Chatterjee: ED & CFO – Tata Steel Limited It was not a cash loss, it was a cash [inaudible], it was not a loss by itself.
+So just now it is being funded through the working capital route mostly because there are more securitisation and more working capital arrangements, which provides the cash flow.
+It's like a revolving credit, which is what funds them and we stand behind them.
+Ashish Jain, Macquarie But if I can just delve into this stand behind them thing a bit more means, in worst case, this will devolve on Tata Steel India?
+Is that the way to think about it?
+Koushik Chatterjee: ED & CFO – Tata Steel Limited Worst cases, it will devolve on India.
+One point I just want to mention, there is nothing called European balance sheet, Netherlands balance sheet, India balance sheet, Tinplate balance sheet.
+There is only one balance sheet, which is Tata Steel balance sheet.
+So, whatever is reflected in the consolidated debt of Tata Steel is for Tata Steel to service.
+It depends on wherever it is in the world.
+So, I think this must be clear.
+That's why I was answering that letter of comfort, it is a conscious decision to carry on till we have an orderly decision.
+Similarly, the amount that is in the Netherlands balance sheet of €600 million, it is reflected in the total cash.
+So, it is one balance sheet and one cash flow that drives Tata Steel.
+We don't run the business as individual parts.
+We run it as one balance sheet.
+And if there are any parts which are challenging, we deal with it.
+If it is something strategic to be taken, we deal with it or investment to be done, we deal with it.
+I think we need to be very clear that it is one balance sheet and anything that is reflected in that balance sheet, Tata Steel is responsible for it.
+Ashish Jain, Macquarie Right.
+Right.
+And just one clarification on Kalinganagar, did we say we are expecting production sometime in April 2024?
+T. V. Narendran: CEO & MD - Tata Steel Limited We said the new blast furnace, I mean there are different facilities coming up.
+The blast furnace is expected to come in the next 12 months.
+22
+Operator Thank you very much.
+That was the last question for today.
+I would now like to hand the conference back to Ms. Samita Shah for closing comments.
+Over to you, ma'am.
+Samita Shah: VP CFTRM – Tata Steel Limited Thank you, Kinshuk.
+Thank you everybody for dialling in.
+I hope lot of your questions were answered and found that useful.
+Look forward to connecting again at the next call.
+Thank you, and good day.
+T. V. Narendran: CEO & MD - Tata Steel Limited Thank you Koushik Chatterjee: ED & CFO – Tata Steel Limited Thank you 23

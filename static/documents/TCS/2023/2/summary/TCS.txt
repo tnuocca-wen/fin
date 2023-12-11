@@ -1,0 +1,79 @@
+TCS sent a transcript of an earnings conference call to the National Stock Exchange of India. The transcript is available on their website. The earnings conference call discussed TCS' financial results for the fourth quarter and full year of FY 2023. The call was led by Rajesh Gopinathan, CEO and Managing Director of TCS. The call was recorded and included a Q&A session. TCS does not provide specific revenue or earnings guidance.
+
+In FY 2023, revenue grew at 17.6% in rupee terms, 13.7% in constant currency, and 8.6% in dollars. Operating margin for the year was 24.1% and net margin was 18.7%. Rajesh Gopinathan will step down from his role on September 15th and Krithi will take over as CEO and MD on June 1st. Revenue in Q4 was `59,162 crore, a YoY growth of 16.9%. For the full year, revenue was `225,458 crore, a growth of 17.6%. Operating margin stayed flat at 24.5% in Q4 and 24.1% for the full year. Net income margin for the year was 18.7% and EPS grew by 11.2%. The effective tax rate for the year was 25.7%. Accounts receivable was at 65 DSO in dollar terms. Net cash from operations was `118.64 billion, free cash flows were `110.95 billion, and invested funds were `498.23 billion. The Board recommended a final dividend of `24 per share, bringing the total dividend for the year to `115 per share.
+
+In Q4, we hired 821 employees for a total of 22,600 employees for the year, bringing our total headcount to 614,795. We recruited over 44,000 freshers and a record number of experienced professionals. Our workforce is diverse, with 150 nationalities represented and women accounting for 35.7%. Our investment in talent development resulted in 48.3 million learning hours and 6 million competencies acquired. We also had 53,000 employees certified in hyperscaler cloud skills. Our cohort of contextual masters has grown to over 62,000. We are helping mid-level employees gain market-relevant skills, with over 90% participating in our programs and over 60% receiving certifications. Over 80,000 employees benefited from in-person training in Q4. Our talent transformation platform, Xcelerate, has recorded career aspirations for nearly 400,000 employees. Our attrition rate in IT services was 20.1%, down 1.2% sequentially. Retail and CPG and Communications and Media were our top-performing industry verticals in FY 23.
+
+Growth rates for different industries: Life Sciences and Healthcare - 13.3%, Manufacturing - 13%, BFSI - 11.8%.
+In Q4, caution in BFSI, Retail, and Technology services in Europe and US. Clients delaying non-critical initiatives and halting some projects. Uncertainty due to banking sector stability. Growth slowed in all industries.
+Q4 growth led by Retail and CPG - 13%, Life Sciences and Healthcare - 12.3%. Other industries grew in single digits.
+North America, UK, and Continental Europe showed full-year growth.
+Emerging markets growth: Latin America - 17.3%, India - 14.6%, Middle East and Africa - 7.8%, Asia-Pacific - 7.6%.
+Q4 growth not decelerated in the UK. Growth accelerated to 17%.
+In terms of geography, North America grew by 9.6%, Continental Europe - 8.4%.
+TCS products and platforms performed well in Q4.
+ignio™ signed up 5 new customers and 12 clients went live.
+Increased investment in AIOps and AI/ML technologies due to economic uncertainty. ignio well-positioned in the market.
+TCS BaNCS™ had 2 new wins and 6 go-lives.
+Successful migration of annuity books and phase one migration to public cloud for a UK savings and investment company.
+Quartz blockchain platform partnered with Bitcoin Suisse for crypto financial technology.
+TCS ADD Medical Writing launched for fast AI-assisted authoring of regulatory and scientific documents in Life Sciences.
+TCS OmniStore™ had 1 go-live.
+TCS HOBS™ had 1 new win and 4 go-lives for communications service providers.
+TCS TwinX™ had 3 wins and 1 go-live for digital twin solutions.
+TCS iON had 23 new wins and 3 renewals, serving over 54 assessment customers.
+MasterCraft™ and Jile™ won 26 new clients.
+Added clients in different revenue bands: $100 million+ - 2, $50 million+ - 30, $20 million+ - 23, $10 million+ - 22.
+
+In Q4, Tata Consultancy Services saw cautious client behavior in North America and Europe. Some clients paused discretionary projects and deferred new non-critical projects, affecting revenue growth. However, there was strong deal flow and pipeline replenishment as clients launched cost optimization and strategic projects. TCS Cognix, an automation suite, gained traction and helped win over $1.6 billion worth of deals. Two examples of successful operations transformation using Cognix were shared. IHG Hotels and Resorts selected TCS for enterprise process automation, and Delta Airlines partnered with TCS for cognitive business operations and cloud management. Cloud transformation remained a strong demand driver, and TCS won several new deals in this area. A global software company partnered with TCS to modernize their products for the cloud, and a US insurance company chose TCS for application modernization and cloud migration.
+
+- TCS modernized critical applications and migrated them to the cloud, improving business resiliency and security.
+- TCS helped Flight Center Travel Group leverage the power of the cloud, enhancing resilience and time to market.
+- Clients are investing in new initiatives to support business growth through innovative models and technology.
+- TCS partnered with a UK food retailer to implement a technology initiative for expanding through franchise stores.
+- TCS won a new deal from Bridgestone Americas to transform and expand their subscription-based mobility offerings globally.
+- BFSI sector is a major spender on technology, and TCS is deeply involved in G&T initiatives in this sector.
+- TCS partnered with a global information services company to launch a commercial fraud solution.
+- TCS partnered with a global bank to transform its new card launch process and drive growth.
+
+A large European bank partnered with TCS to transform credit risk management.
+Multiple risk models were causing complexity, slow decision-making, and high compliance risk.
+TCS collaborated with the bank to create a centralized risk management platform.
+The new platform uses the appropriate risk model for each portfolio and determines credit worthiness.
+The simplified framework improves regulatory compliance and reduces consumer credit processing time.
+TCS is working with TD Bank Group to enhance its digital assets and improve customer experience.
+TCS is also helping a global bank develop an ESG data platform for sustainable finance reporting.
+In Q4, TCS had a strong order book with $10 billion TCV, including a mega deal with the Phoenix Group.
+The order book contains a record number of deals above $50 million in various industries and regions.
+The BFSI TCV was $3.1 billion, retail order book was $1.3 billion, and North America deals were $5 billion.
+The full-year order book was $34.1 billion, with more deals in the $50-100 million range compared to last year.
+This gives better visibility into growth for next year.
+
+Participants can ask questions by pressing "*1" on their touchtone phone.
+For better audio quality, speakerphone users should pick up their handset when asking a question.
+If there are disturbances on the line, participants may need to rejoin the question queue.
+Ankur Rudra from JP Morgan has the first question.
+Ankur commends Rajesh for his leadership and congratulates Krithi on innovation.
+Ankur asks about the change in demand commentary and the impact of recent events on sentiment.
+Ankur also asks about visibility on demand and revenues for the first quarter and FY 24, and how client priorities and behavior may change if uncertainty continues.
+Rajesh responds by saying there was softness in the US in Q3 but the expectation was for improvement in the New Year, which hasn't happened.
+The negative sentiment is not limited to the banking industry and is affecting sectors across North America.
+Krithi will address the question regarding the BFSI sector and future expectations.
+
+Krithivasan mentioned weakness in BFSI due to market uncertainty. However, the order book is strong with smaller deals. Revenue conversion could be high. Immediate quarters guidance won't be given due to uncertainty, but they are comfortable with medium to long-term spending. The demand is still strong and the order book quality is good. If uncertainty continues, clients will continue to prioritize. Leadership change won't result in a drastic strategy change. TCS will tweak their strategy based on the market situation. Generative AI is interesting and has the potential to accelerate technology adoption. It can fundamentally change software delivery to clients.
+
+Tata Consultancy Services is a tools-driven organization. They have a software called MasterCraft™ that generates software. They are excited about delivering proven code using low code, no code, or zero code approaches. They aim to build expertise around this capability and meet their clients' expectations. In the earnings conference call, Sudheer Guntupalli from Kotak Mahindra Asset Management asked about the shift towards cost optimization deals. K Krithivasan explained that these deals can be small and provide immediate benefits to customers. TCS has a less lumpy order book, with one mega deal and several medium to small-sized deals, which gives them confidence in faster revenue conversion. Sudheer Guntupalli also asked about the potential positive outcome for TCS in the banking sector. K Krithivasan stated that TCS has a strong presence in the banking sector and will work closely with clients to leverage market conditions and extra deposits.
+
+Sudheer thanks Krithi and wishes Rajesh good luck. Rajesh thanks Sudheer. Moderator also thanks them. Sandeep thanks Rajesh and congratulates Krithi. Sandeep asks about the near-term pressure on IT spend. Krithi says Q4 was soft due to uncertainties, but they are comfortable with the order book. There may be cancellations if sentiment worsens. Sandeep asks about margin and on-site cost pressure. Samir says there were cost increases in the current quarter. FY 24 will have headwinds, but they are working on addressing them. It's difficult to give a timeline, but they are making progress on subcontractor costs.
+
+Abhishek Kumar wants to know what is driving the growth in the UK market and if it can serve as a template for the US. Rajesh Gopinathan explains that in the UK, there is clarity and a realization that external factors won't change, so cost takeout and transformation projects are happening. They give examples of telecom and utility sectors where cost takeout and introduction of competition and agility are key. The UK market is not just about cost reduction, but also about new competitive forces and industry structure changes. TCS is actively participating and benefiting from this market. Rajesh believes that the UK market provides a playbook for technology's role in any market scenario, but it may not be a direct template for the US due to different starting bases. TCS aims to have a service portfolio that can participate in both challenging and growth scenarios.
+
+Pankaj Kapoor from CLSA asks about the deal velocity in the quarter and if clients delayed decisions on deals. Rajesh Gopinathan responds that deal velocity has not reduced, in fact, it has accelerated, especially in Europe. They closed more deals in Europe this quarter than in the previous three quarters. Rajesh explains that they had called out delays earlier, but in Q4, they have seen an acceleration. The decision making in Europe has increased, which is encouraging. In the US, their Total Contract Value (TCV) has been strong throughout the quarter, both with existing and new customers. Rajesh states that the events of the last few weeks impacted client projects, causing a revenue impact, but deal decision making has not been impacted. It is a short-term impact that needs monitoring in the next quarter.
+
+Pankaj Kapoor asked about the higher onsite cost and if it was already considered in previous calls. Samir Seksaria explained that it was not just subcontractors but also additional local hiring. The reason for not achieving the 25% exit margin was due to negative customer sentiments and paused discretionary projects. Gaurav Rateria asked about the conversion of the order book to revenue and the growth drivers for overall revenue in Europe. Rajesh Gopinathan declined to comment on ACV and mentioned that the order book was more weighted towards medium-sized deals. He also mentioned that Europe, especially BFSI, is complex.
+
+Europe: different regions have different performance in BFSI. Nordics and Benelux are doing well, while Central Europe is complex. Each vertical and region will perform differently. Overall sentiment is improving, but growth is gradual. Rajesh explains the need to reorient the operating model due to travel restrictions and supply challenges. Contingent labor has increased, but they aim to decrease reliance and maintain quality. They are 25% lower in North America and will continue to improve. It's a multi-quarter journey for stability and resilience, not just cost-saving. This strategy positions them well in the current environment.
+
+Ravi Menon asks if the negative growth in early quarters is a result of delays in decision making or a more permanent caution. Rajesh Gopinathan says there hasn't been a significant change in the deal pipeline yet, but they need more time to see how it plays out. Ravi Menon asks about the hiring range for the year, and Milind Lakkad says they don't have a specific number for gross hiring, but it depends on demand. Ravi Menon questions why they choose to replace attrition instead of addressing utilization when there's limited visibility into demand. Milind Lakkad says they're doing both, with a focus on talent development and hiring from the market. Vibhor Singhal asks if the growth in the retail vertical is still driven by the travel vertical and how non-travel parts are doing. They also inquire about client pricing discounts and the impact on profitability and growth during economic downturns.
+
+On the retail side, TTH is doing well, but other segments have also performed well. Essential retail did well, but discretionary retail and fashion faced challenges. North America retail was weak, while North America travel did well. Overall, most segments were doing well, with travel and hospitality outperforming and North America retail underperforming. Pricing in the industry is disciplined and discounting is not as easy. The company will stay responsive to market conditions. The CEO expressed satisfaction with the company's performance in FY 23, with growth in revenue and a strong order book. Operating margin and net margin were consistent. LTM attrition in IT services decreased. The CEO thanked everyone for their positive sentiment and ended the call.

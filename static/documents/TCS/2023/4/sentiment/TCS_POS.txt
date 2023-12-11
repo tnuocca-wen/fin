@@ -1,0 +1,145 @@
+Our Q2 performance shows continued strength and demand for our services, particularly around cloud and cost optimization, resulting in strong deal wins, a robust order book, and a good pipeline.
+In each of the past three quarters, our order book has exceeded $10 billion TCV compared to the average of $7 to $8 billion range in the 2021 and 2022.
+In Q2, our revenue grew 7.9% in rupee terms, 2.8% in constant currency terms, and 4.8% in dollar terms.
+Samir Seksaria: In the second quarter of FY24, our revenue was `59,692 crore, which is a year-on-year growth of 7.9%.
+In dollar terms, the revenue was $7.21 billion, a Y-o-Y growth of 4.8%.
+In constant currency terms, the revenue growth in Q2 was 2.8%.
+Our operating margin is at 24.3%, which is 110 basis points expansion sequentially.
+We got 100 basis points benefit from disciplined execution, which resulted in improved utilization and productivity and further optimization of subcontractor expenses.
+Tata Consultancy Services Earnings Conference Call October 11, 2023, 19:00 hrs IST (09:30 hrs US ET) Additionally, we gained 35 basis points from driving efficiencies in discretionary expenses, which I had referred to last quarter as gaining critical mass.
+On the other hand, we continued to invest in infrastructure.
+Our EPS grew 8.7% on a year-on-year basis.
+Further, the board has recommended a buyback to the tune of `17,000 crore through the tender route at `4,150 per share.
+Our workforce at the end of the second quarter was 608,985 strong.
+Our strategy of proactively hiring bright freshers and investing in training them with the right skills is paying off now.
+With that talent coming on stream and with reduced attrition, we were able to recalibrate our gross additions, keeping it below the departures during the quarter, driving up productivity and enhancing project outcomes.
+We continue to invest in organic talent development.
+We have over 100,000 Gen AI ready employees today and we are now investing in deepening their expertise further on this exciting new technology.
+Second, with our Energy, Resources and Utilities vertical gaining critical mass, we have extracted out the first two sub-verticals from RMO, and we'll now start reporting it as a standalone industry vertical.
+Growth was led by the newly carved out Energy Resources and Utilities vertical, which grew 14.8%.
+Manufacturing grew by 5.8%.
+And life sciences and healthcare grew by 5%.
+Our Consumer Business Group grew by 1%.
+Banking, Financial Services and Insurance grew by -0.5%, Communications and Media by -1%, and Technology and Services by -2.2%.
+By geographic markets, we see maximum caution in North America and Continental Europe, which grew 0.1% and 1.3% respectively.
+We continue to have good momentum in the United Kingdom, where the market grew by : Page 4 of 24
+In emerging markets, Middle East and Africa grew 15.9%, Latin America by 13.1%, Asia Pacific by 4.1%, and India by 3.9%.
+Our industry-leading portfolio of products and platforms had a very strong quarter.
+All of the products and platforms are now offered on a SaaS basis only, and we have a healthy ARR as a product portfolio.
+ignio™, our cognitive automation software suite, saw 28 new deal wins and 18 go-lives.
+TCS BaNCS, our flagship product for financial services, had 2 new wins and 11 go-lives during the quarter.
+Among the go-lives this quarter is JPMorgan Security Services, where our real-time, event-driven multi-market platform is helping the bank provide clients with a standardized and streamlined process in each of the 100 markets they operate in, enhancing the customer experience around corporate actions.
+TCS BaNCS insurance platform continues to see strong momentum in Q2 with 4 new wins and 2 go-lives during the quarter.
+For a global financial institution based out of South Africa, TCS has completed a massive migration from a heritage platform to TCS BaNCS for insurance.
+In life sciences, TCS ADD platform had 2 new wins and 1 go-live this year.
+With this, TCS ADD Safety has successfully automated more than 1 million cases, a landmark by any technology company using AI in pharmacovigilance, delivering industry-leading efficiency and accuracy metrics.
+TCS HOBS, our suite of products for communication service providers, had 1 new win and 2 go-lives during the quarter.
+Tata Consultancy Services Earnings Conference Call October 11, 2023, 19:00 hrs IST (09:30 hrs US ET) TCS iON had 44 new wins.
+Our platform administered assessments for 16.2 million candidates, 150% higher year-on-year.
+MasterCraft and Jile won 34 new clients in Q2.
+Our business model is built on continually delivering tangible value to our clients, which results in them rewarding us with repeat business, consuming more of our services and solutions over time.
+This contextual knowledge and our track record of consistency and predictability in our deliverables is our competitive edge.
+From the outside, the success of our customer centric strategy is best validated through client metrics we report, which show a steady increase in the number of clients in every revenue bucket.
+In Q2, we added 2 more clients year-on-year in the $100 million+ band bringing the total to 61, 13 more clients in the $50 million+ band bringing the total 137, 9 more clients in the $20 million+ bringing the total to 292, 28 more clients in the $10 million+ band bringing the total to 483, 38 more clients in the $5 million+ band bringing the total to 688, and 62 more clients in the $1 million+ band bringing the total to 1,272.
+Given client caution over the macro overhang, we continue to see a reprioritization of spending from discretionary areas to cost optimization.
+This is driving a significant deal momentum towards large outsourcing deals, vendor consolidation and operating model transformations.
+We had a very strong order book in Q2 with a TCV of $11.2 billion, our second highest TCV ever and a book-to-bill ratio of 1.6.
+BFSI TCV continued to be very robust at $3 billion as also the consumer business order book at $1.4 billion.
+But the BSNL win is very special and showcases our unique capabilities.
+Moving on to other large deals, our deal momentum in operating model transformation continues to be very strong.
+A big differentiator for us is our TCS Cognix™, which significantly accelerates the operations transformation.
+It embeds AI, machine learning and increasingly, Gen AI, to enable superior business outcomes with increased velocity, improved user experience, reduced turnaround time and superior decision-making powered by rich dashboards and predictive analytics.
+In Q2, we won 6 large operating model transformation deals with TCS Cognix at their core.
+TCS will leverage its deep domain expertise and proprietary platforms to help develop more innovative and user-friendly services.
+The partnership will also enable the British Council to focus on improving the quality and efficiency of services, ultimately leading to an enhanced customer experience.
+Our AI-powered business command center provides end-to-end visibility and holistic control across that entire stack, resulting in more resilient operations and better alignment with business KPIs.
+Our proactive leverage of next-gen technologies to redefine processes reduces the need for human intervention, increases process velocity and delivers superior process outcomes.
+From a competitive standpoint, our holistic approach, deep contextual knowledge, and the unmatched speed to value from TCS Cognix is providing a deep moat that is powering strong deal wins and market share gains.
+In Q2, we won a large deal from a leading media company that is currently transforming to focus on new lines of business which will drive future growth.
+They are partnering us to improve customer retention by providing superior experience while reducing engagement costs.
+Incidentally, this is also a vendor consolidation across multiple countries and vendors, and multiple business lines, and good illustration of how our IP and innovation differentiates us.
+Our solution uses TwinX, our digital twin solution to model customer engagement and reduce churn; ignio to make the underlying infrastructure self-healing; and Gen AI for directing voice to chat, voice to text and for customer sentiment analysis for emotionally responsive chats and emails.
+The level of innovation and next-gen capabilities embedded in our solution and the business alignment of our value proposition were our key differentiators in winning this large deal.
+There is tremendous interest in harnessing its power to drive productivity and enhance customer experience.
+We are now seeing a progressive increase in the complexity and sophistication of Gen AI use cases, from simple knowledge discovery use cases and chatbots to complex ones, such as augmentation solutions for financial advisors and wealth management strategists, automated underwriting for insurance policies, AI-led molecule discovery, as well as engineering design space explorations for automotive and gas turbine.
+We see similar opportunities in product innovation where Generative AI can visualize multiple new form factors for a product in the manufacturing industry or perhaps new types of packaging in the CPG industry, significantly increasing and accelerating the design process.
+That is when the mainstream adoption of this technology will really take off and the full potential of this technology will be realized.
+In the meantime, we continue to invest in building capabilities on this exciting new technology.
+I am happy to inform you that we now have a 100,000-strong Gen AI ready cohort and our focus now is on further deepening their expertise.
+This context-aware approach lets ignio optimize automation through situationand technology-specific actions, delivering tailored and efficient solutions that fuel enterprise agility, resiliency, and innovation.
+As a result, it presents analytics insights in a simpler and more intuitive way, guiding users through intricate processes, helping them sift through large volumes of analytics and make data-driven decisions with confidence and ease.
+In life sciences, we see plenty of opportunities for Generative AI infusion in the drug development value chain.
+Coming back to our demand commentary, while cost optimization remains a dominant theme overall, clients continue to invest in projects with a clear ROI and ones that drive business growth.
+TCS is now working with the bank to enhance the marketing strategy to increase adoption of the app and drive growth.
+The product recently won the Best Product Innovation and Jury's Choice Award at the 2023 Financial Services Forum Award.
+The app is expected to drive up new insurance sales and create new upsell opportunities with 10% to 15% increase in customer realization.
+The app has been very well received and is expected to cross 100,000 downloads by December.
+In the retail domain, retailers are looking to leverage technology to meet evolving customer expectations and offer tailored experiences, reach more audiences in the market, and to enable better decision making on merchandise using and analyzing data.
+The planning solution has enhanced the productivity of visual merchandisers in sample picking process by 50%.
+The solution enables new capabilities for the stores, including digital interactive maps, article search and details integrated with the stock data in stores and warehouse.
+Similarly, we are partnering with Kingfisher plc Group in transforming their customer and associate experience across banners in UK and Europe, using TCS OmniStore to realize an AI-powered, unified, and composable commerce platform.
+The platform's capabilities around flexible fulfillment, self-checkout, clienteling, and dynamic promotion is helping Kingfisher PLC drive greater associate productivity, increased revenue, faster checkout, and broader sales opportunities.
+Lastly, divestitures and spin-offs present enterprises a great opportunity to start with a clean slate and build a new future-ready technology estate from scratch to support a differentiated business position.
+In Q2, we won a very large divestiture-related transformational engagement, coincidentally in the retail vertical.
+We will enhance employee experience with new digital solutions, enabling efficient and resilient business operations powered by our machine-first delivery model.
+We will also implement a new organization-wide IT operating model that consolidates and simplifies their vendor landscape.
+On the front end, TCS will help them grow their e-commerce business, starting with their grocery and apparel sites.
+We will leverage our experience-first commerce implementation services across functions such as shop, fulfill, and care to drive improvement in customer satisfaction and business growth.
+So if you see the last three quarters, including this one, our book-to-bill has been consistently above 1.4.
+Do you get the feel that this is sort of at its peak and it's -- are you seeing signs of this abating in terms of the overall impact on the existing book of business, right?
+On the one hand, our customers continue to entrust us the building of new technology capabilities and based on that, we continue to win new deals.
+But at the same time, given the overall market uncertainty, they are trying to conserve cash and optimize their current spend, particularly on projects that have been running for long.
+So this is causing the revenue growth to moderate.
+If you see over the last three quarters, our revenue in absolute terms have largely been steady, while at the same time, our deal win has accelerated, now crossing consistently $10 billion.
+So that is fair to expect that the incremental new part of the revenue within that about $7.2 billion of revenue, the new part would be more sizable now.
+That implies that the underlying impact of the existing project rampdowns or reprioritization which we're talking about sequentially is increasing.
+There is an increased focus on cost optimization, which is causing our revenues not to increase in line with the increase in TCV.
+So in the second quarter after the wage hike, our margin improvement has been ahead of what historically we have done, at least in the recent past.
+And you did talk about that these cutting down on the discretionary expenditures now picking up pace and scale.
+Should we expect that our margin recovery trajectory should be ahead of what we have seen, say, last year or in the past years?
+First, we are happy with what we were able to deliver in Q2, a 110 basis point sequential improvement.
+Given the current macro uncertainty impacting top line, it's fairly decent.
+Our focus will be to use the existing levers, that is, productivity, utilization and further optimizing subcontractor expenses to continue the journey.
+And if growth returns, it will only help accelerate this journey.
+And afterwards, you know, we hope to win the maintenance and network operations effort, which will be for optimizing the network and continuously modernizing it.
+K Krithivasan: Sudheer, they are probably looking for some very definitive signs of economic recovery.
+Once they have a definitive sign of recovery I think the confidence will come into the market.
+So, just a question in terms of this commentary about -- there is a conservatism on discretionary spend and the cost takeout deals are increasing, outsourcing deals are increasing, vendorconsolidation deals are increasing.
+So, is it fair to say these deals may start ramping up in the second half and which will try to actually reduce the impact of the leaking bucket, and there could be some gradual turnaround in the revenue?
+Whether H2 will be stronger than H1, I cannot comment on that.
+Generally, we do well on a Q-on-Q basis across from Q2 to Q4.
+So directionally, still one you can expect, despite that headwind, which would be incremental where margin can still go up on a Qon-Q?
+Samir Seksaria: As you rightly pointed out, usually we have been taking our biggest headwind in the first quarter, and we gradually claw back.
+In a typical year where it's supported by growth, we get a higher leverage from growth, also helping us on the margin front.
+But at least in Q2, we have been able to deliver the 110 basis points.
+But see, on a year-on-year basis, retail segment has grown marginally.
+Normally -- essential with a strong sector for us.
+We need to see like, as I was mentioning before, once the consumer spending picks up, all these things will bottom out and then we'll be able to grow.
+So we will get to see when some of these macros turn positive, we'll see more of the growth indication coming in.
+What did you mention was the reason for the sharp reduction in headcount in this quarter?
+Milind Lakkad: We have been investing in fresh talent for almost 18 months and that investment is now paying off.
+Because I mean, attrition is, I think, easing off further.
+Or do you think it could stabilized in the coming quarters?
+I know, you mentioned that the quarterly run rate has gone up from $7 billion to $10 billion.
+Any color Has the ACV also gone up in-line with improvement in TCV or there is any difference in ACV?
+I don't think the deal tenure has significantly increased.
+There doesn't seem to be any margin headwind.
+So I think in all that, there is demand, but I wouldn't rate it to be very high.
+But I would say that look, I think all directions indicate that this is something that will mature and the potential for embedding it and embracing it all across our IT services value chain is huge.
+But if we were to just look at only the inflow of the new order wins, would it be fair to believe that inflow number should be better in the second half compared to first half based on the deals that we have already reported?
+K Krithivasan: Yes, the inflow should continue to improve from the new order wins.
+We invested significantly when the supply environment was challenging.
+What is left out of here because it seems the same vertical, which has been losing some component into this line item has again gained back in a similar fashion.
+So as much as possible, wherever revenue streams are stable and mature, we put them under the industry vertical.
+With that, we have moved our APAC and EMEA region revenues into the respective industry verticals.
+And just a small extension to that, if we see over a period of time, our contribution from Asia, Middle East, Africa, the market which you called out have come off over last six years, while the contribution in this period has increased for Europe as an end market.
+So Rahul, if you look at it, it's also a matter of growth coming in across various segments.
+We are not breaking those out into respective segments, but every component has grown.
+P&P has grown, Japan has grown but not P&P in Japan.
+In Q2 our revenue grew 7.9% in Rupee terms and 2.8% in constant currency terms.
+Improved utilization, productivity and other efficiencies helped expand our operating margin by 110 basis points sequentially to 24.3%.
+We have hundreds of opportunities in the pipeline and embedding Generative AI solutions is helping us win large deals.
+We continue to invest in building our capabilities.
+We now have over 100,000 Generative AI-ready employees and are investing in building differentiated capabilities within Generative AI in our portfolio of awardwinning products and platforms.
+Deal momentum continued to be very strong in Q2, with our order book at $11.2 billion, the second highest TCV ever.
+On the people front, we continue to have the right talent, but have recalibrated our grass hiring to ensure better utilization of our existing capacity.

@@ -1,0 +1,142 @@
+I want to start by saying how happy I am to be interacting with all of you in my new role and I hope to meet you all in person sometime in the future.
+It is very satisfying to start the new year with a string of marquee deals and a good performance, given the current circumstances.
+In Q1, our revenue grew 12.6% in rupee terms, 7% in constant currency terms and 6.6% in dollar terms.
+In the first quarter of FY 24, our revenue was `59,381 crore, which is a Y-o-Y growth of 12.6%.
+In dollar terms, revenue was $7.226 billion, a Y-o-Y growth of 6.6%.
+In constant currency, our revenue grew 7%.
+As in prior years, we rolled out a salary increase across the entire workforce with effect from April 1st, resulting in a margin impact of 2 percentage points.
+By reducing our use of subcontractors and through other efficiencies, we were able to mitigate some of that impact and report an operating margin of 23.2%, a contraction of 1.3% sequentially, and an expansion of 10 basis points yearon-year.
+Our EPS grew 16.8% year-on-year.
+Effective tax rate nudged up slightly to 25.8%.
+While we are committed to honoring all the job offers we have made, our focus currently is on leveraging the capacity we had built earlier.
+We remain focused on developing, retaining, and rewarding the best talent in the industry and enhancing their effectiveness by bringing them back to office to foster our culture.
+Our return to office initiative is picking pace, with 55% of our workforce attending office thrice a week.
+Towards driving a more performance-focused work culture, we rolled out salary increases of 8%-10% for high performers and 12%-15% for exceptional performers following our annual compensation review.
+Our investments in organic talent development continue to deliver exceptional outcomes.
+Based on the current trend, we expect that in the second half of the year, our LTM attrition will be back in our normal longer-term range, which has historically been an industry benchmark for talent retention.
+Growth among industry verticals was led by Life Sciences and Healthcare, which grew 10.1%, and Manufacturing which grew by 9.4%.
+Other verticals showed some softness, BFSI grew 3%, Retail and CPG grew 5.3%, Tech and Services grew 4.4%, and Communications and Media grew by 50 basis points.
+In terms of geographies, we see maximum caution in North America and Continental Europe, which grew 4.6% and 3.4% respectively.
+We continue to have good momentum in the United Kingdom, where we grew by 16.1%.
+Among emerging markets, India grew by 14%, Asia-Pacific grew by 4.7%, Latin America grew by 13.5% and Middle East Africa by 15.2%.
+Our industry-leading portfolio of products and platforms had a very strong quarter.
+• ignio™, our cognitive automation software suite, saw 37 new deal wins.
+We continue to strengthen our cloud offering within the ignio suite by expanding coverage across all three major hyperscalers.
+Digitate scientists are collaborating with TCS Research and Innovation to leverage large language models to further enhance ignio's predictive automation capabilities.
+• TCS BaNCS™, our flagship product suite for the financial services, had 7 new wins and 8 go-lives during the quarter.
+The deal wins were well-distributed across developed and emerging markets and in banking, capital markets and insurance.
+• TCS BaNCS Insurance platform also saw excellent traction in Q1, with 3 new wins and 4 go-lives during the quarter.
+However, it is worth highlighting that the Standard Life International deal marks our entry into continental Europe, extending our platform and services footprint to meet the needs of the German and Austrian markets to begin with and thereafter to other markets in Europe.
+With this, TCS ADD has successfully automated over 70,000 adverse event cases, including clinical trials as well as post-marketing cases.
+• TCS HOBS, our suite of products for communication service providers, had 1 new win and 1 go-live during the quarter.
+• TCS TwinX, our digital twin solution, had 4 wins and 1 go live.
+• TCS iON had 25 new wins and 23 go lives.
+In Q1, our platform administered assessments for 18.2 million candidates, 72% higher yearon-year.
+• MasterCraft and Jile won 30 new clients in Q1.
+The steady increase in the number of clients in every revenue bucket is the ultimate validation of a customer-centric strategy.
+The superior outcomes that we deliver result in a steady stream of repeat business and invitations from clients to transform newer parts of their business.
+In Q1, we added 1 more client year-on-year in the $100 million+ band, bringing the total to 60; 13 more clients in the $50 million+ band, bringing the total to 137; 24 more clients in the $20 million+ band, bringing the total to 296; 22 more clients in the $10 million+ band, bringing the total to 468; 27 more clients in the $5 million+ band, bringing the total to 677 and 72 more clients in the $1 million+ plus band, bringing the total to 1,268.
+We continue to see reprioritization of projects in favor of those which are considered business-critical and where ROI realization is likely faster.
+This is what is resulting in some revenue softness across most of our industry verticals, even though our orderbook has been very strong in the last couple of quarters, and there has been no problem in their conversion to revenue.
+At an overall level, given the uncertain macroeconomic outlook, we see strong client interest in cost optimization, vendor consolidation, and integrated operations.
+Gen AI promises to transform most knowledge work by assisting and augmenting people and improving their productivity.
+• We are working with a leading European shipping and logistics company to automate their contract administration using Generative AI, significantly improving productivity and enhancing business outcomes.
+• For an energy utility on the West Coast, TCS is engaged in transforming their service desk operations using Generative AI to enhance self-service, improve the quality of service, and drive customer satisfaction.
+This is expected to result in reduced agent handling time, substantial productivity gains, and improved quality and consistency of responses.
+This will build on the tremendous depth we possess in predictive AI, machine learning and advanced analytics, which we have been using in the last few years to build transformational solutions that can recognize patterns across large data sets, make recommendations and personalize customer experience.
+• A Belgium provider of connectivity and digital services leveraged TCS’ consulting and advisory capability to shift from cost-plus pricing to intelligent pricing within its ICT business.
+TCS delivered a differentiated approach, integrating data from multiple sources to extract meaningful insights from historical data, and an AIdriven dynamic pricing mechanism on an opportunity by opportunity basis that also incorporated anomaly detection.
+The solution has already uncovered significant money left on the table that runs into multi-million dollars, enabling revenue growth and profitability.
+• For Cummins Incorporated in North America, TCS successfully delivered a strategic engagement to identify and reduce global warranty noncompliance.
+This initiative will potentially save millions of dollars per year for Cummins.
+We have extensive experience in this area and a strong portfolio of intellectual property that has helped us gain share in this opportunity.
+We also have TCS Daezmo™ that helps clients speed up data modernization initiatives with a host of accelerators and methodologies to improve project outcomes.
+TCS used its domain and technical expertise to deliver a modern SaaS, AI/ML, and cloud native solution that enables near real-time integration with its core ERP systems to improve performance, usability, and scalability while reducing cost of ownership and technical debt.
+The solution enables seamless integration, interoperability across various business systems, empowering teams to make data-driven decisions, and provide a strong foundation for future AI-based solutions.
+• A US-based provider of connected vehicle services chose TCS as its strategic partner to enable its data monetization strategy to drive growth.
+This has resulted in a reduction of security vulnerabilities by 5% to 10% and enabled 2x faster onboarding of newer sources.
+Most importantly, with all the cybersecurity data hosted centrally, it is now possible for the client to use AI/ML to sift through those vast amounts of data to help analysts prioritize the threats.
+Moving on to cybersecurity, as we have pointed out in prior earnings calls, this has been an area of fast growth for us.
+TCS facilitated an organization-wide assessment of the IAM estate and leveraged its domain and technology expertise to craft a unique solution that will help Bane NOR secure its complex and critical IAM, and reduce risk.
+• A leading supplier of rail-based transportation services engaged TCS to improve the security posture and reduce cyber risk.
+TCS managed and successfully delivered the PAM transformation, helping the client clear rigorous SOX audit control checks from third-party auditors with no significant deficiency for the first time in three years.
+This established a robust foundation of PAM and gave the client sufficient confidence to expand it to other critical infrastructures and applications.
+Moving on to growth and transformation, we continue to see clients invest in business-critical transformational programs that will drive growth.
+• A leading UK-based global leverage company partnered with TCS to accelerate growth with a B2B digital commerce platform.
+TCS helped design and deploy a bespoke solution that strengthens customer relationships across every touchpoint and provides world-class digital experiences for customer engagement.
+The new system also improves commercial execution with 360-degree views of customers and insights on customer behavior, enabling tailored content and communication for targeted customers.
+Its 24/7 self-service has reduced dependency on the sales rep, increased net sales value, and significantly reduced the cost to sell.
+TCS leveraged its Bringing Life to Things™ IoT transformation framework to build a hybrid cloud based IoT platform as the digital spine of the company's remote operations center.
+This data is used to provide real-time asset performance insights that can help end customers avoid work stoppage, reduce maintenance costs, and improve asset utilization.
+Our client not only gains incremental revenue for these valueadded services, but also a competitive edge in the market.
+Lastly, we continue to see strong traction in operating model transformation.
+Tata Consultancy Services Earnings Conference Call July 12, 2023, 19:00 hrs IST (09:30 hrs US ET) all the processes embedding next-generation technologies like machine vision, AI, and machine learning to boost velocity, improve operational resilience, and drive efficiency.
+This enables better alignment with business KPIs, enables faster resolution of issues, and greater resilience in operations.
+• Faced with multiple challenges in their supply chain and IT landscape, a US-based healthcare distributor engaged TCS as a strategic partner to transform their operating model.
+All this has helped reduce supply chain disruption, improved the drug delivery fulfillment, and enhanced their supply chain effectiveness.
+Tata Consultancy Services Earnings Conference Call July 12, 2023, 19:00 hrs IST (09:30 hrs US ET) By integrating the support teams and monitoring performance holistically, spanning business operations, IT applications, and infrastructure support, we have helped the client enhance operational resilience and velocity, helping improve free cash flow and working capital.
+Moving on to order book, we had a strong order book in Q1 with a TCV 1 of $10.2 billion, a book-to-bill ratio of 1.4.
+In rapid succession, we won two deals in the UK public sector from Teachers' Pension Fund and NEST and one from Standard Life DAC, reinforcing our leadership in the UK life and pensions market.
+Congrats and all the best once again on your new innings.
+Sudheer Guntupalli: We understand that predicting macro six, nine months down the line may be tricky at this point, but given that this was a major panic or stress factor in the last quarter, is it fair to assume that September quarter will see a decent growth unlike June, which remained flattish, despite the seasonal strength?
+Two consecutive quarters of strong deal booking despite the weak market, not even including the BSNL deal, and this quarter execution also, largely played out in line with your expectations, and we are seeing market situation improved a bit, especially regarding this one panic factor, and you're saying pipeline is strong.
+As we explained earlier also in the call itself, while the demand is still good, we are winning new deals, but clients are reviewing the projects underway, and wherever the ROI is not very strong, the next phase of the project is getting paused.
+Otherwise, we don't see a problem in the long-term.
+Tata Consultancy Services Earnings Conference Call July 12, 2023, 19:00 hrs IST (09:30 hrs US ET) you said long-term is good, short-term cannot call.
+Like I was mentioning in the media interaction, f you look at US banking, large US banks are still doing good.
+I have called out that utilization still has scope for further improvement and it continues to have.
+And some of our discretionary spend is now at a critical mass, where we can start looking at optimizing them as well.
+And once the uncertainty is lifted, and they have clarity on more long-term outlook in terms of where there will be growth or what they should be doing, we would see a certain class of projects, either cost optimization or transformation projects picking up momentum.
+Is this something which will help you accelerate your revenue growth or should we see this more as a defensive move which will help you defend your revenues because there is a bit of a deflationary nature to the Gen AI deployment?
+But I think what is interesting for us is the fact that it can deliver things faster and the whole time-to-market element could be completely redefined.
+Newer benchmarks could emerge in terms of predictability of the overall software, quality, processes, everything can improve.
+But in all the technology adoptions in the past that we have seen, it has only increased the volume of work and thereby actually we needed more expertise and more hands to do the heavy lifting that people really look for.
+So from that perspective, it is a very interesting technology.
+So I see a lot of opportunities for us in structuring our own way of delivery, our own improvement to the value propositions that we can offer embedding Generative AI.
+So while you definitely talked a lot about the demand opportunity for the customers, I understand, you are also running multiple projects internally as well, to assess AI augmented processes, how they are going to save cost or productivity for you.
+And is that a possibility that, our own productivity benefits within TCS could start to prove much ahead of the revenue opportunity from generative AI comes through, eventually?
+I mentioned about, for example, if someone can predict, if the technology can predict let us say, the container price three quarters down the line, then it could be a boon for the shipping industry.
+So, it is a problem such as that, and how do you improve or increase the yield per acre of agricultural commodities, right?
+Definitely quite exciting use cases there.
+Samir, during media interaction, you talked about clawing back some of the margin in the coming quarters.
+Will it be similar to what we saw last year or there are higher tailwinds or headwinds this year as we move in the coming quarters?
+Samir Seksaria: So, in a typical year for us, we take the biggest headwind, which is the increment up front.
+We then typically claw back the margins through the rest of the year.
+But our focus would be to incrementally get closer to our aspirational band, improving our margins through each of the quarters and exit at a higher rate at the end of the year.
+And then you built momentum through the quarter to deliver what you delivered.
+Is it fair to say that you are entering the next quarter 2Q with slightly better momentum and better visibility than you did in the last quarter?
+I do not want to venture into saying something like we have better visibility, better momentum at this time.
+I wish, I can could say that, we are in a much better place, but I do not want to give that optimism at this time.
+Around two very strong quarters of TCV, now based on the deal ramp schedule, does this provide you with greater visibility of second half versus first half?
+So, I do not believe that we are ready to call that second half is going to be better than first half.
+And also investments on the delivery side, which could help you to benefit from this technology?
+Samir Seksaria: We saw new project starts with deal wins continuing to ramp up.
+So you couldn't really halt everything mid-flight and now it makes it a lot easier to put these pauses?
+And some of the large deals in India market that we know like BSNL and GM probably may not have higher margins.
+Number two is that the platform deals, it has the potential to improve margins, if we execute it well and we deliver it on time and stick to the model in which, we want to continue to charge the customer on a SaaS basis, the opportunity is there to grow well.
+So it has the potential to create a pricing structure which will increase our margins as opposed to only diluting the margin in some of these cases.
+But overall, you have to see these as large opportunities for long-term value creation with those customers.
+On a net-net basis, our approach is to take some of these projects, execute well and see that it adds to the overall capability creation and value creation, which is consistent with our philosophy.
+And M&A, if you look at this one growth strategy that we have not leveraged much historically Do you see now is a good time to use either to build capability, let's say around Gen AI or maybe scale up opportunities from captive transaction as many corporations are looking for resource optimizations?
+We have always looked at M&A if we have to augment some capability that we didn't have internally, and if we thought that by acquiring a company, we'll be able to further expand our services to a larger set of our customers.
+Krithi, just one question from my side on the two segments that we have seen quite contrasting performance in the past few quarters.
+So manufacturing has held up quite well for us.
+It's been quite stable in terms of growth.
+Even in this quarter, we almost have double digit growth on a Y-onY basis.
+So what is keeping this spend up in the manufacturing segment?
+And do you think that manufacturing might continue to remain stable in the coming quarters as well?
+K Krithivasan: I would say manufacturing is doing well because of the low base and the delayed pickup in demand and growth compared to other industries.
+And as the supply chain situation also eases slowly, customers are able to see the growth.
+Today you see the demand is still high for many of the automakers.
+On Retail, our view is, or what we see, the essential retail is doing well.
+Is it only the auto part of the manufacturing segment appearing stable at this point of time and looking to continue to spend?
+I think, excepting one, quite a few of the sub-verticals are doing well.
+And our outlook may not even apply for the overall industry, as we also have significant market share gain in this segment, which is also driving our growth.
+I'm just curious if you think Gen AI would be a needle mover on revenues either for this year or the next.
+But if you look at the full year in FY‘24, I know you expect margins to be clawed back.
+Samir Seksaria: Ankur, all our efforts collectively will be towards improving margins.
+Rest assured all efforts are going towards improving the margins.
+We have started the fiscal year with a string of marquee wins, a robust order book, and revenue growth of 12.6% in rupee terms and 7% in constant currency terms.
+We see strong interest in Generative AI among clients.
+Tata Consultancy Services Earnings Conference Call July 12, 2023, 19:00 hrs IST (09:30 hrs US ET) We are also upskilling our employees at scale.
+On the people side, we will be honoring all the job offers we have made but remain focused on utilizing the capacity we have already built up.

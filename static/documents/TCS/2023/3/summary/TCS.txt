@@ -1,0 +1,66 @@
+TCS has released a transcript of their earnings conference call for the quarter ended June 30, 2023. The transcript is available on their website. The conference call was held on July 12, 2023, after a meeting of the Board of Directors. The call was recorded and all participant lines were in listen-only mode. The call was moderated by Mr. Kedar Shirali, Global Head of Investor Relations. The call discussed TCS' financial results for the first quarter of fiscal year 2024. The call included presentations by CEO and Managing Director Mr. K. Krithivasan, COO and Executive Director Mr. N G Subramaniam, CFO Mr. Samir Seksaria, and Chief HR Officer Mr. Milind Lakkad. The call concluded with a Q&A session.
+
+The company's outlook for the future must be reviewed with the risks they face. The risks are outlined on the company's website and emailed to subscribers. Krithi is introduced as the speaker. Krithi is happy with the company's performance, despite the current circumstances. In Q1, revenue grew by 12.6% in rupee terms, 7% in constant currency terms, and 6.6% in dollar terms. The operating margin was 23.2% and the net margin was 18.6%. Samir discusses the financial performance of the company, including revenue growth and margins. Milind provides information about the company's workforce, diversity, and talent development initiatives.
+
+N G Subramaniam is discussing the performance details of the quarter. Caution among clients has resulted in deferments and pauses in projects. Life Sciences and Healthcare grew 10.1%, Manufacturing grew 9.4%. Other verticals showed some softness. North America and Europe had the most caution. Good momentum in the United Kingdom. Emerging markets grew in India, Asia-Pacific, Latin America, and Middle East Africa. ignio had 37 new deal wins and launched a FinOps module. TCS BaNCS had 7 new wins and 8 go-lives. The TCS BaNCS Insurance platform had 3 new wins and 4 go-lives. Quartz blockchain had 1 go-live. TCS ADD had 2 go-lives in the life sciences sector.
+
+TCS OmniStore had 1 new win and 1 go live in the quarter. TCS HOBS had 1 new win and 1 go live. TCS TwinX had 4 wins and 1 go live. TCS iON had 25 new wins and 23 go lives, administering assessments for 18.2 million candidates. MasterCraft and Jile won 30 new clients. The number of clients in every revenue bucket increased. TCS added more clients in various revenue bands. Clients are cautious due to macroeconomic uncertainties. Smaller programs are being scrutinized. Projects are being prioritized based on business-criticality and ROI realization. Discretionary projects are experiencing reduced scope or pace. Revenue is softening across industry verticals. Cost optimization, vendor consolidation, and integrated operations are of interest to clients. Generative AI is a notable trend.
+
+Tata Consultancy Services is working on multiple use cases for Generative AI.
+- They are automating contract administration for a shipping and logistics company to improve productivity.
+- They are transforming service desk operations for an energy utility to enhance self-service and customer satisfaction.
+- They are piloting a project to transform customer service for a global provider of travel insurance using Generative AI.
+TCS believes that the full potential of Generative AI is best realized through a holistic enterprise-wide initiative.
+- They offer advisory services to help customers with enterprise-wide adoption of Generative AI.
+- They are developing talent in Gen AI solution suites with the goal of training over 100,000 associates.
+TCS has expertise in predictive AI, machine learning, and advanced analytics.
+- They have thousands of employees trained in AI/ML solution-building.
+- They have market-leading products and a significant number of AI patents.
+Recent engagements have showcased the business impact of AI-powered solutions.
+
+A Belgium provider of connectivity and digital services partnered with TCS to transition from cost-plus pricing to intelligent pricing in their ICT business. TCS implemented a data-driven dynamic pricing system that detected anomalies and uncovered missed revenue opportunities. Cummins Incorporated worked with TCS to identify and reduce global warranty noncompliance by using advanced analytics and AI/ML. TCS also offers solutions for data modernization, including assessing data maturity, accelerating initiatives, and creating data marketplaces. TCS helped a global leader in water, hygiene, and energy technologies modernize their master data landscape, and assisted a US-based provider of connected vehicle services in implementing a data monetization strategy.
+
+TCS built a data warehouse for a US market institution to monitor and reduce security threats. This solution reduced vulnerabilities and enabled faster onboarding of new sources. The client can now use AI/ML to prioritize threats using the centralized cybersecurity data. TCS helped Bane NOR, a Norwegian railway company, improve their IAM solution and reduce risk. TCS also enhanced cybersecurity for a rail-based transportation services supplier by integrating various security technologies. Additionally, TCS transformed privileged access management for a European technology leader, helping them pass rigorous audits. TCS partnered with a UK-based leverage company to create a B2B digital commerce platform and improve customer experiences. TCS enabled an industrial equipment rental company to offer new services through an IoT platform, improving asset performance and generating incremental revenue.
+
+The company is seeing strong progress in transforming the operating model with next-generation technologies like machine vision, AI, and machine learning. Business leaders appreciate TCS' integrated operations model with AI-powered business command centers, which provide visibility and control across all operations. TCS helped a healthcare distributor in the US transform their operating model by integrating IT tools, systems, and processes, reducing supply chain disruption and improving drug delivery. TCS also partnered with a US information management company to digitally transform their CFO operation by integrating business processes and IT support. TCS has a strong order book with multiple wins in the UK public sector.
+
+PwC found that apart from TCS, no other supplier or consortium could meet Nest's requirements.
+BFSI order book was $3 billion, retail order book was $1.2 billion, and North America deals were $5.2 billion.
+No concerns about the banking crisis anymore.
+Predicting future growth in the September quarter is uncertain.
+Two consecutive strong quarters of deal booking, but some caution due to project reviews.
+No long-term problem with demand or investment in technology.
+
+Sudheer thanked the speaker and wished them well. The moderator introduced the next question from Apurva Prasad. Apurva asked for clarification on Krithi's previous comment about long-term prospects and short-term uncertainty. Apurva wanted to know if the softness in project prioritization was widespread or concentrated. Krithi responded that the trend of reviewing and reassessing discretionary projects was broad-based, with some variation between clients. Krithi also mentioned that US banks were still performing well. Apurva then asked Samir about near-term operational levers for growth. Samir mentioned utilization, productivity, realization, and optimizing discretionary spends as primary levers. Mukul Garg asked about the signs clients were looking for to change their views on pauses and pushouts. Krithi explained that the uncertainty was causing clients to re-evaluate programs, but it was a near-term issue and demand could potentially come back quickly if conditions don't worsen.
+
+ROI is weak and will take longer.
+Uncertainty needs to be lifted for projects to pick up momentum.
+Investments will be cautious until uncertainty is cleared.
+Gen AI will have multiple impacts - revenue growth, defending revenues, talent side.
+Gen AI can deliver things faster and redefine time-to-market.
+Evaluation is ongoing at the enterprise level for cost and pricing of Generative AI.
+Opportunities exist for delivery improvement and value propositions with Generative AI.
+Industries' embrace of Generative AI and experience with cloud cost will be interesting to see.
+
+NG Subramaniam acknowledged the existence of internal projects and pilots in various verticals of TCS that aim to assess the cost and productivity benefits of AI augmented processes. These projects are being executed and prioritized based on their potential business impact. For example, if the technology can predict container prices or improve agricultural commodity yields, it can have significant benefits for industries. TCS is also working on crafting methodologies and toolkits to make this technology meaningful for clients. However, specific details about these projects are not provided in this discussion. Kumar Rakesh expressed excitement about these use cases and asked about the trajectory of margin recovery in the coming quarters. Samir Seksaria mentioned that due to macro uncertainties, it is difficult to estimate the exact margin recovery quarter on quarter. However, TCS aims to gradually improve margins throughout the year and exit at a higher rate at the end of the year.
+
+Kumar Rakesh thanked Samir. Moderator acknowledged Gaurav Rateria from Morgan Stanley. Gaurav Rateria asked if entering 2Q with better momentum than last quarter. Krithivasan said it's difficult to say, still similar to March. Gaurav Rateria asked if second half visibility is better. Krithivasan said it's too early to tell. Gaurav Rateria asked about investments in consulting and delivery for generative AI projects. Krithivasan mentioned building in-house capability, R&I team, partnerships, training, and looking for new investments. Focus on associates and contextual masters working together for customer solutions.
+
+Gaurav Rateria thanked the participants. The moderator thanked him back. Ravi Menon from Macquarie asked about fresher hiring. Krithivasan said they continue to hire freshers. Ravi Menon asked about the increase in onsite costs last quarter and if new projects were started this quarter. Samir Seksaria said there were new project starts and onsite movements. Ravi Menon asked if the deferral of contracts was due to the change in project methodology. Krithivasan said it was related to the customers' business outlook. Rahul Jain asked about the profitability of the regional market segment. N G Subramaniam said they will have to work on it as those are large programs.
+
+The overall deals we have signed amount to $10.2 billion, excluding the BSNL deal. The platform deals have the potential to improve margins if executed well and delivered on time. Charging customers on a SaaS basis can help grow well. There is potential to create a pricing structure that increases margins. Large system integration projects may have lower margins. These opportunities are seen as long-term value creation with customers. We do not publish regional market profitability separately; segmental results are based on industry verticals. M&A is considered when there is a need to augment capabilities and expand services. Our strategy remains the same, whether it's Gen AI or cloud services. We are open to opportunities that meet our criteria and thresholds. Manufacturing segment has been stable with double-digit growth. Retail segment has shown weakness but may bottom out in a couple of quarters.
+
+Manufacturing is doing well due to low base and delayed pickup in demand compared to other industries. Demand for automakers is still high. Essential retail is doing well, but luxury and fashion are experiencing a softness in demand. Many sub-verticals in manufacturing are doing well, except for one. TCS has market share gain in this segment. Each demand cycle has its own nuances. There is uncertainty, but customers realize they need to invest in transformative programs to stay competitive. Short-term revenue is soft, but long-term technology spend is necessary. Customers are navigating uncertainty.
+
+Ankur Rudra is looking for historical data to compare.
+Moving on to the discussion about Generative AI.
+Ankur asks if Gen AI will impact revenues this year or next.
+N G Subramaniam says Gen AI doesn't have much impact in contract discussions but large enterprises are investing in it for cloud architecture.
+There is a debate on how much of Generative AI should be developed in-house.
+These discussions will continue for a few quarters.
+Ankur asks about contract profitability.
+Samir Seksaria says efforts are being made to improve margins.
+Closing comments: TCS had a strong start to the fiscal year with wins and revenue growth.
+There is strong client interest in Generative AI and TCS is assisting with use cases and offering advisory services.
+
+Tata Consultancy Services is upskilling their employees. They plan to have a talent pool of 100,000 Generative AI trained associates. In Q1, their operating margin was 23.2% and their net margin was 18.6%. They will honor job offers they have made. Their LTM attrition in IT services fell to 17.8% and they expect to be back in their normal industry-leading range in the second half of the year. The conference call concludes.

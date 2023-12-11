@@ -1,0 +1,485 @@
+`July 31, 2023 National Stock Exchange of India Limited Exchange Plaza, C-1, Block G Bandra Kurla Complex Bandra (E), Mumbai - 400 051 BSE Limited Phiroze Jeejeebhoy Towers Dalal Street Mumbai - 400 001 SCRIP CODE: 500477 SCRIP CODE: ASHOKLEY Dear Sir/Madam, Concall Transcription Pursuant to Regulations 30 and 46(2) (oa) (ii) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended, we attach herewith the transcript of the Company’s Analyst Call held on July 24, 2023 to discuss the financial results for the quarter ended June 30, 2023.
+Meeting start time - 3.00 p.m. IST End time – 4.00 p.m. IST We request you to take the above on record.
+Thanking you, Yours faithfully, for ASHOK LEYLAND LIMITED NATARAJAN RAMANATHAN Digitally signed by NATARAJAN RAMANATHAN DN: c=IN, o=Personal, pseudonym=76Ay9IaKzUopoDjMdQaYLKTIH8UEFDer, 2.5.4.20=22ebdb00708268080062bd623ed12444603631a4a2c6396 a6569847037804046, postalCode=600061, st=Tamil Nadu, serialNumber=e6c7e692a309c6eac78562d9913f554c20235b2382a5 7b04952b55db37396323, cn=NATARAJAN RAMANATHAN Date: 2023.07.31 16:04:17 +05'30' N Ramanathan Company Secretary Encl: a/a
+“Ashok Leyland Limited Q1 FY '24 Earnings Conference Call” July 24, 2023 MANAGEMENT: MR. SHENU AGARWAL – MD AND CEO – ASHOK LEYLAND LIMITED MR. GOPAL MAHADEVAN – WHOLE-TIME DIRECTOR AND C F O – ASHOK LEYLAND LIMITED MR. K M BALAJI – DEPUTY C FO – ASHOK LEYLAND LIMITED MODERATOR: MR. JOSEPH GEORGE – IIFL SECURITIES LIMITED Page 1 of 30
+Ashok Leyland Limited July 24, 2023 Moderator: Ladies and gentlemen, good day, and welcome to Ashok Leyland Q1 FY '24 Earnings Conference Call, hosted by IIFL Securities Limited.
+As a reminder, all participant lines will be in the listen-only mode, and there will be an opportunity for you to ask questions after the presentation concludes.
+Should you need assistance during the conference call, please signal an operator by pressing star, then zero on your touchtone phone.
+Please note that this conference is being recorded.
+I now hand the conference over to Mr. Joseph George from IIFL Securities Limited.
+Thank you, and over to you, sir.
+Joseph George: Thank you, Michelle.
+Hi, good afternoon, everyone.
+On behalf of IIFL Securities, I welcome you all to the 1Q FY '24 Results Conference Call of Ashok Leyland.
+From the management team, we have with us Mr. Shenu Agarwal, MD and CEO, Mr. Gopal Mahadevan, Whole-Time Director and CFO, Mr. K.M.
+Balaji, Deputy CFO.
+I will hand over the call to Shenu, sir, for the opening remarks, post which we'll start with the Q&A.
+Over to you, sir.
+Shenu Agarwal: Good afternoon, ladies and gentlemen.
+It's a pleasure to have you at the Ashok Leyland Q1 FY '24 Earnings Call.
+I thank you very much for the interest shown in Ashok Leyland.
+This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+Page 2 of 30
+As far as LCV industry is concerned, the progress of the monsoon and its impact on rural demand remains a key factor to watch for.
+Since we pass on the effect of commodities generally with a lag of a quarter, we had some impact from this, which was, to an extent, neutralized with efficient inventory management.
+The EV business housed under Switch is crucial for future proofing Ashok Leyland.
+While we will continue to look at external investors, Ashok Leyland, shall, in the meanwhile, fully support the efforts of Switch in developing world-class products.
+We are also preparing for launch of our Switch Electric LCVs in the second half of the year.
+During the quarter, Ashok Leyland has launched a Star 6x4 ED PTO Ready Mix Concrete, Ecomet Star 1915, 2820 G45 FES, Ecomet Star This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+Page 3 of 30
+Now I will quickly run you through our Q1 performance.
+This is the sixth consecutive quarter of 30%-plus market share for Ashok Leyland.
+Our aftermarket sales at Rs.
+459 crores.
+This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+Page 4 of 30
+Q1 revenues stood at Rs.
+7,223 crores.
+EBITDA for Q1 was at Rs.
+821 crores, which is at 10%, as against Rs.
+320 crores at 4.4% in Q1 last year.
+576 crores versus Rs.
+68 crores in the previous year.
+You may note that the tax expense for the quarter considers a one-time deferred tax credit of Rs.
+172 crores on account of expected transition to lower tax regime.
+Operating working capital is at Rs.
+Capital expenditure for the quarter is roughly at Rs.
+95 crores.
+Net debt as of 30, June 2023, was at Rs.
+1,464 crores as against a negative of Rs.
+243 crores at the end of fiscal year '23.
+I now open the floor for questions.
+Thank you.
+Moderator: Thank you very much, sir.
+We have the first question from the line of Chandramouli Muthiah from Goldman Sachs.
+Please go ahead.
+Chandramouli Muthiah: My first question is around some of the cyclicality of discounting in the CV industry.
+And we seem to be in the midst of that sort of scenario right now.
+So just trying to understand what's giving you that confidence?
+And any color on that would be very helpful.
+This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+Page 5 of 30
+Ashok Leyland Limited July 24, 2023 Shenu Agarwal: Yes.
+I mean, it is true that historically, things have happened in a certain way as far as discounts are considered.
+And I think everybody in our industry understands that everyone needs to invest in this new change, that is coming up on us.
+We have heard from our peers as well in various media reports that everybody wants to focus on profitability.
+Of course, it is very difficult to say how competition would respond as far as discounts are concerned.
+Chandramouli Muthiah: Got it.
+That's helpful.
+My second question is on the plan to launch sort of a zero-ton to 2-ton LCV over time.
+So I understand this is a pretty large volume category within LCVs, which you're not playing in at this point.
+If you could give us some idea on what sort of time lines you have in mind to put this product into market?
+So just any early thoughts there would be super helpful.
+Shenu Agarwal: Yes.
+As we also stated in our analyst meet, I think last month was that we are seriously considering an option of getting into sub-2-ton segment.
+Now of course, right now, it is too early to comment on the time lines, etc.
+Because this market is a very mature market, and it's entrenched with the competition that has been there for many years.
+And therefore, This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+Page 6 of 30
+Ashok Leyland Limited July 24, 2023 whatever and whenever we want to enter this, would depend on us being able to come up with a very sharp proposition on what kind of product do you want to come up with.
+Yes.
+So that will take a few more months.
+As we said in the Analyst Meet as well, hopefully, during the year sometime, we would be able to tell you more about this.
+Moderator: Thank you.
+The next question is from the line of Kapil Singh from Nomura Group.
+Please go ahead.
+You had guided for same as well due to pre-buy.
+But what are the signals you are reading from the ground, if you could talk about that?
+Shenu Agarwal: Yes, Kapil, thank you for the question.
+We don't see any kind of negativity in any of the segments actually.
+We are still maintaining that guidance.
+Kapil Singh: Okay.
+Great to hear.
+So what are the levers that you are seeing for both that are possible from hereon as we move towards that goal?
+This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+Page 7 of 30
+For example, like in MDV buses, in medium heavy-duty buses, we have a market share of 50% or more.
+But in ICV buses, which is about two-thirds of the bus industry, our market share last year was still like around 15%.
+We have our actions deployed in the right place, whether it is product segments or geographies.
+And in the longer -- in the medium to long run, we want to aim at midteens, which is roughly around 15% EBITDA, right?
+But double digit is what is our focus in the near term right now.
+Kapil Singh: Great.
+Sir, if I could just lastly touch on the EV side as well, we have seen quite a few orders coming in for -- from the various governments, but Ashok Leyland so far has already participated very aggressively in This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+Page 8 of 30
+Ashok Leyland Limited July 24, 2023 those orders.
+So what is your outlook now as we look into FY '24, FY '25?
+Shenu Agarwal: No, Kapil, that's not right.
+I mean, we have been participating in the tenders that have been floated by STUs recently, especially the CESL two tenders that we participated.
+Now we are in discussions with all these STUs, wherever we got an opportunity to get into contracts.
+Moderator: Thank you.
+The next question is from the line of Gunjan Prithyani from Bank of America.
+Please go ahead.
+Gunjan Prithyani: I have two questions.
+Firstly, on the margin.
+Just trying to get a little bit more color.
+So I'm just trying to understand what were the levers for improvement here?
+You've got steel correction tailwind yet to play out.
+So if you can just give us some thoughts on how we should be thinking about margins for the remainder of the year?
+Gopal Mahadevan: Yes.
+Hi, Gunjan, this is Gopal.
+See, essentially, I know you're looking at Q1 versus Q1.
+So what has happened last year is there are two things that have we have been actually working on.
+What have we done at Leyland?
+At Leyland, what has happened is, when you compare Q1 of last year with Q1 of this year, this is actually baked This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+Page 9 of 30
+Ashok Leyland Limited July 24, 2023 in four quarters of price increases.
+All of this resulted in the first quarter itself.
+That was the internal question that we had, and we were able to do that.
+Gunjan Prithyani: Okay.
+And so for the remainder of the year, is there any further cost, I guess, you're talking about the recent initiatives that you have taken, and of course, the modular platform.
+So is there more to come from those initiatives?
+Or going into the remainder of the year, it's essentially going to be operating leverage and steel correction, which is yet to play out?
+Gopal Mahadevan: No, you must understand one thing.
+This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+Page 10 of 30
+We are already in the second quarter, the first half is almost going to get complete.
+Gunjan Prithyani: Okay.
+Got it.
+The other question I had was on the Hinduja Leyland Finance.
+If you can just refresh us on where we are on the time lines, how long it can take for the business to demerge?
+I know you all raised money, but just figuring the demerger time lines there?
+Gopal Mahadevan: Okay.
+I'll tell you what is happening is it's not a demerger.
+Hinduja Leyland Finance is actually going to merge into NXT Digital.
+So it's a reverse merger that is happening.
+There's no demerger.
+I think the time lines, there are some formalities that are to be completed.
+Our expectation is that it should happen anywhere between Q3 and Q4.
+No major deviation in the time lines.
+Gunjan Prithyani: Okay.
+And last one from my side will be just the inventory level, is there any -- where are we versus the typical inventory levels in the channel?
+This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+Page 11 of 30
+So we don't have any significant inventory in the pipe that is with company or dealerships.
+I think, it's at manageable level.
+Month-on-month, it keeps oscillating, but from our side, there is no stuffing of the inventory at all.
+Moderator: Thank you.
+The next question is from the line of Pramod Kumar from UBS.
+Please go ahead.
+My first question is on the non-vehicle side.
+So if you can just throw some color on the quantitative aspects there as to how spare, how is defense, how is genset business, and that will be great?
+Shenu Agarwal: Thank you, Pramod.
+So let me just start with the Power Solutions business first.
+And I want you to just keep this in context that there was supposed to be an emission norm change from July 1 2023, which actually got postponed now by about 12 months.
+So because of this announcement of postponement which came very late into the quarter, there was some pre-buying that happened in the quarter, which would impact our Q2 and Q3 volumes as far as the Power Solutions Business is concerned.
+Now all of that pre-buying did not happen that we were anticipating, because the announcement came like a week or 10 days in advance that the norms would get postponed.
+But just keep that in mind.
+This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+Page 12 of 30
+We have just announced receipt of Rs.
+800 crores order from the Army.
+So it's a culmination of all those efforts.
+If you can, Gopal, if you can just help us understand what used to be the typical discounts, what the industry was seeing on HCVs?
+So it depends on the model.
+When I'm giving a very average number because what happens is that you have certain SKUs and there are North, South, East, West pricing etc., that happens.
+Page 13 of 30
+Ashok Leyland Limited July 24, 2023 anywhere between 10% to 15% in terms of vehicle.
+Don't add that stake to the margin.
+Because what happens is discounting is one stream of activity, price realization is another stream, billing is another stream of activity, net price realization is a third stream of activity.
+So what has happened is quarter-on-quarter, like you mentioned, as I had mentioned, the 10% to 12%, why is it coming?
+So you would have actually had last year maybe about 7% to 8%.
+And then you have another 2% coming this quarter.
+I don't recollect if you from your experience or Balaji's experience or even Shenu's, if you've seen this even, like say, 15 years, 20 years back, I don't recollect at least in the last 15 years, 17 years.
+So I'm just trying to understand what's driving this price discipline, sir?
+The average truck size were also much smaller.
+Everything adds This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+Page 14 of 30
+Ashok Leyland Limited July 24, 2023 up, and the customer also, there's somewhat of demand sensitivity at some particular level, right?
+How is the industry, how is the customer base reacting to this?
+I'm just trying to understand how far can we continue to have such run.
+Gopal Mahadevan: Let me put it in perspective and then I'll request Shenu also to add.
+See, there are two, three things here.
+Your point is right.
+And what happened is the whole thing had imploded, right?
+Because it was bang at the start of COVID.
+So there is no demand, and you are launching and you are forced to launch products for regulatory compliance with a product which was 20% to 25% more.
+It could be 13%, 14% in some SKUs, but broadly, I'm saying 20%.
+So once that happened, the pricing power was virtually not there in the industry.
+And the industry always, like you rightly said, already had the practice of discounting.
+Now last year, what has happened is, after '20-'21 and then we saw in Q4 of '21-'22, and maybe second half of '21-'22 demand coming back.
+And you need transportation to fuel this growth.
+So then what happened is, whatever demand that had actually not taken place in the past, suddenly, and the axle load norms also, which had created capacity of maybe about 160,000 vehicles had also kind of -- the impact was over.
+When this was This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+Page 15 of 30
+Hopefully, what we are expecting is that the same rationale will continue as we move forward.
+Because, frankly, I think customers have to be acquired from capability and not by discounting.
+And we have been taking cost out, which we have been sharing quite openly with you.
+We have also shared with you our medium-term target of mid-teens EBITDA.
+We said this time that let us share what we are doing as a company and what we are aspiring as a management team.
+Moderator: Thank you.
+The next question is from the line of Arvind Sharma from Citigroup.
+Please go ahead.
+Arvind Sharma: So the first question would be on the AVTR range, the moderator platform.
+Would it be possible to just help us with the overall contribution of this range to your total volumes?
+And if you can just comment on the profitability as well?
+So that'd be the first question.
+Gopal Mahadevan: Well, you see, AVTR is a range that factors in the higher tonnage vehicles.
+We possibly will not be able to share exactly how much of it.
+Because all I can tell you is that, we actually monitor this for the heavy commercial vehicles.
+We also talk about the intermediate commercial This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+Page 16 of 30
+Ashok Leyland Limited July 24, 2023 vehicles, and we look at the margins.
+One is product performance.
+This industry is the toughest of all the industries, if you take the two-wheeler, four-wheeler and then you take MHCV trucks, I would say that MHCV trucks has the finest and the most, knowledgeable customers, because this is used for commercial purposes.
+This is one.
+So we're seeing that slowly happening.
+And as we move forward, these are things that we shared with you in 2020-'21, and all of that is happening.
+So AVTR is crucial and an important step for us.
+Arvind Sharma: If I could also ask a second question more on the Bus segment.
+Can you throw some light on the new orders from STUs that you are seeing, how much are -- what's the proportion of electric buses to ICE buses?
+And This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+Page 17 of 30
+Ashok Leyland Limited July 24, 2023 do you foresee a time when a majority of these new orders would be on the electrical side?
+Shenu Agarwal: Yes.
+So see, the electric thing has just started.
+I mean, there have been like two large tenders so far.
+And therefore, as a percentage of the total bus industry, it's still very small.
+It has not even penetrated the private sector as yet, because of ecosystem challenges.
+But yes, I mean, there are several reports in the market that indicate that about 30% to 40% of at least the STU demand can be electric.
+While different governments have been proclaiming different things, some are even like we just heard a few days back, that government wants 100% of STU demand to be electric now going forward and achieve that by 2030 or earlier.
+Yes.
+I think, we will see the timing can be varying, but definitely, this is going to happen.
+Electrification will happen starting from buses and then moving on to the smaller vehicles, the LCV range.
+And then also even in the trucks in some special specific niche areas.
+Yes, it is bound to happen.
+It's just like what would be the inflection point that is to be watched for.
+Arvind Sharma: Got it, sir.
+And is there any proportion that you can share between sales to STUs and the private orders in the Bus segment for Ashok Leyland?
+Is there any proportion that you can share?
+Shenu Agarwal: Sorry, can you ask that again?
+Arvind Sharma: Sir, the proportion of volumes from STUs and private orders, is there a proportion that you can share?
+Shenu Agarwal: Gopal, can you?
+Gopal Mahadevan: We didn't discuss much about the Bus in this call, because everybody was discussing on trucks.
+This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+Page 18 of 30
+Ashok Leyland Limited July 24, 2023 Actually, this quarter, we possibly have again gone back to number one in Buses in India.
+The bus portfolio is very important to us.
+It was when the maximum impact that happened on COVID was on account of buses.
+So no schools, no intercity transport, all institutions were shut, everything was work from home, suddenly, things have started to come in.
+Even the large software giants are now insisting that you need to work at least three times a week or four times a week and all schools are up and running, colleges are up and running.
+And just to add to what our MD, Shenu, mentioned, you know that the EV bit of it is just starting.
+Now we are seeing STU is also actually ordering a lot of diesel buses.
+To give you an idea, today in this quarter, okay, I'll tell you the TIV, broadly, STU would account for approximately about 7.5% to 8%.
+But out of the total buses, which is you take it as private, STU, ICV passengers, the largest is actually on ICV passengers essentially in school bus segments, which actually accounts for nearly 71%.
+So you have about 8% to 9% in STU and the balance is private buses.
+This ratio will start to actually change when governments are going to order more-and-more of STU.
+I mean, STUs are going to start ordering.
+You must remember that the scrappage has also affected the government vehicles and including buses, where they will be a push to replace their existing fleet.
+Some of which are very old.
+This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+Page 19 of 30
+Ashok Leyland Limited July 24, 2023 Moderator: Thank you.
+The next question is from the line of Pramod Amthe from InCred Capital.
+Please go ahead.
+Pramod Amthe: The first question with regard to the electric trucks.
+There are some signs of some mining companies or others importing the trucks from abroad.
+How are you looking at the space, and when you're planning to introduce the products here?
+Shenu Agarwal: Hi, Pramod, thank you for the question.
+As far as the trucks are concerned, we are working on several different applications as far as the electric is concerned.
+How we want to focus on some of the niche applications where we are working very closely with some of the customers.
+I think going forward, within the next few quarters, you would see some kind of activity in that space.
+These would not be in a true sense, commercial launches, but these would be some kind of large scale, medium scale customer pilots that we intend to do, right.
+So those discussions are ongoing on the market size as well with customers, understanding their requirements, understanding the local geography, the application, etc.
+At the same time, with that information coming in now, we are maturing our technology and tweaking it to suit to the market requirement.
+Yes.
+I mean, we are not in a hurry to kind of commercially launch or make a lot of noise about it, but we want to make sure that we focus on maturing the technology in the right way, make it well suited for the applications that are in the market and that are ready to absorb this kind of technology, working with some very mature large customers who have a lot of interest in these vehicles either because of the TCO compulsions or because of their own environmental goals.
+So that is our focus area.
+Pramod Amthe: And second one is to Gopal.
+This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+Page 20 of 30
+Ashok Leyland Limited July 24, 2023 Is it all attributed to working capital?
+So what is the working capital situation now?
+And second with related to the same is, what is the investment into subsidiaries which has gone into June quarter?
+Gopal Mahadevan: You're right.
+I mean, the predominant part of it.
+See, what happens, there is nothing wrong in this working capital movement.
+Let me assure you.
+And then you will see that this is a traditional pattern that happens.
+The reason is you know why?
+Especially the February and March month, there is a lot of demand.
+And so what happens, your FG inventory, and since we don't have -- maybe we do offer a little bit of credit now.
+It comes down quite a bit.
+And so there is a huge rush of cash that happens in the month of February and March, but which is why we don't keep kind of exemplifying it or trying to expand it beyond a point.
+And so the creditors need to be paid out.
+When that happens, you see a sudden payment cycle that comes in.
+240crores of net cash, which was there, has actually become Rs.
+1,400 crores.
+Shenu Agarwal: Rs.
+1, 500 crores.
+Gopal Mahadevan: Rs.
+1,474 crores of debt.
+215 crores, that goes to This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+Page 21 of 30
+Ashok Leyland Limited July 24, 2023 Switch.
+But the main reason is working capital.
+K. M. Balaji: Actually, you would have seen in the last quarter, our working capital was around two days.
+This is only reflected by way of movement in the debt also.
+243 crores.
+So from there now, we have moved to Rs.
+1,400 crores, roughly Rs.
+1,700 crores of movement have happened.
+Moderator: Thank you.
+The next question is from the line of Amyn Pirani from JPMorgan.
+Please go ahead.
+Amyn Pirani: My question was actually related to what was just discussed right now.
+So just sticking to the cash flows, you mentioned that capex was Rs.
+95 crores for the quarter.
+What was the investment in Switch in the quarter?
+Gopal Mahadevan: I think, the investment in Switch, I think, we did about Rs.
+200 crores or so, not an investment, not in equity.
+There was no equity investment that was done.
+There were some temporary short-term loans that were given, if my memory serves me right.
+Amyn Pirani: Okay.
+But the full year...
+This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+Page 22 of 30
+Ashok Leyland Limited July 24, 2023 Gopal Mahadevan: Just want to clarify, Amyn, you know, this company as well.
+Whatever numbers that Balaji gave in terms of working capital days, that does not include Switch support.
+And just to give you a perspective, when we said that we have already shared with you earlier itself, I think even before the investment meets that we had in Mumbai, we had mentioned that we will support Switch in one way or the other for about Rs.
+1,200 crores in the current year.
+That plan will not change.
+So whether we will do it as loan funding, whether we'll give it as equity, whether we'll give it as other instrument, is all we are actually taking a decision.
+And we are looking at two variants of LCV coming out, another variant of a bus coming out and maybe a European model bus also coming out.
+So we are not going to let this action slow down.
+So that plan will continue, and we will continue to support and infuse funds as and when required.
+But this year, I think the overall estimate, we stand by it, which will be about Rs.
+1,200 crores, which we have shared with you already.
+Amyn Pirani: Great.
+And just on the Switch, the electric bus that you mentioned, now at least in India, most of these EV buses are being bought as of now by the STUs and the model in which they are being bought is of a buildoperate kind of a model.
+Now do you have any initial thoughts as to when you launch an EV Bus?
+Obviously, I'm guessing that over a period of time, there will be a demand from the non-STU category also.
+So are you gearing-up for or planning to whenever you launch, bidding for these build-operate and transfer kind of projects?
+Or would you want to focus on the non-STU segment for these -- for the EV buses specifically?
+Shenu Agarwal: Yes.
+See, as far as the EV buses for the private sector, which is outright purchase kind of a model is concerned, it will take more time.
+So we are working with the customers to penetrate into that segment or rather to say, let us develop that segment.
+Now there is no segment right now, This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+Page 23 of 30
+Ashok Leyland Limited July 24, 2023 right?
+But that will take a little bit more time.
+Because it's not just about the product, it's also about a lot of ecosystem challenges that we have to deal with.
+So we are working with our customers on some of those challenges to be overcome.
+But on the STU, which is like clear and now, the only model right now is the build-operate kind of a model.
+So definitely, we are going to try to execute those.
+And we are in discussions with various STUs to be to be able to do that.
+Amyn Pirani: And if I can just squeeze-in one last question on this model.
+Obviously, the way the financials and the profitability will work on these models is different from how we have looked at the company for all these years.
+So how should we think about when you start -- like this will be long term, you will not make the money upfront, you will keep the asset on your books.
+So maybe not today, maybe later on, whenever you can, it will be helpful for us to understand how should we think of the profitability and the ROCE on this kind of a business?
+Gopal Mahadevan: See, Amyn, how you can possibly look at this, as a portfolio.
+Because we are a commercial vehicle manufacturer.
+We have a vision.
+We want to be numbered in the Top 10 in the world.
+And we need to do a lot of actions on multiple fronts, which is we have to expand our LCV portfolio.
+There are defense vehicles that need to be enhanced.
+So there's a lot of work that's going on.
+This is one bit.
+The second bit is we also need to be a very relevant player in future fuels.
+We cannot afford not to be there.
+So what are the future fuels?
+Of course, there is CNG, LNG, with which we have actually got working variance.
+Other than what has been introduced in the past, we are working with some of the large organizations in India, which you know This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+Page 24 of 30
+Ashok Leyland Limited July 24, 2023 for hydrogen, H2-ICE.
+We are also having some collaboration happening on hydrogen fuel cell.
+Now coming to EV, that is why we also had a separate company called Switch for EVs.
+At the moment when Switch is evolving and we need to pick and choose orders as we move forward.
+Now that is why we have a company called as OHM, which is not yet kind of operationalized.
+Because we first wanted to do that in Switch.
+You will hear more about OHM in the coming months, when we decide to operation it.
+Today, OHM doesn't have any operations.
+But when we do that, our view and our strategy would be to house all the e-mobility as a service, the eMaaS, the long-term returns asset-based financing in OHM.
+Now if you actually step back and look at it, there is no major difference that you will see at a 30,000-feet level between a company like HLF and which is a finance company, and OHM.
+Correct?
+Amyn Pirani: Yes.
+Gopal Mahadevan: Asset lending, only difference is here, you are doing operating leases.
+Which means, you manage the vehicle, you run the vehicle, you ensure that the STU or the customer pays for it, and it is a pay per kilometer with assured guarantees etc., and these are slightly longer-term contracts.
+We will now, if the country starts to kind of move in this direction, it will happen to akin to what is happening in solar or what happened in solar over the last 10 years, 15 years, 20 years.
+So we may actually see that happening.
+At the current juncture, the EV industry is still pretty nascent.
+So but what we said is, no, we need to participate as a bus manufacturer.
+That This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+Page 25 of 30
+Ashok Leyland Limited July 24, 2023 is why we are creating OHM.
+You will hear more about this in the future, and we would be more than happy to serve customers as a direct sale also.
+We are readying ourselves for that.
+So the market will also start saying, "Hey, why should we go to this?
+Let me own the asset and let me own to operate it."
+Where the customer has the heft of financing on that advantage.
+See customers in this business won't leave any money on the table.
+Moderator: Thank you.
+The next question is from the line of Chirag from White Pine Investments.
+Please go ahead.
+Chirag: I only had one question on defense.
+So if you can indicate, what was the revenue from defense or growth Y-o-Y?
+And more importantly, what kind of products we saw because there are multiple products, which we now have on plate?
+And also a road map over the next 12 months to 24 months, which product basket is likely to see conversion?
+If you can help me with that, it would be helpful.
+Shenu Agarwal: Yes.
+So I mean, as you know, that we have developed a wide variety of products now, all within the land mobility scope.
+But we have a wide variety of products.
+I mean, there are like normal vehicles like stallion and now we have some armored vehicles and so on and so forth.
+There are a lot of discussions going on with Ministry, with the Army.
+There are a lot of tenders that are coming up.
+This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+Page 26 of 30
+Chirag: Okay.
+Sir, if I can just clarify.
+So is it water bowser and stallions that are sold or is there more products, which are coming across like whether 6x6 or... Shenu Agarwal: It's a variety of products.
+It's not just one product.
+It's a variety of products.
+So for example, the previous order that we have won is like the gun-towing vehicle.
+And also, there is some advanced kind of development happening on the Stallion, right?
+So it's like a variety of things that are coming up.
+Chirag: And sir, just one question, Gopal.
+Whatever the start point is.
+If that happens, then this year itself, you will end it quite closer to the ambition or expiration margins that you have around 15%.
+Is this the right way given the tailwind that you have been highlighting?
+Gopal Mahadevan: You see, this is feasible.
+We can't comment whether it's going to be 15%, 16% or no.
+Let the year go out.
+All we can tell you is that, I think, for probably the first time or maybe once or twice earlier, but we have got a 10% margin in Q1.
+Now I just wanted to share an interesting data point, which we didn't mention.
+If you look at Q4 EBITDA, where we had 11% EBITDA being posted for the quarter, our revenues were about Rs.
+11,626 crores.
+This This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+Page 27 of 30
+8,100 crores.
+What it is, we'll have to wait and watch.
+Chirag: No, fair point.
+It was more of a direct sale than I was trying to understand because that's... Shenu Agarwal: Yes.
+One thing I think you need to keep in mind that last year, I mean, if you look at our last six years or seven years, we went through two migrations on emission norms, the BS III to BS IV and BS IV to BS VI, right?
+So inflation and two migrations on emission norms, right?
+This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+Page 28 of 30
+So now just keep in mind that those two things would not follow the same path.
+How we can look at value engineering?
+Because of these two migration changes, we have a lot of product -- new product, new aggregates that have come into the picture.
+And there, whenever there is a new aggregate, new design, there is a good opportunity to look at value engineering there, So I mean, those are the things that we are more focused on.
+Last year was a different year.
+This year would be different factors that would play out.
+Moderator: Thank you.
+Ladies and gentlemen, we take that as the last question for today.
+I would now like to hand the conference over to the management for closing comments.
+Over to you.
+Joseph George: Hello, Shenu, sir.
+Would you like to make some closing comments?
+Shenu Agarwal: Yes.
+Thank you.
+So thank you once again, ladies and gentlemen.
+Page 29 of 30
+Thank you again for the interest shown in Ashok Leyland.
+Moderator: Thank you very much, sir.
+I would now like to invite Mr. Joseph George for his comments.
+Over to you.
+Joseph George: Thank you, Michelle.
+Thank you, everyone.
+I would also like to thank the entire management team of Ashok Leyland for taking out time.
+I would also like to thank all the participants for joining in.
+Thank you.
+Moderator: Thank you very much.
+Ladies and gentlemen, on behalf of IIFL Securities Limited, that concludes this conference.
+We thank you for joining us, and you may now disconnect your lines.
+Thank you.
+This transcript has been edited for readability and doesn't purport to be the verbatim record of the proceedings.
+Page 30 of 30

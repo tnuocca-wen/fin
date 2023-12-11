@@ -1,0 +1,484 @@
+BSE Limited First Floor, New Trading Ring Rotunda Building, P J Towers, Dalal Street, Fort, Mumbai 400 001 National Stock Exchange of India Ltd.
+Listing Compliance Department Exchange Plaza, Bandra Kurla Complex, Bandra(E), Mumbai 400 051 November 8, 2023 Sc - 17908 Dear Sir/Madam, Sub: Transcript of the earnings discussion/conference call for the quarter and half year ended September 30, 2023 Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 and with further reference to our letter sc no.
+17874 dated October 25, 2023, enclosing herewith the transcript of the earnings/conference call for the quarter and half year ended September 30, 2023, conducted after the meeting of Board of Directors held on November 2, 2023.
+The transcript of the earnings/conference call is also available on the website of the Company: www.tatamotors.com This is for your information and records.
+Yours faithfully, Tata Motors Limited Digitally signed by MALOY KUMAR MALOY KUMAR GUPTA Date: 2023.11.08 GUPTA 18:58:14 +05'30' Maloy Kumar Gupta Company Secretary Encl: a/a
+Tata Motors Limited November 2, 2023 Tata Motors Group Q2 FY24 earnings call transcript MANAGEMENT: MR. PB BALAJI – GROUP CFO, TATA MOTORS LIMITED MR. ADRIAN MARDELL – CEO, JAGUAR LAND ROVER MR. GIRISH WAGH – EXECUTIVE DIRECTOR, TATA MOTORS LIMITED MR. SHAILESH CHANDRA – MD TMPVL AND TPEML MR. RICHARD MOLYNEUX –CFO, JAGUAR LAND ROVER MS. NAMRATA DIVEKAR – HEAD, TREASURY, IR, M&A, TATA MOTORS LIMITED Presentation Sneha Gavankar Good day and welcome to Tata Motors Q2 FY24 results call.
+With me today are PB Balaji, Group CFO, Tata Motors; Mr. Girish Wagh, Executive Director, Tata Motors; Mr. Shailesh Chandra, MD, Tata Motors Passenger Vehicles Limited and Tata Passenger Electric Mobility Limited; Mr. Adrian Mardell, CEO, Jaguar Land Rover; Mr. Richard Molyneux, CFO, Jaguar Land Rover and my colleagues from the Investor relations team.
+Today we plan to walk you through the results presentation followed by Q&A.
+As a reminder, all participant lines will be in listen only mode and we will be taking questions via the Teams platform which is already open for you to submit your questions.
+You are requested to mention your name and the name of your organization while submitting the questions.
+I now hand over to Balaji to take this forward.
+Tata Motors Limited November 2, 2023 P.B.
+Balaji Thank you.
+Can you go to the next slide, please?
+The standard safe harbor statement, Yep.
+Nothing additional to add here.
+No further changes to any accounting statements or anything.
+From a quarter perspective, a series of actions underway this quarter.
+Let me try and tease out the ones that are really big here.
+And in JLR, the conﬁdence of the future of cash ﬂows being manifested in the bonds that were bought back as well as the China loan that was repaid, which I'm sure will get covered later in the discussion.
+Next slide, please.
+Overall revenues, we came in at ~Rs.1,05,000 crores for the quarter with an EBITDA of 13.7% and EBIT number of 7.5%.
+If you recollect, we did signal that we are going to have a temporary blip between Q1 and Q2 because of the summer shutdowns that we had in JLR, that's exactly how it has played out and PBT(bei) came in at ~Rs.
+6,100 crores.
+Let me cover that right away.
+Given JLR's earlier performance, we are not in a position to recognize the deferred tax asset in excess of our deferred tax liabilities and therefore, because it's an asset recognition accounting, will force you to show a consistent track record for that and that is what is causing a bit of noise on that.
+Happy to dwell in further detail in case you want further detail but on an overall basis, the tax rate remains the same 25% that we had already signaled, no change to that.
+3,900 crores.
+I also want to quickly cover the H1 numbers that you see.
+15,000 crores, taking the net debt down to Rs.
+38,700 crores.
+Next slide, please?
+Split of growth between volume and mostly led by volume, mix and price and translation, of course yielded a little bit.
+And the net automotive debt at Rs.38,700 crores.
+Next slide.
+From a corporate action side, a lot of action, some of this you have already seen the news.
+First was Tata Technologies where we had a pre-IPO deal which we signed with TPG Climate Rise which is and Ratan Tata Endowment fund and it is actually a strategic sale and to that extent this business is going to beneﬁt from someone like TPG Rise coming in, and it's a climate dedicated fund and their experience in investing in green technologies will be of beneﬁt to us.
+This transaction has been closed and cash has been received in the last few days.
+And of course from an IPO perspective, their actions are underway and the timing of course will be decided by the TTL board, post ﬁnal approvals.
+Next slide.
+Tata Motors Limited November 2, 2023 The second transaction that we did was acquisition of a 27% stake in Freight Tiger.
+I haven't yet talked about it, maybe I'll take a minute to spend on it.
+Indian freight market is massive and fragmented and here while in trucks, a lot of investments have gone in; not to be said the same about freight ordering or management or the whole freight process.
+Therefore this is an area where Freight Tiger tries to solve that problem, by providing an end to end digital software as a service solution.
+Fleet Edge is a trucking product that we have which sits on our connected vehicle platform and helps both ﬂeet operators and drivers.
+By integrating these two, we can give a comprehensive freight management solution and therefore from the stakeholders and I'm very careful to use the word stakeholder, because there are so many stakeholders in this.
+The transaction, we will invest Rs.
+150 crores, which we have already done.
+The money has already gone out of our bank for this one and we are now at 26.79% owner where CPs have been completed and in the next two to three years we will invest an additional Rs.
+100 crores as required, and thereafter we will have the right to buy the other investors at the then fair market value.
+Next slide.
+This is a latest one that's just been announced where AVINYA will be underpinned by JLR's EMA platform.
+I'm sure Shailesh and Adrian both can talk about it later in the presentation, but it's a very important transaction for us because this is TPEM's premium pure electric vehicle series AVINYA which we revealed last year.
+And this will be developed on EMA with JLR, which is well underway on timelines to launch the ﬁrst car and this will be an MoU for access to the EMA platform, including the electrical/electronic architectures, the EDUs, the drive units that is, battery assembly and the manufacturing know-how for a royalty fee.
+But this is not being conceived only for India, it's actually being conceived as a global product, which makes it a very interesting proposition for us.
+So these are the three actions that we had from a corporate side.
+Let me now hand it over to Richard to take you through the JLR story.
+Richard, over to you.
+Richard Molyneux Thank you very much Balaji.
+We are setting records.
+Tata Motors Limited November 2, 2023 feed back out.
+So it's actually probably more relevant to look at the H1 EBIT of 8%.
+PBT in the quarter, GBP 442 million and GBP 300 million of free cash ﬂow.
+What that means for the ﬁrst half of the year is GBP 13.8 billion worth of revenue, which is a record.
+It's also a record in terms of per unit.
+That is not only an H1 record cash ﬂow for us, it is a record cash ﬂow by GBP 250 million.
+So if we move on to the next chart.
+I won't go through this in detail.
+This will cover the comments that I have made and will make as we go through this presentation.
+It's there for your record, so you can go back to it afterwards.
+In terms of the brands, Range Rover fairly ﬂat.
+Look, this is something that's expected for us.
+So it's no surprise that that's ﬂat.
+Next chart.
+In terms of the bars on the right, our percentage of electriﬁed vehicles that's both PHEV and BEV was relatively ﬂat in the quarter.
+Next chart.
+So just explaining that the largest chunk, quite obviously, is volume and mix.
+So both positives in terms of volume and in terms of mix.
+Tata Motors Limited November 2, 2023 brokers to source semiconductor chips.
+We do know that we're going to have to continue to spend some money on demand generation.
+So you can see there GBP 96 million adverse year over year in FME and selling, of that GBP 62 million was in marketing expense.
+Some of you that have been following the Rugby World Cup that's been going on will have spotted where a chunk of that went in terms of our sponsorship through Defender of the Rugby World Cup.
+But don't lose sight of the bottom line.
+Next chart, please.
+Here we go.
+This then takes PBT through to cash ﬂow.
+The number I'd like to focus there is the cash proﬁt after tax but before investments at GBP 1.151 billion.
+That is also a record for us, by the way.
+But as much as being a record, I'd like to focus on the consistency of that number.
+In the last three quarters, that number has been GBP 1.116 billion, then GBP 1.135 billion and now GBP 1.151 billion.
+So we are very consistently delivering GBP 1.1 billion of cash proﬁt after tax.
+We did spend a little bit more on investment.
+That is largely the eﬀect of the two week summer shutdown has in terms of our payables.
+However, we delivered GBP300 million worth of free cash ﬂow.
+Next chart.
+In terms of our investment, we've spent GBP 775 million of that GBP 577 million was engineering and 64% of that or GBP 368 million was capitalized.
+So this is something that will evolve for us.
+Next chart.
+Great, business update.
+So, if we move forward, you can see here, this is our wholesale history.
+We're not completely out of the woods on supply constraints yet.
+They still do appear, but they are pairing in slightly diﬀerent guises.
+It's not really major semiconductor constraints that we're seeing.
+We're seeing the type of events and challenges that are slightly more normal, in an industry where unfortunately you get ﬂoods at suppliers
+Next chart.
+Now, you all know how important Range Rover and Range Rover Sport are for us and that Range Rover and Range Rover Sport and Defender makes 77% of our current order bank.
+So production of those vehicles is extremely important.
+We did manage to keep it constant quarter over quarter, in terms of average number of vehicles produced per week, but we did manage to trial through one week of 3,200 cars in fact to be precise, 3,263 was our peak volume.
+We do have an additional body shop for MLA coming on stream, towards the end of this month.
+Then next chart.
+So, where do we stand?
+We will focus on execution, executing our plans ﬂawlessly and continuing to deliver both ﬁnancially and operationally.
+Thank you.
+I'll hand back to Balaji.
+P.B.
+Balaji Thanks Richard.
+Quickly moving on to commercial vehicles, Girish and I will take this section.
+Next slide please.
+It will take a little bit of time as we pivot this business to a B2C kind of a thinking, so that is something which we are working on.
+Next slide please.
+Tata Motors Limited November 2, 2023 this business has generated about Rs.
+1,500 crores this quarter and overall Rs .2,500 crores for the year so far.
+Next slide.
+Where did the monies come from?
+But of course work to be done on the smalls.
+Next slide please.
+Let me hand it over to Girish to give you a sense from a business ﬂavor perspective.
+Girish, over to you.
+Girish Wagh So, thanks Balaji.
+Balaji has already spoken about the market share and I think if I may say, in M&HCV our Q2 market share is now already ahead of the FY 2023 market share.
+We had around 17% of our volumes being generated through digital channels, leads from digital channels.
+So I think we are consistently maintaining it at this level.
+In addition to this, we have also introduced more than 200 variants within quarter two to expand the portfolio.
+We, of course have a very diﬀerentiated focus on SCV portfolio, I already spoke about that.
+So pull-based model rather than having a push - VME based push.
+We will obviously continue the
+Next slide.
+If I speak about the electric mobility in detail, now we have almost, let me ﬁrst speak about Ace.
+So Ace EV becomes the ﬁrst four-wheeled commercial electric vehicle to receive the PLI certiﬁcate.
+Coming to the smart city mobility solution.
+So, we have now almost 500 electric buses deployed between Delhi Transport Corporation and just yesterday we had inauguration of our buses supplied to Jammu and Kashmir also.
+We also received ISO certiﬁcates for some of our depots which have been started a year back and we'll continue to do the same for other depots also.
+On the digital side, I think Balaji has already spoken about the Freight Tiger piece.
+E-Dukaan, which is our online marketplace for the spare parts.
+Almost 17% of our volumes are coming from that.
+So, that's the summary of CV business.
+Balaji, back to you.
+P.B.
+Balaji Thanks Girish.
+Going on to the PV side.
+Next slide please.
+Vahaan domestic market shares are at 13.4% for the quarter.
+If you recollect, we said the ﬁrst half of the year is going to be challenging for us because we have our products are all coming rear ended, while most of competition has launched their products in the ﬁrst half.
+At the same time, if we look at the October month, we did come back into the 14% plus zone, so it's exactly in line with what we had planned.
+The other reassuring piece is the EV as a portion of the total portfolio sitting at 13%.
+I am seeing a lot of questions coming on EV growth, which I am sure Girish or Shailesh will cover quite extensively in his Q&A.
+Next slide, please.
+Overall EV volumes, remember that this is a transition quarter for us, because in the entire PV business we had our three big products: Nexon undergoing a change, both the ICE version as well as the EV version.
+Safari, Harrier launching in October.
+Next slide, please.
+300 crores for the quarter and Rs.
+500 crores for the year, so far.
+Next slide, please.
+This is probably the most eagerly awaited slide.
+How do we split the PV/EV numbers.
+Hold that point for a minute.
+On the EV line, the PV business right now from an EBITDA perspective is at 9.2%, which are very important number because this is a business earlier we wanted to be as close to double digit EBITDA as possible.
+Tata Motors Limited November 2, 2023 contrasted with some of the numbers that have come out from some of the global OEMs.
+100 crores is product development expenses that are being charged oﬀ.
+Again, remember, no PLI beneﬁts have been considered on this so that comes and adds on top of it.
+Next slide?
+Shailesh?
+Shailesh Chandra Thank you Balaji.
+So, let me start with the industry highlights ﬁrst.
+It is important to note that 8% of the sales is now accounted by the new nameplate launches in the industry.
+As far as Tata Motors PV and EV business is concerned, as Balaji mentioned that the focus was to manage the model transitions well while keeping the wholesale volume maintained in line with the plan.
+And we delivered that.
+Very important that we have been trending now, number two in hatch segment.
+And in quarter two, we launched three additional products with twin cylinder technology, which was Punch iCNG and Tiago and Tigor.
+Now, Harrier and Safari was also the other facelift that we launched in the last month, which is October.
+This is the most safe car as per the GNCAP.
+Harrier, Safari went through a ramp-up phase last month.
+We have taken some very targeted actions to sustain our volumes in hatches and sedans.
+Back to you Balaji.
+P.B.
+Balaji Thank you Shailesh.
+Go to the next slide please.
+Cash ﬂows only draw your attention.
+Next slide please.
+We have guided to an Rs.
+Next slide.
+On TMF.
+A minute on this.
+This is a business that had its challenges earlier, but we are coming through on plan.
+GNPA though contained at 8.1% but on an absolute number basis what used to be almost Rs.
+Next slide please.
+Just ﬁnalizing on the outlook, lot of questions I see on demand.
+But we do expect to see some moderate inﬂation seep through.
+So
+That is what we have to say and now we move to questions and we see 17 questions lined up.
+Heavy questions coming through.
+Questions and Answers section P.B.
+Balaji So let me start from the question that came in ﬁrst.
+So I request if our teams could move to the most recent tab there so that we can go right all the way down on that particular tab.
+First question from Jinesh, Motilal Oswal.
+Richard, this is coming your way.
+However, the free cash ﬂow guidance has remained at GBP 2 billion.
+Richard Molyneux Okay, thank you.
+So as we said, we closed the quarter with GBP 2.249 billion worth of net debt.
+So we need to generate GBP 1.25 billion or more to get down to our net debt target of sub 1 GBP billion.
+We're on track to do so, one of the things that does put a little bit of diﬀerence between EBIT and cash ﬂow is investment.
+Our investment in the ﬁrst half of the year was GBP 1,472 million.
+We are on track to do so.
+P.B.
+Balaji Okay, another question from Jinesh as well.
+And let's answer that question then we'll come to deferred tax where there is a series of questions.
+Tata Motors Limited November 2, 2023 Richard Molyneux Okay, so in terms of average selling price in Q1, it was GBP 74,000.
+In Q2, it was GBP 71,000.
+We do not expect that to be permanent as we bring the second body shop online for our MLA products in Solihull and as we reduce the speciﬁc constraints that we've got in terms of Range Rover, we would expect that trend not to continue.
+P.B.
+Balaji Yeah.
+A question on tax rates Richard, I am happy to step in as needed, but let me pass it on to you.
+Is there further deferred tax asset pending to be recognized, and how should we look at the whole tax rate for second half and beyond?
+Richard Molyneux Yes, as Balaji I think, mentioned, due to our historic position around losses, we do have an unrecognized deferred tax asset of about GBP 1 billion.
+We have gone through four quarters of proﬁtability, so we are looking at that, we have no conclusion as to when that could be brought back onto the balance sheet.
+P.B.
+Balaji And, therefore on a long term basis Richard, how should we plan the tax rate when we model the value of the company?
+Richard Molyneux Typically, I think it would be reasonable to expect somewhere between 25% and 29%.
+P.B.
+Balaji Thank you.
+Coming to India, Girish this is on Indian M&HCV’s.
+How do you see this evolving?
+How do you see this segment evolve over the next twelve months?
+And then for ACE EV, what's your order book size?
+How are the trends in new order intake?
+Coming to light commercial vehicles.
+What is ailing?
+I think yes, the industry has remained ﬂat and in my view there are two things.
+Coming to ACE EV, I think your question was on PLI.
+Yes.
+As I mentioned, we have received the PLI certiﬁcate just two days back for the ACE EV.
+Regarding the order book, so if you recollect during the launch, we had signed up with 5 customers for gradual deployment of vehicles.
+Out of those 5 customers, I think one customer is out of operation as of now.
+But, we continue to deploy vehicles in rest of the four customers month over month.
+We also are coming up with quite a few variants on ACE EV to address multiple requirements.
+Balaji?
+P.B.
+Balaji Thanks Girish.
+A comment on PLI's.
+We have got the certiﬁcates, but obviously there's a lot of scrutiny from the authorities in terms of the capex spends, what contributes as Capex that needs to be considered.
+So right now we haven't got the PLI's monies yet.
+I think we expect - internal expectation Q4 is when it should probably come through.
+Let's wait and see.
+We are, of course, in intense conversations with the government on that.
+Okay, let me go to next question,this is coming from Raghu, Nuvama Research.
+For JLR how do expect the order book rundown -- the pace of 5000 per month that we indicated earlier?
+Does that continue?
+Any other comment on that?
+Adrian, would you want to take that?
+Tata Motors Limited November 2, 2023 Adrain Mardell Yes, let me take that Balaji.
+We are building more cars in the second half of the year; Richard covered that we have more production days.
+Our intention is to get it back to pre-pandemic levels, which we've referenced before, around 110,000 units and our expectation is that will happen somewhere between the end of this ﬁscal year and the start of next.
+P.B.
+Richard Molyneux Okay, I'll take that one.
+We are seeing some areas where there is still inﬂation, be that wage inﬂation or other cost inﬂation.
+So no, I don't think that is likely to be the case.
+P.B.
+Balaji Thanks Richard.
+I think Shailesh, Girish, let me put this to you.
+What would be the outlook for M&HCV and PV growth for FY 2025?
+I think it's coming to both of you - growth outlook for next year Girish Wagh So, let me take like this.
+I think talking about FY 2025 in my view, it is too early to speak about it because we have key monitorable, which is the general elections happening in Q1 of next year.
+To talk about Q1 or Q2 demand for next year of M&HCV, we'll have to wait at least for one quarter to see how the order book of the ﬂeet owners and the infrastructure builders is panning out and we will come to know something about that when we meet next quarter.
+Tata Motors Limited November 2, 2023 Shailesh Chandra So for PV again, as Girish also mentioned, too early to really comment on that.
+The base is very high.
+These are the numbers that we see with the projections that we get from various agencies.
+So, I think, let's see where the year ends is what I would say.
+P.B.
+Balaji Thanks Shailesh.
+A question on the royalty for this.
+I think I would just say that these are reasonable royalties and obviously at an arm's length basis.
+So, that's how we would respond to that.
+PV-EV the chargers, 7800 chargers that we have put out there, how many of them would be fast chargers?
+What are the customer behavior of using them or charging at home?
+Girish Wagh I think most of these 7800 chargers, especially I'm saying are the fast chargers these are on highways.
+And this would be, I would say if my guess could be right, it is about 4000 to 4500 is CCS2 chargers which are either 25-kilowatt or 50-kilowatt chargers.
+As far as the charging behavior is concerned, we clearly see through our telematics data that more than 90% of the customers are charging their car at home.
+So, the use of public chargers is less.
+It is only being used if they are on the highway but primarily the mode of charging is the home chargers which is either a dedicated charger in the parking slot or residential welfare association common chargers which are provided.
+P.B.
+Balaji Next question coming from Hitesh Goel.
+I think Richard this is coming your way.
+How are you seeing the Jaguar portfolio?
+Will you run down Jaguar in calendar year 2024 second half before Jaguar Electric is launched?
+How do you see the Jaguar transition?
+We sold nearly 25,000 Jaguars in the ﬁrst half of the year.
+Yes, we will wind the production of the current cars down as we move to the new fully electric Jaguar, which, as you know, we're saying is a copy of nothing.
+It is nothing like the existing set of Jaguar cars.
+So we don't really want those to overlap.
+We haven't been speciﬁc as to exactly when we're going to end each vehicle because some of them are built in Castle Bromwich, some of them are built in Solihull, some of them are built in Austria.
+So it will vary by plant but it is reasonably safe to assume that we will run those down
+Tata Motors Limited November 2, 2023 before we launch the entirely new all electric copy of nothing Jaguar.
+So it will be part of our growth plan of EBITDA and EBIT as we go forward, as we move from the old Jaguar to the new.
+P.B.
+Balaji Thanks, Richard.
+Next question.
+Probably one of the most eagerly awaited question is Shailesh coming your way.
+This is from Gunjan, Bank of America.
+Can you talk about the EV outlook in India?
+So can you talk about the pace of adoption that we see now and what are the key drivers for stepping it up?
+Shailesh Chandra Yeah, Balaji, this is a question which in the last one month I would have been asked by multiple people.
+For us it has been about 76%.
+That is the phenomena that you are seeing in quarter two that's number one.
+The Third impact I also covered in the presentation is that Telangana, which is nearly 10% to 15% of the EV industry, the road tax waiver was taken away.
+I would say these were the three big factors why you have seen quarter on quarter, but these are not structural reasons, right.
+Now, coming to mid to long term, what will be the EV outlook where the drivers of growth are going to come from?
+See, the biggest opportunity I see is that 75% of the sales of EVs today is coming from only 25 cities.
+So all the manufacturers, including us being the market leader, are yet to expand into the larger part of the country where there is a huge demand which is lying there.
+Second, I would say that we are already seeing announcement of multiple EVs by diﬀerent players.
+And let me elaborate what I'm saying.
+Just take Tiago EV.
+Before Tiago EV got launched every quarter, the industry used to sell about 14,000 to 15,000.
+In the coming quarters and years, you are going to see EVs covering the entire spectrum of price range, which is going
+This will unleash the mainstream customers because today it is early adopter or early majority which is buying.
+I'm not even talking about Tata Power which also has an aggressive plan and there are certain CPOs also who are going very aggressive.
+But oil marketing companies have Rs.
+800 crore of subsidy provided by the government to put 22,000 chargers on the highways by 2024.
+P.B.
+Balaji Thanks Shailesh.
+PLI we already answered about the status of PLI.
+Maybe another question coming your way and Adrian, feel free to chip in if anything Shailesh missed.
+The whole signiﬁcance of this platform sharing with JLR on the EMA side for the AVINYA range of products.
+Shailesh Chandra I think this is a very signiﬁcant development you are already aware that we had showcased AVINYA in Auto Expo also and prior to that one year back, we had unveiled it for the ﬁrst time.
+This is the ﬁrst time that we will be entering into the premium e-SUV segment and we evaluated multiple platforms, including doing a grounds up skateboard ourselves.
+But at the same time, when it comes to the high tech components, I think JLR negotiating power with the supplier also beneﬁts us.
+So it's a beneﬁt on both the sides.
+So, we see multiple beneﬁts of working together.
+Tata Motors Limited November 2, 2023 P.B.
+Balaji Adrian, anything to add from your side on this?
+P.B.
+Balaji Thank you.
+Another ﬂavor of the question, maybe Richard, this coming your way.
+Can you refresh any view to the 10% EBIT margin that you've given for FY 2026 given that you have updated the guidance for the current year to 8%?
+Richard Molyneux No.
+P.B.
+Balaji Thanks.
+Yeah.
+Okay, next question I think there are two or three ﬂavors of the question, Girish, coming your way.
+Where is this coming from?
+Why do you think you're winning?
+And this is likely to sustain?
+And you also asked about what we will do for the future.
+P.B.
+Balaji Thanks Girish.
+Sorry, this question came, the M&HCV question came from Abhinav and I remember Kapil also asked this question earlier, another question from Abhinav on the PV festive sales.
+How do you see it performing, how's market demand?
+P.B.
+Balaji Yes, thanks.
+Next question from Chandramouli, Goldman Sachs, some of those questions have already been answered.
+I'll just pick up the ones that are not yet answered.
+Again Shailesh to your side what are the initial trends on the new Nexon versus the old Nexon?
+As I said, that three months to four months of waiting period depending on the variant.
+P.B.
+Balaji
+Tata Motors Limited November 2, 2023 Great.
+Shailesh Chandra Yes, I think there are at least four factors underlying that.
+P.B.
+Balaji Thank you, I think question Girish, coming your way.
+Price hikes that you have announced in October, can you give us a sense of what magnitude it is and how do you see the raw material environment?
+Maybe you can combine the two?
+Girish Wagh Yeah yes, Balaji.
+So see, I think we should also look at this in a context, right.
+And as I mentioned sometime back, since last September we had not taken any price increase, right which is the list price increase.
+There could be some impact on precious metals but that is more for petrol engine vehicles so the impact on CV will be lesser.
+P.B.
+Balaji Thanks Girish.
+But let me leave it to you to answer that.
+Are there any visible signs and due to this also the EV penetration
+What is your perspective?
+And in order to turbocharge demand in this slowing down environment, how much of VME/FME rise can happen?
+How will you plan to manage this?
+Adrain Mardell Yes.
+I shouldn't say too much about other OEMs because obviously I'm not close to their particular circumstances, but with the levels of discounting that happening, it generally only happens when supplies signiﬁcantly over levels of natural demand.
+So.
+I suspect that's one of the causes behind much of that discounting.
+So, I think the big point here is there's a huge diﬀerentiation between our positioning in the marketplace, their VME in the 1 percentage plus level compared to others.
+And the big reason for that still, of course, is back to the earlier discussion.
+So our intention is to stay in front of the problem here.
+P.B.
+Balaji Thank you Adrian.
+The second question was Balaji, on Curvv right?
+So Curvv and Sierra.
+So Curvv and Sierra is planned to be launched in 2024 and 2025 respectively.
+And as far as Sanand is concerned, so that's also slated for in ﬁrst half of 2024.
+Tata Motors Limited November 2, 2023 P.B.
+Balaji Thanks Shailesh.
+Question on Freight TIger, this is from Pramod Amthe InCred.
+What are the transaction valuation and the burn rate and the funding needed for the next two, three years?
+See the way the transaction has been structured, if you recollect, we had paid about Rs.150 crores for a 26 point some percent stake.
+That values business at roughly about Rs.
+420 crores so that's a transaction valuation.
+And we also know over the next two years, three years, whatever the cash burn is there, we're estimating roughly about Rs.
+100 crores will burn in that and therefore that is what we are ready with the funding for that as well.
+How is it in your case for the various ICE, EVs and CNGs?
+Shailesh Chandra So you know, it was very much expected because the order book was being created prior to the festive season and festive season has released most of them for competition and in general for the industry, I would say.
+But it has been more than oﬀset I would say, with the new launches that we had in the last two months.
+P.B.
+Balaji And therefore how do you see the PV volume run rates in the second half?
+P.B.
+Balaji Yeah, Auto PLI, this coming from Nishit again, auto PLI as I said earlier, Q4 is when we are expecting to see the cash starting to come through but let's wait for that and then we should be there.
+But everybody around, all stakeholders committed to make it happen so let's wait for that.
+Ashish Jain, Macquaire next one, Richard this is coming your way.
+When do we see the JLR working capital cycle reverse given the GBP 1.4 billion build that we saw in FY 2022-23?
+Tata Motors Limited November 2, 2023 Richard Molyneux So we will see some of that reverse during the second half of this year.
+So, some of that will reverse through the next six months and it's part of our delivery of our GBP 1.25 billion of operating cash.
+P.B.
+Balaji Thanks.
+Next one coming from Pramod, UBS, battery plant.
+Can you please share the status of the battery plants?
+In July we announced the UK tie up for setting up a battery plant there and India is also on schedule at this point in time on the internal plans.
+Obviously you should expect to hear more on these plants in the coming days.
+So wait for the news for the same piece.
+India same from Pramod, India EV arm, do you have any update on fundraising?
+Currently there are no plans for fundraise on EV arm and therefore -- and how we are placed on Capex funding for this business?
+7500 Crore that came through from TPG secures 50% of the 2 billion funding then PLI is the other one.
+Let's give me a minute please.
+I think Safari and Harrier is already answered so let me leave that out.
+Can you detail out the PLI beneﬁt is restricted to Capex spending.
+Lot of questions on trying to understand PLI beneﬁt, Shailesh if you want to give it a try ﬁrst and I go next.
+Shailesh Chandra I think you have covered it Balaji.
+P.B.
+Balaji No, no, no it's mentioned what is this PLI beneﬁt all about?
+Okay, let me start, you can chip in.
+There are three aspects to the PLI that is there.
+Number one, there is a threshold Capex is about Rs.
+120 crores which we comfortably meet and then there is a target Capex that need to be spent which is about Rs.
+2,000 crores.
+Anything is Rs.
+2,000 crores spent over the Rs.
+120 crores is treated as eligibility for a PLI beneﬁt number one.
+Number two, there has to be a 50% localization that needs to happen other than batteries.
+So that, that is what the ARAI certiﬁcation is all about going through the entire space there and this Capex has to be eligible Capex on speciﬁc areas.
+It's not like any and all Capex there.
+Then once you're eligible for this, you get a beneﬁt anywhere from 13% to 18% of the EV sales that you do which the legal entities are already precleared with the authorities.
+So this is the construct of the PV setup.
+Right now we have got the ARAI certiﬁcation conﬁrming 50% compliance, 50% localization for Tiago
+Tata Motors Limited November 2, 2023 and ACV EV and the reason we did not put the Nexon because the new Nexon has just been launched so therefore we would rather take because it's quite an elaborate process of getting it right.
+So we will now be putting up Nexon for approval then the respective new brands will also come on to it.
+So, we are conﬁdent of getting the DVA requirement and once this is there then obviously they scrutinize you for understanding did you meet all the eligible Capex and that tick oﬀ is currently underway once that is done then you are eligible for PLI.
+Your EV sales has to be authorized by the statutory auditor of yours certiﬁcation given to IFC.
+IFC is the one that approves these numbers and then the Ministry of Heavy Industry makes the payment on that.
+This is the process.
+Obviously I may have missed a few steps in this but by and large this is what it is.
+Shailesh Chandra If there are any supplier claims so then that is oﬀset.
+P.B.
+Balaji Any supplier who claims on that will be oﬀset against you.
+So this is the broad scheme Hitesh.
+What else?
+Pramod, JLR ﬁrst half margin- is the full year guidance conservative, we've already talked about so let me skip that.
+I think we are now coming to an end of all the questions, right?
+Just give us a minute, please, in case there's anything we are missing.
+Sanand plant, Kapil Singh.
+What are the optimum volume at which it will not be margin dilutive and by which when you can already reach it?
+I think Kapil, these costs are already in my P&L, because the factory has been bought over when?
+Early January and therefore this cost is already in our P&L therefore nothing to talk about there.
+If you recollect, we sold 48,000 last month, our max capacities will stretch up to 55,000.
+I think, with this.
+No – here's Gautam from B&K securities.
+Very interesting question.
+You want to pick that up?
+Shailesh Chandra I think you know, it is an important aspect, but I would not say that this is the biggest impediment.
+There are other barriers and roadblocks to adoption as far as mainstream buyers are concerned and talked about it, but this is an important aspect.
+Frankly, when we talk about the early adopters, they really don't worry too much about this.
+But also you know that we launched Nexon EV, which is the Nexon EV Prime with the low range in Jan 2020.
+So still a lot of this is not in supply.
+So once it comes in supply, then we'll be able to assess the market for this.
+There will be market, because if there is a market for new car, there are a lot of people who are considering EVs who would like to buy a car in a good
+We intend to help the customers when they think of selling off their car and pushing in the used car market by transferring the warranty benefit to the next buyer so that, that constraint is not there but I think still you know the car is not in the inventory given that it’s hardly three years since we launched the car.
+P.B.
+Balaji I think, with that we are done with the questions.
+Thank you for the searching questions, really we enjoyed answering these questions and more than happy to take any further questions that you may have off-line.
+Do reach out to investor relations team and we are happy to reach out to you.
+Once again, thanks for taking the time to attend the session and look forward to speaking to you, Thanks to JLR team and everyone present here, thanks bye.
+Thanks.

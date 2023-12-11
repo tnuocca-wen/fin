@@ -1,0 +1,26 @@
+Between that and elevated attrition, we had a net reduction of headcount and our workforce strength as of December 31 st stood at 613,974.
+LTM attrition in IT services was at 21.3%, slightly down quarter-on-quarter but still very elevated as it reflects the high levels of churn in the prior quarters.
+Our quarterly annualized attrition on the other hand fell by nearly 6% in Q3, and we expect it to steadily trend down over the coming quarters.
+Our deal closures in Q3 amounted to a TCV of $7.8 billion.
+Globally, we are hearing about a lot of these retail chains, calling out weakness, especially in Europe in parts as well.
+However, profitability has been challenged, both by customers walking down the product line in terms of preferring a slightly cheaper products on a relative basis, as well as the fact that cost structures have been up.
+Vibhor Singhal: Since you touched upon the travel and hospitality segment, as you mentioned that we bore the brunt of it while COVID struck and the segment was down and now we're seeing a strong rebound in this segment.
+In fact, the sector is supply constrained.
+Sudheer Guntupalli: Rajesh, it has been almost 10 to 13 months since the inflation, macro, and geopolitical concerns surfaced, and some of the upstream segments of the tech ecosystem, like internet or software started flagging off on demand concerns.
+If we take cues from the lag times between impact on upstream and downstream tech players historically, if something could have gone wrong massively, it should have gone wrong by now.
+Everybody is a bit cautious for the time being, but we don't think that will last into next year.
+In Europe, decision making has significantly slowed down.
+Some of them who have gone very rapidly to the cloud, mostly lift and shift, are realizing that unless it is architected right, cloud costs are actually quite difficult to manage and it's a fairly large bill that can come if you do not architect and if you do not actively manage the cloud environment.
+We think the immediate caution that is there, probably will dissipate a few months into the year.
+Europe will be incrementally cautionary this year compared to last year.
+Samir Seksaria: Yes, as normalcy continues to get through, we would expect travel costs to continue to increase.
+On SG&A, as things open up more on sales-related costs, as well as team building exercises and team meetings happening, that cost is increasing.
+Rajesh Gopinathan: Sorry, budget flush due to what?
+Even if you look at our US TCV, that is down both sequentially and on a year-on-year basis.
+So, TCV still reflects that decisionmaking lag in this quarter.
+Gaurav Rateria: So, firstly, Rajesh, is it fair to believe that the ACV growth could be lower than TCV growth as mix of the deals are changing, and should that be even considered as a lead indicator for growth going forward or you think the deal win trajectory could actually shift upwards over the coming quarters?
+So, its sustainability is difficult to answer.
+But I'm still wary, because of all the global supply chain disruption and energy price disruption.
+Rahul Jain: Basically, my question is related to TCV signing which is $7.8 billion is slightly lower by our recent average win.
+Tata Consultancy Services Q3 FY23 Earnings Conference Call January 9, 2023, 19:00 hrs IST (08:30 hrs US ET) Is it because such deals are to do more for the same or it reflect weak demand in Europe as articulated earlier?
+On the people front, LTM attrition in IT services fell slightly to 21.3% and should continue to taper down in the quarters ahead.

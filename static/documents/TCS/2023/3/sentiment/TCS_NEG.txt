@@ -1,0 +1,30 @@
+Our accounts receivable was at 65 DSO in dollar terms, flat sequentially.
+LTM attrition in IT services was at 17.8%, down 2.3% sequentially.
+Tata Consultancy Services Earnings Conference Call July 12, 2023, 19:00 hrs IST (09:30 hrs US ET) Last quarter, we had called out the growing caution among the clients, resulting in deferments and pauses in discretionary projects, particularly in North America and Europe.
+As NGS called out in his commentary, macroeconomic uncertainties have resulted in greater caution among clients.
+Clients are taking a month-on-month approach, resulting in very limited visibility on their future spending, even within their own organizations.
+Long-running discretionary projects, typically CTB in nature, planned and scheduled some quarters ago under different circumstances, are now coming in with reduced scope or reduced pace.
+This fragmentation resulted in lack of traceability whenever there was any system failure.
+Any issue potentially meant some trucks somewhere in the supply chain got delayed by four to five hours, impacting the delivery of drugs.
+Is that based on more clientspecific factors or deals deferred earlier have seen more cancellations in the near term?
+And my other question for Samir, on the operational front, what are some of the near-term levers that you have, especially when operating leverage impact is lower due to softer growth?
+Is this something which people will still have patience for some time before they start pulling back their tech spending or do you think the uncertainty being where it is, if things don't worsen materially, the demand can come back on a shorter notice?
+K Krithivasan: So, Mukul, as you also mentioned, it is a near-term uncertainty which is causing the clients to re-look at the programs and pause them wherever they think the : Page 15 of 25
+Tata Consultancy Services Earnings Conference Call July 12, 2023, 19:00 hrs IST (09:30 hrs US ET) ROI is not strong or is going to take longer time.
+Will it mean that we will need less people?
+You entered 1Q with softness owing to events that played out in the month of March, especially in the US on banking side.
+Ravi Menon: My next question is on last quarter's increase in onsite costs and whether that was due to new project starts.
+Have we continued to see new projects start this quarter and that got offset by some pressure on the book of existing business?
+Or we didn't really see any new project starts and cater it, that's why we kind of ended flat quarter-on-quarter on CC terms?
+And the net impact on revenue is due to the uncertainty on the existing projects or customers pausing their spend.
+Is that causing people to be able to take this pause versus earlier you would really have for any deliverable, there would be months probably still to go.
+Firstly on the regional market side, we have seen that, one-third of the contribution on a TTM basis has come from this segment, where the profitability is lower by 400 bps versus company average.
+So you think this segment growth, faster growth would put further pressure on profitability in the coming period?
+But traditionally, if you take large system integration projects where we end up delivering some amount of hardware, yes, there the margin maybe less than the company average margin.
+So in retail, we had seen a lot of weakness in the past couple of quarters.
+But if it is luxury or fashion or other specialty retail, we find that there is a softness in demand in such sub-segments of the industry.
+And unless they carry out those transformative programs, they'll have a competitive disadvantage.
+So that's the reason, we keep saying that while the TCV is high, we do see softness in the short-term revenue.
+I realize that, gross margins have continued to take a hit, probably due to wage hikes this time.
+But do you think there is any chance that margins on a full year basis might actually not expand in FY‘24 or might even decline despite the supply easing up?
+Our LTM attrition in IT services fell further to 17.8%, and we should be back in our normal industry-leading range in the second half of this year.

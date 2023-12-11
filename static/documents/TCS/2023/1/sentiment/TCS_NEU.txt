@@ -1,0 +1,292 @@
+TCS/SE/202/2022-23 January 11, 2023 National Stock Exchange of India Limited Exchange Plaza, C-1, Block G, Bandra Kurla Complex, Bandra (East) Mumbai - 400051 Symbol - TCS BSE Limited P. J.
+Towers, Dalal Street, Mumbai - 400001 Scrip Code No.
+532540 Dear Sirs, Sub: Transcript of the earnings conference call for the quarter ended December 31, 2022 Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, please find enclosed the transcript of the earnings conference call for the quarter ended December 31, 2022 conducted after the meeting of Board of Directors held on January 09, 2023, for your information and records.
+The above information is also available on the website of the Company: www.tcs.com.
+Thanking you, Yours faithfully, For Tata Consultancy Services Limited PRADEEP MANOHAR GAITONDE Digitally signed by PRADEEP MANOHAR GAITONDE Date: 2023.01.11 21:21:36 +05'30' Pradeep Manohar Gaitonde Company Secretary Encl: As above TATA Consultancy Services Limited 9th Floor Nirmal Building Nariman Point Mumbai 400 021 Tel.
+91 22 6778 9595 Fax 91 22 6778 9660 e-mail corporate.office@tcs.com website www.tcs.com Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021.
+Corporate identification No.
+(CIN): L22210MH1995PLC084781
+Tata Consultancy Services Limited Q3 FY23 Earnings Conference Call.
+January 9, 2023, 19:00 hrs IST (08:30 hrs US ET) Moderator: Ladies and gentlemen, good day and welcome to the TCS Earnings Conference Call.
+As a reminder, all participant lines will be in the listen-only mode.
+Should you need assistance during the conference call, please signal an operator by pressing ‘*’ and then ‘0’ on your touchtone phone.
+After today’s presentation, there will be an opportunity to ask questions.
+To ask a question, you may press ‘*’ then ‘1’ on your telephone keypad.
+To withdraw your question, please press ‘*’ then ‘2’.
+Please note that this conference is being recorded.
+I now hand the conference over to Mr. Kedar Shirali – Global Head, Investor Relations at TCS.
+Thank you and over to you, sir.
+Kedar Shirali: Thank you, operator.
+Good evening and welcome everyone.
+Thank you for joining us today to discuss TCS’ Financial Results for the Third Quarter of Fiscal Year 2023 that ended December 31, 2022.
+This call is being webcast through our website and an archive including the transcript will be available on the site for the duration of this quarter.
+The Financial Statements, Quarterly Fact Sheet and Press Release are also available on our website.
+Our leadership team is present on this call to discuss our results.
+We have with us today, Mr. Rajesh Gopinathan -- Chief Executive Officer and Managing Director; Mr. N G Subramaniam -- Chief Operating Officer & Executive Director; Mr. Samir Seksaria -- Chief Financial Officer; Mr. Milind Lakkad -Chief HR Officer.
+The management team will give a brief overview of the company's performance followed by Q&A.
+As you're aware, we don't provide specific revenue or earnings guidance.
+And anything said on this call which reflects our outlook on the future or which could be construed as a forward-looking statement must be reviewed in conjunction with the risks that the company faces.
+We have outlined these risks in the : Page 1 of 23
+Tata Consultancy Services Q3 FY23 Earnings Conference Call January 9, 2023, 19:00 hrs IST (08:30 hrs US ET) second slide of the quarterly fact sheet available on our website and which has been e-mailed out to those who have subscribed to our mailing list.
+With that, I would like to turn the call over to Rajesh.
+Rajesh Gopinathan: Thank you, Kedar.
+Good morning, good afternoon and good evening to all of you.
+Our net margin came in at 18.6%.
+Including the interim dividends paid out in the first half of the year, this translates into a shareholder payout of `33,297 crore for year-till-date.
+I will now invite Samir, Milind and NGS to go over different aspects of our performance during the quarter.
+I'll step in again later to provide some more color on the demand trends that we're seeing.
+Over to you, Samir.
+Samir Seksaria: Thank you Rajesh.
+Let me first walk you through the headline numbers.
+Net income margin was 18.6% impacted by foreign exchange fluctuations.
+The effective tax rate for the quarter was 25.7%.
+: Page 2 of 23
+Tata Consultancy Services Q3 FY23 Earnings Conference Call January 9, 2023, 19:00 hrs IST (08:30 hrs US ET) Net cash from operations was `111.54 billion, which is a cash conversion of 102.8%.
+Free cash flows were at `102.15 billion.
+Invested funds at the end of December stood at `669.24 billion.
+Lastly, as Rajesh mentioned, the board has announced an interim dividend of `75 per share, which includes a special dividend of `67 per share.
+Total shareholder payout, year till date, amounts to 110% of free cash flow.
+Over to you, Milind.
+Milind Lakkad: Thank you, Samir.
+You might recall that our approach to overcoming the supply side challenges faced by the industry was to bring in fresh talent at scale, and then train them on new technologies.
+In the prior six quarters, we onboarded 135,000 fresh engineers.
+In Q3 alone, we brought on about another 7,000 fresh engineers amounting to a total of 42,000 freshers year-to-date.
+These are unprecedented numbers.
+We continue to have a very diverse workforce with 153 nationalities represented and with women making up 35.7% of the base.
+Over to you NGS for some color on segments and product trends.
+: Page 3 of 23
+Tata Consultancy Services Q3 FY23 Earnings Conference Call January 9, 2023, 19:00 hrs IST (08:30 hrs US ET) N G Subramaniam: Thank you, Milind.
+Let me walk you through our segmental performance details for the quarter.
+All growth numbers are on a year-on-year constant currency basis.
+Let me now walk you through the growth figures by geography.
+ignio™, our cognitive automation software suite signed up 10 new customers and 7 clients went live during the quarter.
+ignio is uniquely positioned to ride on this particular opportunity with an end-to-end platform that offers self-healing and machine learning ability across the customer lifecycle to help them in their journey of being an autonomous enterprise.
+The subsidiary of a leading European CFD selected TCS BaNCS market infrastructure, implementing a unique system offering settlement and correspondent banking services to their customers.
+: Page 4 of 23
+In Life Sciences, TCS ADD™, our Advanced Drug Development platform, enabled by artificial intelligence was implemented for two leading pharma companies for automation of adverse events intake and processing.
+Our offerings in this platform address patient centricity, smart clinical analytics, interoperability, and AI-enabled automation, that are emerging trends in the life sciences industry.
+TCS Optumera™, our artificial intelligence powered retail merchandising suite went live for four clients.
+TCS OmniStore™, our AI-powered universal commerce suite had two go lives.
+TCS HOBS™, our suite of products for communication services has one new win and four go lives in Q3.
+During this period, we served over 35 assessment customers and administered exams for 8.8 million candidates.
+Over 3,700 candidates have gotten placed till-date.
+: Page 5 of 23
+Tata Consultancy Services Q3 FY23 Earnings Conference Call January 9, 2023, 19:00 hrs IST (08:30 hrs US ET) Let me now go over our client metrics.
+These metrics are an important validation of our customer-centric business model.
+Let me now request Rajesh to speak on the demand drivers.
+Rajesh Gopinathan: Thank you, NGS.
+: Page 6 of 23
+Here are a few examples.
+We were selected by Boston Scientific Corporation, a global medical devices company as a strategic partner for their purpose-led, enterprise-wide multicloud acceleration program.
+We have been engaged by the largest online travel company to build a unified, modernized enterprise data platform, which entails creating a data lake abstracting data from transitional systems and other data sources and building intelligent self-learning engines leveraging AI/ML models and rendering seamless experiences to customers and associates.
+Moving on to growth and transformation, we usually talk about G&T engagements focused on the front end, helping clients launch innovative new : Page 7 of 23
+Tata Consultancy Services Q3 FY23 Earnings Conference Call January 9, 2023, 19:00 hrs IST (08:30 hrs US ET) products and services or new technology-enabled business models or channel improvements and personalization that enhance customer experience.
+Let me illustrate with three examples.
+Their key objective is to transport more parcels per truck in each trip made between the terminals and their regional hubs.
+TCS developed a touchless AI-based solution using machine vision and importantly, existing security CCTV cameras, to accurately measure the truck fill rate in real-time.
+It leverages a TCS proprietary algorithm to optimize the line haul planning and truck departures.
+TCS partnered a US headquartered multinational biopharmaceutical company in co-creating and implementing an industry-first AI-based solution to transform the handling of patient complaints about drug-device combination products, such as pre-filled injections and auto injectors.
+M&A continues to be a recurring theme in our customers T&T agenda.
+They have been entrusting us with these integration or divestiture mandates on account of our contextual knowledge of the business and IT landscapes, our highly collaborative inside-out approach to transformation, and proprietary accelerators such as TCS Crystallus™, a set of pre-configured industry and business solutions available on leading enterprise application platforms.
+Here are three examples: Philips Domestic Appliances, a carve-out from Royal Philips and a global leader in kitchen coffee, garment care and home care appliances, engaged TCS as a sole-sourced primary partner to support PDS’ transition to an independent entity, and its business transformation to become a digital-first and consumer-centric organization.
+We are now working towards a big bang go-live for the rest of the world.
+Similarly, we are helping a leading North American bank with the seamless merger of a US bank.
+TCS' deep contextual knowledge and platform expertise was critical for success in this large and complex M&A program, involving online banking channels, treasury and payment services, auto and equipment financing, among others.
+At the back end, we integrated new lending and leasing products into the acquirer bank's portfolio and migrated the acquired bank’s products, customers and users to the acquirer’s platforms.
+: Page 9 of 23
+Tata Consultancy Services Q3 FY23 Earnings Conference Call January 9, 2023, 19:00 hrs IST (08:30 hrs US ET) Finally, in Q3, we were chosen by European life and material sciences company to lead the global integration of one of the largest acquisitions.
+TCS is responsible for end-to-end integration of warehouses and factories.
+Let me now provide a few examples of TCS partnering with clients to use digital technologies to help launch innovative new products or services that drive new revenue streams.
+A leading US-headquartered media and technology multinational partnered with TCS for building a single digital ecosystem platform, spanning home entertainment and mobility.
+As the sole strategic partner, TCS was responsible for the full lifecycle of the new technology platform for this new line.
+TCS designed and implemented the solution through an API grid for the entire ecosystem leveraging AI/ML for agile operations, proactive care, proactive service management, and preventive fault management.
+Leveraging the new integrated next-generation multi-currency digital wallet and digital banking platform, our clients have forayed into digital banking in Europe, offering customers access to a variety of differentiated multicurrency payment services in a single app.
+Similarly, in Q3, an APAC-based automotive electronics manufacturer chose TCS as their co-innovation partner in developing a next-gen instrument panel : Page 10 of 23
+Tata Consultancy Services Q3 FY23 Earnings Conference Call January 9, 2023, 19:00 hrs IST (08:30 hrs US ET) cluster.
+TCS services will span product development, HMI or Human Machine Interface, functional safety, cyber security and other cockpit related products.
+In prior calls, I have given examples of how TCS is participating in large industry transformation initiatives.
+In the Utilities sector, we have had several examples of TCS helping utilities or power producers navigate energy transition.
+Here’s one more example of the same.
+Western Power, a leading Australian power generator and distributor, selected TCS for our credentials in this space to design, deliver and support a distribution system operator platform solution.
+Our solution enables the client to orchestrate Distributed Energy Resources or DERs, such as rooftop solar batteries and large appliances across homes and businesses into a virtual power plant, aggregating the excess electricity generated by their assets and then dispatching it into what will become new energy markets and services.
+TCS’ solution also addresses critical issues like low voltage network visibility and optimization.
+Likewise, we're participating in the longer-term transformation trends in the transportation sector.
+Last year, I had spoken about the work we're doing for Transport of London to transform the administration of taxis and private hire vehicles in London to prepare it for an electric and autonomous future.
+TCS was chosen by the Rail Delivery Group, UK's leading rail industry membership body for the creation of a rail data marketplace.
+TCS will leverage data syndication, monetization and marketplace features of its DeXAM platform and a leading hyper scalar cloud to combine fragmented sources of rail data into one digital service.
+: Page 11 of 23
+Let me now come to the Q3 order book.
+By vertical, BFSI had a TCV of $2.5 billion while retail order book stood at $1.2 billion.
+The TCV of deal signed in North America stood at $4.2 billion.
+With that, we will open the line for questions.
+Moderator: Ladies and gentlemen, we will now begin the question-and-answer session.
+The first question comes from the line of Kumar Rakesh from BNP Paribas.
+Please go ahead.
+Kumar Rakesh: My first question was to better understand the headcount moderation during the quarter.
+During the press conference, Rajesh, you talked about the focus on headcount efficiency to continue in the fourth quarter as well.
+The incremental hiring for this year should be seen in context of what we've done in the last year also.
+Tata Consultancy Services Q3 FY23 Earnings Conference Call January 9, 2023, 19:00 hrs IST (08:30 hrs US ET) care of growth.
+And then we can keep bringing in shorter term hiring to take care of demand as it unfolds.
+So, that would be the best way to think about and model it.
+Kumar Rakesh: My second question was on the deal side.
+I understand that visibility on client budgets is still a couple of months away.
+Rajesh Gopinathan: It's also a factor of how it is playing out in different markets.
+We're seeing multiple such ones play out and we're participating very strongly in that.
+Markets like US, we need to wait and watch how that will play in the next couple of quarters, but we are fairly constructive.
+In Europe, decision making is slow.
+So, it's very difficult to call it one way or the other.
+So, this is not some major single event that has happened globally.
+All three markets are moving to three different beats and each of them is indexed to their own specific outlooks.
+Moderator: Our next question is from the line of Vibhor Singhal from Nuvama Equities.
+Please go ahead.
+Vibhor Singhal: Rajesh, I just wanted to basically pick your brain on the performance of the retail segment in this quarter.
+: Page 13 of 23
+Tata Consultancy Services Q3 FY23 Earnings Conference Call January 9, 2023, 19:00 hrs IST (08:30 hrs US ET) Rajesh Gopinathan: First of all, the numbers that we show in Retail is a combination of Retail, CPG, Travel and Hospitality.
+So, that's the industry group that we report on.
+CPG sector going through multiple forms of transformation, mostly led in various forms of direct-to-customer channel strategy transformation, and significant investments going into that.
+Retail itself is more regional, and different markets have different focus.
+More discretionary retail is, as I said, market specific.
+We need to wait and see how this will be translated.
+But some of those costs are transient, some of them will require more structural cost transformation deals.
+So, it's a fairly complex set of drivers in there.
+It goes back to what we always said, we stay close to the customer, and we play each customer and each scenario on a one-on-one basis.
+And we have the full suite of capabilities to be participating across this broad spectrum, and to make sure that we stay relevant to customers on a very individualized basis.
+Tata Consultancy Services Q3 FY23 Earnings Conference Call January 9, 2023, 19:00 hrs IST (08:30 hrs US ET) up.
+Of course, this is assuming no more waves and no more lockdowns and everything.
+But do you think you expect this momentum to continue in this segment in the next couple of quarters given that these clients would now probably start spending more on to it?
+Rajesh Gopinathan: I think so.
+The caveat, of course, is that there is no major event that happens.
+One, there is the demand side.
+More importantly, while they did a great job dealing with the pandemic, many structural changes that need to be done have been identified, and those are longer term programs that will need to be put in place.
+Moderator: Our next question is from the line of Sudheer Guntupalli from Kotak Mahindra Asset Management.
+Please go ahead.
+What do you think is happening differently now.
+Is it the case that IT services business has become less correlated with macro in the cycle, or you think time lag for the impact will be little longer this time around?
+Rajesh Gopinathan: I think as I've always said, the best way to think about IT is to think of it as an industrial perennial.
+The tech needs of an enterprise will evolve over a cycle, but it is not totally discretionary.
+So, that's one aspect of it.
+: Page 15 of 23
+There was a lot more heterogeneity in the landscape, and a lot more competing solutions in the landscape earlier.
+And now there is a fair amount of convergence on the main platforms, and the main basic architectural elements.
+So, in the wider technology products marketplace, that shakeout will be visible, which is normal at this stage of a technology adoption cycle.
+But the focus in terms of actual enterprise investments to execute on those transformations is continuing.So, lesser number of platforms, greater focus on larger programs, much calmer technology environment – all this is typical at this stage of technology adoption cycle.
+So, probably that also kind of reflects in the difference between the product space and the services space.
+But beyond that, I don't think we have any greater visibility.
+Sudheer Guntupalli: My second question.
+Rajesh Gopinathan: We believe so.
+The market itself is challenged.
+When decision-making restarts, we should be participating well.
+Moderator: Our next question is from the line of Pankaj Kapoor from CLSA.
+Please go ahead.
+Pankaj Kapoor: I have two questions.
+First, Rajesh, you mentioned that there is a higher share of cost take out deals which are now coming in the pipeline.
+So, just wanted to : Page 16 of 23
+Rajesh Gopinathan: Speed is varying by markets.
+The US is normal.
+So, that's the full spectrum there.
+In terms of competitive intensity, many of the deal structures are quite complex.
+That narrows down the field to a more limited set of competitors.
+Within that, obviously, people are aggressive and everybody is hungry.
+But at least the competition set is a much narrower set than just a few years ago, when deals were smaller, and there was a lot more focus on immediacy of response and the supply side was challenged.
+Pankaj Kapoor: My second question is on the special dividend.
+With this, you would have almost paid out the entire amount that we paid last year, which included a buyback.
+So, does this mean there is a rethink in terms of the mode of capital return in favor of dividend versus buyback?
+Pankaj Kapoor: So, buyback remains something which our board can consider whenever the window opens up?
+Rajesh Gopinathan: As you know, the current regulations require a 12-month gap between the two buyback announcements.
+Buyback will be considered when it becomes possible from the regulatory perspective.
+Right now, we are in a period where we couldn't anyway consider a buyback.
+Moderator: Our next question is from the line of Sandeep Shah from Equirus Securities.
+Please go ahead.
+: Page 17 of 23
+Tata Consultancy Services Q3 FY23 Earnings Conference Call January 9, 2023, 19:00 hrs IST (08:30 hrs US ET) Sandeep Shah: Rajesh, one broader question.
+At an industry level where are we in terms of the cloud transformational journey or adoption by the enterprise client?
+And do you believe the pace of the adoption can change starting from CY'23 onwards irrespective of the macro issues?
+Rajesh Gopinathan: Cloud adoption journey is, I would say, a third of the way in.
+Different customers have different challenges there.
+So, some of the transformation activities and projects that we're doing is to actually help them execute that transformation agenda so that their application stack is architected in a manner in which it can fully leverage the variability that the cloud model offers.
+Unless you're able to actually switch off and release the resource, you will not participate in the variability.
+And to be able to do that you need to be able to architect your application properly so that resource dependency can be switched off on a variabalized manner depending on what your requirements are.
+So, that's one kind of work that is going on.
+The other kind of work that's going on is actually the migration itself of complex workloads that require a lot more of heavy lifting.
+That is the other kind of an area that there's a lot of work going on.
+Neither of them is easy to execute.
+So, you should not expect much acceleration.
+The next couple of years are going to be about execution, rigor, operational capabilities.
+The movement is committed, the direction is very clear, the investments are in place and the deals are in place.
+Now, the execution and the operations have to happen.
+That's likely going to be the story for the next year or two.
+Sandeep Shah: Just a question in terms of CY'23 IT budgets.
+Rajesh Gopinathan: Again, going by market-by-market, in the UK, unlikely that it is any different than last year, because there is no incremental shift in the overall environment : Page 18 of 23
+Tata Consultancy Services Q3 FY23 Earnings Conference Call January 9, 2023, 19:00 hrs IST (08:30 hrs US ET) in UK.
+In the US, we'll have to wait and see how the next couple of months plays out.
+We are positive or rather we are hopeful, but we'll have to actually wait for actual confirmation to come.
+In Europe, we will have to wait for some major event to happen for it to change.
+Sandeep Shah: Just a last bookkeeping question.
+Samir Seksaria: So, third-party costs actually you could link it to the domestic revenue.
+Moderator: Next question is from the line of Ravi Menon from Macquarie.
+Please go ahead.
+I think NGS mentioned six new go lives in the quarter for BaNCS.
+Any large deals here that you'd like to call out or maybe you also share some comments on the deal pipeline in this segment?
+N G Subramaniam: I'm sorry, I didn't hear you properly.
+Could you repeat the question?
+Ravi Menon: NGS, you talked about the six new go lives this quarter for BaNCS.
+Just wondering if there are any large deals in the BPaaS segment in insurance, and how the pipeline is shaping up there?
+N G Subramaniam: One of the areas where we are seeing opportunities and significant pipeline is the various digital core, whether it is banking or capital markets or insurance, all of them are looking at putting together a new digital core.
+And it's going through a lull period in the last about two years or so.
+But now, people are thinking about a new core banking system, or a new security settlement system, which are really architected for the future, which are cloud-native, which are inherently micro services or inherently comes with that capability of marketplace with significant amount of APIs and micro services that will enable them to integrate into the ecosystem.
+: Page 19 of 23
+At this moment we're working on three or four such opportunities where some of the large banks are looking at modernizing their core in favor of something which is completely open banking, open APIs.
+So are some of the market infrastructure institutions trying to create open payment system, and some of them typically say that whatever you guys have implemented in India, can you offer this whole instant digital payment infrastructure in our geography?
+How close to normal, Samir do you think we are in business travel?
+I think we are still about 30 bps below what we used to clock pre-COVID.
+If you look at it more on the direct revenue side or the direct cost side, a lot of it is coming in.
+We’re seeing it going back to what it was pre-pandemic.
+Moderator: Our next question is from the line of Abhishek Kumar from JM Financial.
+Please go ahead.
+Abhishek Kumar: I have a question on budgets.
+Rajesh, you mentioned in the US there is a wait and watch mode and therefore budget could take some time.
+Abhishek Kumar: See, there's possibly an indecision or wait and watch mode for CY'23 budget.
+So, to exhaust CY'22 budgets, any possibility that there is a budget flush to exhaust the previous year's budget?
+: Page 20 of 23
+Tata Consultancy Services Q3 FY23 Earnings Conference Call January 9, 2023, 19:00 hrs IST (08:30 hrs US ET) Rajesh Gopinathan: No, I don't think so.
+CY'23 will be slightly delayed in a couple of months… but again, it's entirely in the realm of speculation.
+So, we'll have to just wait and see how it plays out in the next few months.
+Rajesh Gopinathan: Yes, fair assumption.
+Moderator: Our next question is from the line of Gaurav Rateria from Morgan Stanley.
+Please go ahead.
+Rajesh Gopinathan: Gaurav, I don't have a direct answer to that, but there is not much of change in terms of the mix of deal structures between large or small or long dated or small dated.
+So, nothing that we can call out over the last two, three quarters that we can say that we're seeing.
+There is an elongation in decision making, which we had spoken about last quarter also and which has also played out this quarter.
+So, beyond that, the specific mix of deals is not materially changing.
+Samir Seksaria: Gaurav, our margins or our industry-leading margins are on the back of the investments which we make, and most of our investments, whether it is in terms of talent, in terms of research and innovation, or branding, all are : Page 21 of 23
+Tata Consultancy Services Q3 FY23 Earnings Conference Call January 9, 2023, 19:00 hrs IST (08:30 hrs US ET) factored in into the P&L.
+Our aspirations for the margins are taking into account all these investments Moderator: Our next question is from the line of Ashwin Mehta from Ambit Capital.
+Please go ahead.
+So, what is the nature of demand here and how sustainable is this going forward?
+Rajesh Gopinathan: The reason of calling the segment out is because it's volatile and difficult to predict.
+So, it's come from both sides, markets as well as from the products side.
+Rajesh Gopinathan: I didn't know that, but that correlates to what we are also seeing.
+Industries like process manufacturing are much more globally integrated, and not as isolated as, let's say, Retail.
+So, we are still cautious.
+Our operating approach is always the same; stay close to the customer, deal with the customer on an individual opportunity-to-opportunity basis and we will continue to participate on that basis.
+But on a zoomed-out way, talking to customers, it is an industry that's not completely out of the woods.
+Moderator: Our next question is from the line of Rahul Jain from Dolat Capital.
+Please go ahead.
+What explains this mismatch?
+: Page 22 of 23
+Rajesh Gopinathan: I think it’s a combination of everything; delayed decision making, but TCV will not be as linear as revenue, which is why we have given a band of 7 billion to 9 billion where we think the TCV will remain during the course of this year and it has stayed well within that band throughout for the last three quarters.
+Rahul Jain: Just a clarification on this retail deal that we announced separately.
+Is it also reflecting the entire retail, CPG or it is only retail-specific?
+Rajesh Gopinathan: This includes CPG and TTH.
+Moderator: Ladies and gentlemen, that was the last question.
+I now hand the floor back to the management for closing comments.
+Over to you, sir.
+Rajesh Gopinathan: Thank you, operator.
+With that, we wrap up our call.
+Thank you all for joining us on this call today.
+And I must say that you're a very mature and knowledgeable group for having resisted asking about the impact of Chat GPT on our industry.
+Enjoy the rest of your evening or day and stay safe.
+Moderator: Thank you members of the management.
+On behalf of TCS, that concludes this conference.
+Thank you for joining us and you may now disconnect your lines.
+Note: This transcript has been edited for readability and does not purport to be a verbatim record of the proceedings : Page 23 of 23
