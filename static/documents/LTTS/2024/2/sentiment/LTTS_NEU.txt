@@ -1,0 +1,397 @@
+L&T Technology Services Limited A.M. Naik Tower,6th Floor, L&T Campus, Gate No.3, Jogeshwari-Vikhroli Link Road, Powai, Mumbai-400072.
+www.ltts.com October 23, 2023 National Stock Exchange of India Limited Exchange Plaza, Bandra-Kurla Complex Bandra (East), Mumbai — 400 051.
+NSE Symbol: LTTS BSE Limited Phiroze Jeejeebhoy Towers, Dalal Street, Mumbai- 400001 BSE script Code: 540115 Subject: Transcript of Q2 FY24 Earnings Conference Call Dear Sir / Madam, Please find attached the transcript of Q2 FY24 Earnings Conference Call organized by the Company on October 17, 2023, for your information and records.
+Thanking You, Yours sincerely, For L&T Technology Services Limited Prajakta Ashish Powle Digitally signed by Prajakta Ashish Powle Date: 2023.10.23 17:40:09 +05'30' Prajakta Powle Company Secretary & Compliance Officer (M. No.
+A 20135) Encl: As above Registered Office: L&T House, N. M. Marg, Ballard Estate, Mumbai - 400 001.
+INDIA Tel: +91 22 6752 5656 Fax: +91 2267525858 L&T Technology Services is a subsidiary of Larsen & Toubro Limited CIN: L72900MH2012PLC232169
+L&T Technology Services Q2 FY24 Earnings Conference Call Transcript For the Earnings Call held on October 17, 2023, 18:30hrs IST MANAGEMENT: MR. AMIT CHADHA – CEO & MD, MR. ABHISHEK SINHA – COO & EXECUTIVE DIRECTOR, MR. ALIND SAXENA – PRESIDENT SALES & EXECUTIVE DIRECTOR, MR. RAJEEV GUPTA – CFO, MR. PINKU PAPPAN – HEAD, INVESTOR RELATIONS
+Q2 FY24 Earnings Call October 17, 2023 Disclaimer: Certain statements in this release concerning our future growth prospects are forward-looking statements, which involve number of risks, and uncertainties that could cause our actual results to differ materially from those in such forward-looking statements.
+L&T Technology Services Limited (LTTS) does not undertake to update any forward-looking statement that may be made from time to time by us or on our behalf.
+Moderator: Ladies and gentlemen, good day, and welcome to L&T Technology Services Limited Q2 FY24 Earnings Conference Call.
+As a reminder, all participant lines will be in the listen-only mode and there will be an opportunity for you to ask questions after the presentation concludes.
+Should you need assistance during the conference call, please signal an operator by pressing ‘*’ then ‘0’ on your touchtone phone.
+Please note that this conference is being recorded.
+I now hand the conference over to Mr. Pinku Pappan, Head of Investor Relations.
+Thank you, and over to you, sir.
+Pinku Pappan: Thank you.
+Hello, everyone, and welcome to the earnings call at L&T Technology Services for the Second Quarter FY24.
+I am Pinku, Head of Investor Relations.
+Our financial results, investor release and press release have been filed with the stock exchanges and are also available on our website www.ltts.com.
+I hope you've had a chance to go through them.
+This call is for 60 minutes.
+We will try to wrap the management remarks in 20 minutes and then open up for Q&A.
+The audio recording of this call will be available on our website approximately 1 hour after this call ends.
+With that, let me introduce the leadership team present on the call We have Amit Chadha – CEO and MD; Abhishek – COO and Executive Director; Alind Saxena – President Sales and Executive Director; Rajeev Gupta – CFO.
+We will begin with Amit providing an overview of the company performance and outlook, followed by Rajeev, who will walk you through the financial performance.
+Let me now turn the call over to Amit.
+Amit Chadha: Sure.
+Thank you, Pinku.
+Happy Navratri to one and all.
+Thank you so much for joining us on the call today.
+Page 2 of 19
+• Automobiles will require an architectural transformation as processing shifts from multiple domains to a central high performance and compute architecture under SDV.
+• We are partnering with US headquartered chip majors to build these next generation chips and software for SDV.
+• We plan to have around 1,800 resources trained in SDV over the next few quarters in line with the demand.
+There are multiple proposals that are under discussion currently with OEMs and Tier 1s.
+• In Aero, we have seen multiple new build conversations starting as a refresh cycle is beginning.
+• O&G customers are investing across the spectrum in Shale, low-carbon energy, carbon capture and renewables.
+They are also making changes in the refinery as they refit themselves for greener fuels.
+Page 3 of 19
+We are in discussions with multiple enterprise customers to provide Operation Technology (OT) and cybersecurity services.
+As part of this deal, we'll be helping our Global customer in establishing a 5G center of excellence.
+Page 4 of 19
+• Cybersecurity is another focus area for our customers in Medical.
+Now a few highlights on our Digital Engineering and Technology progress.
+• Our engineers continue to innovate.
+• The innovation culture in the company promotes ideation and cutting-edge solutions.
+• Similarly, ISG for their Manufacturing Industry Services rated LTTS as a leader in digital factory and manufacturing solutions and also in Agile product development.
+Let us now discuss the Outlook • We are investing in software defined vehicles, AI & cybersecurity, and will have close to 2,000 employees trained over the next few quarters.
+Our collaboration with hyperscalers and chip companies is helping us develop AI solutions and services that address needs for industry like Auto, Manufacturing and Medical.
+Page 5 of 19
+As a result, we are seeing a wider range of how Q3 and Q4 could play out for us.
+And I will now hand over to Rajeev.
+Thank you.
+Rajeev Gupta: Thank you, Amit.
+Greetings to all of you.
+With that, let me take you through Q2 FY24 financials, starting with the P&L.
+Our YoY growth for Q2 came in at 4.6%.
+The EBIT margin is in line with our aspiration of 17% for FY24.
+Now moving to below EBIT.
+Let me talk about Other Income.
+Effective Tax Rate (ETR) for Q2 was 27.6% in the same range as our expectations of 27.5%.
+Page 6 of 19
+Q2 FY24 Earnings Call October 17, 2023 Net income for the quarter was 5% on Y-o-Y basis and came in at INR315 crores, which is 13.2% of revenue.
+Moving to Balance Sheet.
+Unbilled days was 16 in Q2 compared to 15 days in Q1.
+Let me now talk about cash flows.
+Our YTD Free Cash Flows were ₹ 430 crores, which is at 69% of Net Income.
+Our Cash and Investments stood at ₹ 2,270 crores at the end of Q2 versus ₹ 2,394 crores at the end of Q1.
+As you would have seen today, the board approved an interim dividend of ₹ 17/share.
+Moving to revenue metrics.
+Now let me comment on operational metrics.
+The Onsite:Offshore mix was at a similar range as compared to Q1.
+Offshore percentage now stands at 59.6%.
+We expect this to continue at the same level going forward.
+Page 7 of 19
+Before I conclude, let me give some visibility on EBIT margin trajectory going forward.
+We thank all our stakeholders for their continued patronage.
+Thank you.
+Moderator, we can take questions now.
+Moderator: Thank you very much.
+We will now begin the Q&A session.
+We will take our first question from the line of Vibhor Singhal from Nuvama Equities.
+Please go ahead.
+I just have a couple of questions.
+In the industry at this point of time, we are seeing two phenomena.
+One is the new deals are taking time to get closed or start execution.
+The second is the existing deals, the discretionary part of those deals is being put on hold or being delayed.
+And what do you see -- how do you see those things playing out over the next 2 to 3 quarters.
+Amit Chadha: So Vibhor, thank you so much.
+Vibhor, so let me say a couple of things.
+The average deal size is slightly longer.
+I talked about this last time.
+Actually, a couple of them are more than $20M+, a couple of them are exactly $20M, etc.
+So there has been that colour.
+Page 8 of 19
+Q2 FY24 Earnings Call October 17, 2023 So from that standpoint, the funnel is bigger, and we are seeing those closures.
+We don't know when that's going to lift off.
+Second, with this developing situation that's happening in the world, we are not totally sure as to which way will this come and sit.
+Though we don't have too much operations in Israel.
+It's very small, and we continue to pray for our small team that's there.
+But what will be the indirect impact, we're not sure.
+And therefore, I shared with you also that we have an algorithm that we use for computing this.
+So -- and we have taken that into account, and that's why you're seeing the revised one.
+We will come back again in January & if things turn, we will let you know.
+We continue to be hiring.
+We continue to invest in technology.
+Vibhor Singhal: Sure.
+Thanks for that Amit.
+The second question I had was on the Telecom segment.
+Now traditionally, in the Telecom and Hitech segment, we've been more towards Telecom and Hitech than the Telecom service providers, the TSPs.
+Will that mix change?
+Or has that mix already changed in favour of Telecom service providers because of SWC integrating into the business?
+Amit Chadha: So see, it's more than just 5G or Telco providers, it is two or three things that we should look at.
+We also look at cybersecurity for this segment as a horizontal offering across enterprise as well as Telecom, right?
+So, it's helping us have those conversations.
+The deal we have closed, which is a first Smart World deal, a $10M+ deal.
+We had closed a smaller one earlier.
+This is the first $10M+ deal for this business, we have closed with a US customer.
+So, it is helping us change the conversation.
+Q2 FY24 Earnings Call October 17, 2023 has a component of software that we have developed in-house that we're going to be deploying as well, right?
+So that is a value-add service that we are providing.
+Third, with the work that we are doing with Telecom, we are able to go to Semcon companies, we're able to go to Telecom Infra companies and work with them to be able to bring them to India together.
+So, it's becoming like a ‘sell with,’ ‘solution with’ conversations that was not happening prior to Smart World.
+Lastly, we are getting to finally own an entire end-to-end project work that again was not there earlier.
+Again, story to be played out.
+Early days, we've made the investments.
+We have stood up our team in the Middle East, our full sales team in the Middle East.
+The pipeline is there.
+So, to be played out Vibhor, but definitely for the better.
+And per our plan, as we had thought about when we purchased this business.
+Moderator: Thank you.
+We have a next question from the line of Akshay Ramnani from Axis Capital.
+Please go ahead.
+So, my first question was on SWC seasonality.
+So, can you please clarify on the SWC seasonality?
+Amit Chadha: Sure.
+So, thank you so much, Akshay.
+But having said that, if I look at the SWC business now, see, the whole goal of integrating SWC, buying SWC and integrating it together as one team, one company, one division was that we would like to take this business internationally, investing in a full-scale sales team in Middle East, investing in a full-scale sales team in the US as well as parts of Europe.
+I think all those dots we are trying to do.
+Again, these are early days.
+It's only the second quarter that we have run together.
+And now we don't call it Smart World anymore, we call it NGC, Nex Gen Comms.
+So, we do have a pipeline for the Nex Gen Comms business, and we are actively working and pursuing to try and close some of these deals internationally as well as in India.
+So, to be seen and to be played out as we move along.
+And we'll keep you updated as things develop and go forward.
+Page 10 of 19
+Q2 FY24 Earnings Call October 17, 2023 I do want to just say one more thing.
+We have packaged two of the solutions that our NGC business has created.
+We have packaged it.
+So, to be played out, to be seen.
+Akshay Ramnani: My question on SWC seasonality part, I think remained unanswered… Amit Chadha: I’ll address it, yes.
+So, look, I'm not going to look in rear view mirror and say what happened last year.
+We are playing it in the current year as we are, and we'll see how Q3 and Q4 do, to be played out.
+Akshay Ramnani: Okay.
+And my second question is on headcount additions.
+This is despite a reduction in attrition.
+Amit Chadha: So, thank you, Akshay.
+Very valid question.
+Actually, the way you have to think about it is that if we get a signal that future, so we normally know what kind attrition numbers we will have a quarter in advance, right?
+Because there is a notice period and we've got an algorithm with HR that does that very carefully.
+improve pyramid, etc.
+So, with all that, I would not read too much between the 500+ to the 700+.
+We've had some joining that have been there in the first week of October as opposed to September.
+That's all there is to it.
+And you will see us being careful as we continue to be always, in terms of how many we need, what can be re-purpose internally, etc.
+In fact, our training institute has been working overtime and reskilling people as well & that's how you will see this going forward.
+For the record, about 2,000 freshers we had hired last year.
+We've already onboarded more than 1,000 so far, and the remaining offers that are there will be honoured in the next two quarters, there's a plan for it as we move forward.
+We are, in fact, starting to discuss college campus hiring for next year as well and finalizing those numbers as we speak.
+Moderator: Thank you.
+We have a next question from the line of Sulabh Govila from Morgan Stanley.
+Please go ahead.
+Sulabh Govila: So, first is with respect to the guidance that we've revised, I just wanted to understand what's the split of this guidance ex of SWC?
+I mean, on an organic basis, what's the number that you're looking at for FY24?
+Page 11 of 19
+Q2 FY24 Earnings Call October 17, 2023 Amit Chadha: So Sulabh, thank you so much for asking.
+Actually, we had mentioned this in the last call that we look at this now as an integrated business.
+And we don't look at it as two businesses anymore because now the international deals are being one, that means some of the Smart World resources are being used, NGC resources are being leveraged for that.
+There is work that is happening in India where we are leveraging some of the LTTS heritage resources as well; So, it's now become one team.
+So, we are guiding at this stage, 17.5% to 18.5% and comfortable with the upper part of the spectrum.
+Sulabh Govila: Understood.
+And how much of this is sustainable going through the quarters?
+Rajeev Gupta: Yes.
+Thank you, Sulabh.
+See, some of the reduction that you see in the SG&A side, is actually planned for, right?
+One of that comes from the synergies from SWC acquisition.
+We talked about it.
+We ran the process on integration.
+We have now concluded.
+We merged the two businesses.
+A lot of the non-billable resources that used to be part of G&A, now are moving into billable roles.
+Second, facilities have been consolidated.
+So, the synergies are truly translated.
+So, areas like travel, welfare spend, all of these areas we have carefully looked at and optimized upon.
+Then also looking at our variable pay provision.
+We've looked at it in relation to the sales targets and accordingly adjusted for it.
+So, these are a few reasons where you see.
+We believe we will continue to be in the range of 9.5% to 10%.
+I'll probably add on to it because for us looking at all of the cost in one stack is important.
+So, these are all areas that we're going to continue to play upon.
+Page 12 of 19
+Q2 FY24 Earnings Call October 17, 2023 Sulabh Govila: Sure, Rajeev.
+So just a quick follow-up.
+Rajeev Gupta: So Sulabh, in a way, I would say, yes.
+A lot has to be seen in terms of how we see revenue translate.
+Amit did talk about some of the headwinds.
+But of course, we have to see that through.
+Of course, Q3 also is one of the most challenging quarters, right?
+Now all of the costs we have planned, keeping in mind that these challenges are being addressed for.
+Moderator: Thank you.
+We have our next question from the line of Karan Uppal from Phillip Capital.
+Please go ahead.
+Karan Uppal: Yes.
+Thanks for the opportunity.
+So, Amit, one question on the longer decision cycles you have mentioned in the press release.
+Amit Chadha: Karan, thank you.
+I'll answer your second question first and the first question second.
+So unequivocally, I want you to think about this.
+And we have baked in some amount of happenings in the last few weeks, like I said in one of the earlier answers.
+There is caution in terms of conversations, there are clients that are having with us.
+They are wanting to wait and watch how things turn out, right?
+Because there's a lot of these reports coming out every day that are fairly counter to each other.
+And every client is looking at their own market, they're looking at their own cost stack, etc.
+So, we are seeing decision-making cautious.
+We are seeing people asking us more data before they make a decision.
+What we are doing to address that is to pile up more proposals.
+So, we are trying to see how we ramp up our pipeline to a much larger extent.
+In fact, my colleague, Alind Saxena, is driving that initiative of seeing, what can we do in terms of improving the pipeline.
+Alind, would you like to share a few words on what we're doing around the pipeline?
+Alind Saxena: Thank you.
+So, across the sectors if we look at the five different sectors that we play in, we today have sufficient pipeline and we have made some provisions for backups in case some of the Page 13 of 19
+Q2 FY24 Earnings Call October 17, 2023 decisions get delayed.
+Thank you.
+Karan Uppal: Okay.
+Second question, Amit, is slightly on the longer side, specifically on SDV-related area.
+So do you want to highlight any investments you are making maybe on the capability side or on the labs?
+Any large deals in the pipeline within this area, because peers have started announcing pretty large deal in software defined vehicles.
+So any update from that side will be very helpful.
+Amit Chadha: So, on the SDV side, see, as we look at the SDV stack, we look at it as a hardware layer, we look at it as a compute layer, embedded layer and then the software layer and then the data layer.
+So there are four parts to SDV that we are discussing here.
+Fourth, there are tools that we have developed around leveraging Gen AI.
+There's a tool called EvQUAL, it's on our website, that's hosted on AWS.
+There is a Digital Twin for digital cockpit we have built.
+There is Ethernet simulator we have built.
+There is hawkBit, another one that we have built.
+There are various components that we have built that are leveraging for the OEMs and Tier 1s as we move forward.
+So, deals in play, deals in progress, a ramp-up happening across US, Europe and Japan.
+Moderator: Thank you.
+We have a next question from the line of Ravi Menon from Macquarie.
+Please go ahead.
+Ravi Menon: Thank you.
+Amit, if I heard you right, the only area that you really called out softness, it was semiconductors.
+Is anything different this time?
+Amit Chadha: So one, we do expect there to be a softness in Medical, right?
+I'm calling that out.
+So there's another quarter of pain left in that particular area.
+Page 14 of 19
+Q2 FY24 Earnings Call October 17, 2023 Outside of that, regular furloughs, Ravi, the only thing that we don't know is that because of the UAW strike since mid-September, some of our projects were put on hold.
+So some of that is what's going on.
+Having said that, we're still cautiously approaching the quarter.
+That's why I said in my commentary that Q3 there it's still got to play out, right?
+So again, an active discussion ongoing if I may, Ravi.
+But in Auto should we worry about the EV transition because we have been reading reports at EV sales are not really going through as expected and automakers are actually seeing bigger inventories of EV vehicles now?
+Amit Chadha: So Ravi, there are two parts here.
+Number one, we are not just Auto.
+We are, like you said, we are Auto, we have Commercial Vehicles, Trucks & Off Highway, Aerospace and Rail.
+So we are across the segment.
+That's number one.
+Number two is that our -- though we are rated highest in EV, and I'm truly complementary of the entire team that came together to deliver it, we are not a single trick pony.
+There is other offerings that we have got in the area that we are leveraging, right?
+In fact, the investments in SDV that we are doing, we believe is the future, like AI.
+So, AI, cybersecurity, SDV as well as next-gen compute and next-gen comms is the future.
+So, we'll continue to invest.
+We took a 50-member team from our Semiconductor practice and a 50-member team from our Consumer Electronics practice, and we put that as a seed team for SDV and said, "Go build and let's go ahead and grow", right?
+We have done that for EV, if you remember three years ago by taking 100 people from Industrial Products and power electronics.
+So we will cross leverage skills from SDV and automotive to other areas if required to supplement.
+And that is exactly the reason why we are in five verticals, and I do believe that this will be a shock absorber for others in case there's a slowdown in one area.
+But we remain actively engaged across.
+And a targeted effort being made towards SDV, Alind spoke about it, running a specific program in the company to ramp up the pipeline.
+Moderator: Thank you.
+We have our next question from the line of Bhavik Mehta from JPMorgan.
+Please go ahead.
+Bhavik Mehta: Thank you.
+Couple of questions.
+And then assuming that, it's more on the conversion side Page 15 of 19
+Q2 FY24 Earnings Call October 17, 2023 where there's is an issue, is that a fair understanding?
+So any colour on the US geography in terms of what verticals are taking in headwinds over there?
+Thank you.
+Amit Chadha: Sure.
+So Bhavik, thank you.
+So Bhavik, number one, when I say decision-making delays, I'm referring to a couple of things here.
+So therefore, there is a longer ramp-up and then get to a stable phase and then potentially closure.
+Second, what is happening is that in July, when we came in and talked to you & then we did roadshows in August, right?
+I mean three deals – two $20M+ & one $10M+ just in the first two weeks of October that we have signed, that we have landed.
+But I still feel that there is a sort of a wait and watch kind of hesitation that's coming across that we are seeing.
+People are talking about next year, right?
+So – ‘let's do this, let's do this.
+Well, let's start in January,’ right?
+There’re others they're saying, let's start and then let's start smaller and then we will ramp up with you.
+But we want to bolt down resources, we want to bolt down plans and take it forward.
+So there is some amount of wait and watch that we are seeing creep into conversations.
+Having said that, there is still vendor consolidation.
+So that's number one.
+Number two, you are absolutely right.
+In fact, I remember about 2.5 years ago, one of the calls, there was a worry that in Europe, are you serious, will it grow?
+I would complement the team that delivery and the sales leadership team in Europe.
+This is across DACH, Nordics, Netherlands, and France.
+And we are clear we are not in other geos, these are the geos, and it's not just Transportation, it is Transportation and the Digital Manufacturing that we are seeing growth in.
+So we are seeing that.
+We are actually trying to see if we can get into Plant Engineering in Japan now to be seen how it plays out, right?
+India, of course, the growth is part of the Nex Gen Comms business that we have had, etc.
+Page 16 of 19
+And that did have an impact on us in the current quarter.
+So that -- there's a little bit of this there.
+We are all guns blazing.
+We've started ideation processes on a continuous basis.
+So, to be seen how things are, but to be worked out, to be played out, and we'll continue to keep you engaged and updated as things progress.
+Bhavik Mehta: Just a follow up on that.
+Amit Chadha: So similar to last year, Bhavik, but to play out to play out.
+So, to be played out Bhavik.
+Truly to be played out.
+Moderator: Thank you.
+We have a next question from the line of Abhishek Shindadkr from InCred Capital.
+Please go ahead.
+Abhishek Shindadkr: Hi, sir.
+Should we also assume a similar number baked into your guidance in terms of why the reduction happened from – especially from this project?
+Amit Chadha: So Abhishek, thank you.
+Abhishek, I was giving an example on quantifying a certain situation when I gave that number, right?
+The point is that there are – I mean you are aware of the macros that are developing right now with the kind of uncertainty that's there.
+So, there is a general caution Abhishek that we are baking into the guidance that we are providing, Abhishek.
+Abhishek Shindadkr: Got it, sir.
+Thank you for taking my question and best wishes for the year.
+Moderator: Thank you.
+We have our next question from the line of Sandeep Shah from Equirus Securities.
+Please go ahead.
+Sandeep Shah: Yes, thanks.
+Amit, the first question is, if I look at the ask rate to achieve the next guidance at the upper end, which you are confident is roughly around 3.4%.
+And in our previous calls, we have said for SWC, the H2, which be heavier versus H1.
+Amit Chadha: Sandeep, thank you.
+Sandeep, everything is organic now, that's the way we look at it.
+So, we are baking in some pluses and some minuses.
+So, this is to be played out.
+There are deals in the pipeline right now that we have to sell and deliver to achieve this guidance.
+I mean let me be very clear in that.
+And there are deals in the Page 17 of 19
+Q2 FY24 Earnings Call October 17, 2023 U.S., there are deals in Europe, there are India deals, there are Middle East deals that we are working on.
+So, to be seen how it plays out, Sandeep.
+Sandeep Shah: Yes.
+Yes.
+Just a clarification Amit, you also, in one of your statements, said the organic growth in this quarter on a YoY is 16% or something else, there is some mistake in my hearing as a whole.
+Amit Chadha: Let me answer your first question, and I'll request you to repeat your second.
+So, Sandeep, what I was saying was we have re-casted last year financials, and we've added Smart World in last year's financials, right?
+If I was to not add them in last year's financials and only add them into current year financials, like I would do to any company I would buy that was not joint ownership or whatever they call it, the right word, then you would have seen 16% YoY.
+That is what I was referring to.
+Sandeep Shah: Okay.
+Okay.
+Now it's clear.
+Any change in the outlook?
+Amit Chadha: So, when we say ISV, we include some of these Consumer Electronic companies in that space as well.
+We do expect it to impact us in Q3 as well.
+In fact, some of the work that we've done in Gen AI, where we have developed tools and we've actually taken – we've created manufacturing use cases that we have done in Gen AI around predictive maintenance, that we have done in AI-powered optical inspection, around demand forecasting, around software defined endoscopy for real-time video, all this work that we have done is going to help us actually capture some market share in ISV and Semcon.
+And we believe that will help us as we move forward.
+Moderator: Thank you.
+We have a next question from the line of Surendra Goyal from Citigroup.
+Please go ahead.
+Surendra Goyal: Yes, hi.
+Good evening.
+Amit, just trying to understand some of your comments better.
+So, I was just trying to understand what is your thoughts process there.
+Amit Chadha: So Surendra, what I'm saying is that, look, do we expect -- because this conversation was, I think I had with some of you that said do we think it will be a Christmas quarter, right?
+And at this stage, looking at what we've been seeing in the later part of September, we don't think it's going to be a Christmas quarter, right?
+Having said that, it has to be played out because the cues that we are getting from different customers is different, right?
+So, to be played out, like I said, and Page 18 of 19
+Q2 FY24 Earnings Call October 17, 2023 that we have taken into account when we have given the revised guidance.
+I'm sorry if I sounded contradictory there but I want to be clear that we do not expect a Christmas quarter.
+Surendra Goyal: Sure.
+And just one clarification, Amit.
+Was your earlier guidance conservative as well or was that realistic?
+Amit Chadha: So, Surendra, whenever we provide guidance, we always look at various items.
+We look at things happening, we look at our ability to win, our differentiators & we bake that all in.
+And that's how we do this.
+Surendra, the one principle we follow as a management team is that if we know something, we will make sure we don't surprise you, we let you know.
+That is the credibility we want to build with you and that's what we stand for.
+Moderator: Thank you.
+Ladies and gentlemen, that was the last question for today.
+I would now like to hand the conference over to Mr. Pinku Pappan for closing comments.
+Over to you, sir.
+Pinku Pappan: Thank you, everybody, for joining us on the call today.
+We hope we've been able to answer your questions, and if you if you have any follow-up, please reach out to me.
+With that, we are signing off, and we look forward to interacting with you coming days in the quarter.
+Have a good day, and goodbye from all of us.
+Thank you.
+Moderator: Thank you.
+On behalf of L&T Technology Services Limited, that concludes this conference.
+Thank you for joining us, and you may now disconnect your lines.
+Note: This transcript has been lightly edited for clarity and accuracy.
+Page 19 of 19

@@ -1,5 +1,5 @@
 * {
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
   }
 
   .btn-primary {
@@ -52,6 +52,10 @@
     padding: 5px;
     width: 100%;
   }
+  .parent-options div:hover {
+    background-color: rgb(56, 56, 56) !important;
+    color: #ffffff !important;
+  }
   .options-active {
     /*when navigating through the items using the arrow keys:*/
     background-color: rgb(56, 56, 56) !important;
@@ -61,7 +65,7 @@
   .hyperlink {
     color: #0c0c0c !important;
     cursor:pointer !important;
-    font-size: smaller;
+    font-size: medium !important;
   }
   .hyperlink:hover {
     background-color: #131313 !important;

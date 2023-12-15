@@ -25,7 +25,7 @@
         {% csrf_token %}
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 p-2 align-items-center">
           <div class="col-3">
-            <div class="form-floating" style="position: relative; z-index: 0; width: auto;">
+            <div class="form-floating" style="position: relative; z-index: 1; width: auto;">
               <textarea class="form-control" type="text" id="company_field" placeholder="Enter Company Name" autocomplete="off"></textarea>
               <label for="company_field">Company Name</label>
               <!-- <div class="parent-options" id="parent-options">
@@ -36,9 +36,9 @@
             <div class="form-floating">
               <select class="form-select" id="YearSelect" aria-label="Select Year">
                 <option value="">select Fiscal Year</option>
-                <option value="2024">2024</option>
+                <!-- <option value="2024">2024</option>
                 <option value="2023">2023</option>
-                <option value="2022">2022</option>
+                <option value="2022">2022</option> -->
               </select>
               <label for="YearSelect">Choose Year</label>
             </div>
@@ -58,7 +58,7 @@
           <div class="col-3">
             <div class="form-floating">
               <select class="form-select" id="ServiceSelect" aria-label="Select Service">
-                <option value="">select Service</option>
+                <!-- <option value="">select Service</option> -->
                 <option value="1">Summarize</option>
                 <!-- <option value="2">Sentiment</option> -->
                 <option value="3">Key takeaways</option>
@@ -67,7 +67,6 @@
             </div>
           </div>
         </div>
-        <div class="mx-auto" style="z-index: 0; display: block; position: absolute;" id="senti_content"></div>
         <button class="btn btn-primary mx-auto" id="submit-btn" type="submit" style="display: block;">Submit</button>
       </form>
     </nav>
@@ -88,45 +87,42 @@
         </div>
       </div>
     </div>
+    <div class="mx-auto" style="z-index: 0; display: block; position: relative;" id="senti_content"></div>
     <div> 
       <div id="display_div" class="row mt-2">
         <div class="col-6 mx-auto p-2" id="pdf_parent"></div>
         <div class="col-6 mx-auto p-2" id="fin_parent"></div>
       </div>
-      <div class="position-relative"><div id="status" class="position-absolute start-50 top-50 translate-middle" style="display: block;"></div></div>
+      <div id="status" class="position-absolute start-50 top-50 translate-middle" style="display: block; margin-left: auto; margin-right: auto;"></div>
     </div>
   </div>
-
-
-  {% if cdict %}
-  <select id="cname_options" style="display: none;">
-    {% for i,j in cdict.items %}
-        <option value="{{i}}">{{j}}</option>
-        {% endfor %}
-      </select>
-  {% endif %}
-
-
+</body>
 
 
   <script>
     console.log("Hi");
+    var companies = "{{ cdict|escapejs|safe }}";
+    companies = companies.replace(/(?<=\[)'|'(?=\])|'(?=,)/g, '"');
+    companies = companies.replace(/(?<=,)[^']'/g,' "');
+    companies = companies.replace(/\\xa0/,' ');
+    companies = JSON.parse(companies);
+    // console.log(companies);
 
     
-    document.getElementById("company_field").addEventListener("click", function(e)
-    {this.value='';
-  });
-    document.getElementById("company_field").addEventListener("blur", function(e)
-    {
-      senti_content.style.display  = '';
-    });
+  //   document.getElementById("company_field").addEventListener("click", function(e)
+  //   {this.value='';
+  // });
+    // document.getElementById("company_field").addEventListener("blur", function(e)
+    // {
+    //   senti_content.style.display  = '';
+    // });
     
-    document.getElementById("company_field").addEventListener("focus", function(e)
-    {
-      senti_content.style.display  = 'none';
-      if(this.value=''){
-      closeAllLists();
-    }});
+    // document.getElementById("company_field").addEventListener("focus", function(e)
+    // {
+    //   senti_content.style.display  = 'none';
+    //   if(this.value=''){
+    //   closeAllLists();
+    // }});
 
     
 
@@ -135,9 +131,8 @@
     autocomplete company names
     */
     
-    function autocomplete(inp, arr) {
-    /*the autocomplete function takes two arguments,
-    the text field element and an array of possible autocompleted values:*/
+    function autocomplete(inp, year, quar, arr) {
+      /*the function has three arguments the textarea, the select element for the year and the select element for the quarter.*/
     var currentFocus;
     // a = document.getElementById('parent-options');
     /*execute a function when someone writes in the text field:*/
@@ -149,7 +144,7 @@
           closeAllLists();
           return false;
         }
-        currentFocus = -1;
+        currentFocus = 1;
         /*create a DIV element that will contain the items (values):*/
         a = document.createElement("div");
         a.id="parent-options";
@@ -160,19 +155,85 @@
         /*for each item in the array...*/
         for (i = 0; i < arr.length; i++) {
           /*check if the item starts with the same letters as the t ext field value:*/
-          if (arr[i].name.substr(0, val.length).toUpperCase() == val.toUpperCase()) {
+          if (arr[i][0].substr(0, val.length).toUpperCase() == val.toUpperCase() || arr[i][1].substr(0, val.length).toUpperCase() == val.toUpperCase()) {
             /*create a DIV element for each matching element:*/
             b = document.createElement("div");
             b.classList.add("options");
             /*make the matching letters bold:*/
-            b.innerHTML = "<strong>" + arr[i].name.substr(0, val.length) + "</strong>";
-            b.innerHTML += arr[i].name.substr(val.length);
+            // b.innerHTML = "<strong>" + arr[i][0].substr(0, val.length) + "</strong>";
+            // b.innerHTML += arr[i][0].substr(val.length);
+            b.innerHTML = arr[i][0];
+            b.innerHTML += " ("+arr[i][1]+")";
             /*insert a input field that will hold the current array item's value:*/
-            b.innerHTML += "<input type='hidden' value='" + arr[i].name + "'>";
+            b.innerHTML += "<input type='hidden' value='" + arr[i][0] + "'>";
             /*execute a function when someone clicks on the item value (DIV element):*/
             b.addEventListener("click", function(e) {
               /*insert the value for the autocomplete text field:*/
               inp.value = this.getElementsByTagName("input")[0].value;
+              for(j=0;j<arr.length;j++){
+                if (this.getElementsByTagName("input")[0].value == arr[j][0]){
+                  tarr = [];
+                  for (l=0;l<arr[j][4].length;l++){
+                  tarr.push(arr[j][4][l]);}
+                  tarr.push(arr[j][2]);
+                  tarr.sort(function(a, b) {
+                      return b - a;
+                  });
+                  while (year.firstChild) {
+                      year.removeChild(year.firstChild);
+                  }
+                  for (k=0;k<arr[j][4].length;k++){
+                    if (tarr[k-1]!=tarr[k]){
+                    var option = document.createElement("option");
+                    option.text = tarr[k]; // Set text for each option
+                    option.value = tarr[k];
+                    year.appendChild(option);}
+                  }
+                  while (quar.firstChild) {
+                        quar.removeChild(quar.firstChild);
+                    }
+                  var loption = document.createElement("option");
+                  
+                    if (arr[j][3] == 1){
+                      loption.text = "One (Q1)"; // Set text for each option
+                      loption.value = arr[j][3];}
+                    else if (arr[j][3] == 2){
+                      loption.text = "Two (Q2)"; // Set text for each option
+                      loption.value = arr[j][3];}
+                    else if (arr[j][3] == 3){
+                      loption.text = "Three (Q3)"; // Set text for each option
+                      loption.value = arr[j][3];}
+                    else if (arr[j][3] == 4){
+                      loption.text = "Four (Q4)"; // Set text for each option
+                      loption.value = arr[j][3];}
+                    quar.appendChild(loption)
+                
+                    qn = [1,2,3,4];
+                    for(m=0;m<qn.length;m++){
+                      if(arr[j][3]==qn[m]){
+                        qn.splice(m, 1);
+                        i--;
+                      }}
+                    for(m=0;m<qn.length;m++){
+                      var option = document.createElement("option");
+                      if (qn[m] == 1){
+                        option.text = "One (Q1)"; // Set text for each option
+                        option.value = qn[m];}
+                      else if (qn[m] == 2){
+                        option.text = "Two (Q2)"; // Set text for each option
+                        option.value = qn[m];}
+                      else if (qn[m] == 3){
+                        option.text = "Three (Q3)"; // Set text for each option
+                        option.value = qn[m];}
+                      else if (qn[m] == 4){
+                        option.text = "Four (Q4)"; // Set text for each option
+                        option.value = qn[m];}
+                      quar.appendChild(option)
+                    }    
+                }
+            }
+              // var opt = 
+              // year
               // console.log(inp.value);
               /*close the list of autocompleted values,
               (or any other open lists of autocompleted values:*/
@@ -186,7 +247,6 @@
     inp.addEventListener("keydown", function(e) {
         var x = document.getElementById('parent-options');
         if (x) x = x.getElementsByTagName("div");
-        console.log(x);
         if (e.keyCode == 40) {
           /*If the arrow DOWN key is pressed,
           increase the currentFocus variable:*/
@@ -242,22 +302,8 @@
 
   
   
-  // the rest
-  companies = [];
-  if (cname_options){
-    for(i=0;i<cname_options.length;i++) {
-      cobjects = {id: cname_options.options[i].value.toString(), name: cname_options.options[i].text.toString()};
-      companies.push(cobjects);
-    }
-  }
-  
-  company_names = [];
-  for(i=0;i<companies.length;i++){
-    company_names.push(companies[i].name.toString());
-  }
-  
-  autocomplete(document.getElementById("company_field"), companies);
-    console.log(company_names);
+  // the rest  
+  autocomplete(document.getElementById("company_field"), document.getElementById("YearSelect"), document.getElementById("QuarterSelect"), companies);
 
     prev_doc = ''; 
     
@@ -302,15 +348,15 @@
     document.getElementById('submit-btn').addEventListener('click', function(e) {
       e.preventDefault();
       for (i=0;i<companies.length;i++){
-        if (coselect.value===companies[i].name){
-        var cselect = companies[i].id;
+        if (coselect.value===companies[i][0]){
+        var cselect = companies[i][1];
         console.log(cselect);
         break;
       }
     }
     senti_content.innerHTML = ``;
-    if (cselect != '' && yselect.value != '' && qselect.value != '' && sselect.value != '')
-    {
+    // if (cselect != '' && yselect.value != '' && qselect.value != '' && sselect.value != '')
+    // {
           // senti.innerHTML=`<span class="loader"></span>`;
           document.getElementById("status").innerHTML = `<div class="spinner-grow" style="border-radius: .5px;" role="status">
                                                           <span class="visually-hidden">Loading...</span>
@@ -320,6 +366,7 @@
               document.getElementById("pdf_doc").remove();}
             formdata = new FormData();
             selected = [cselect, yselect.value, qselect.value, sselect.value];
+            console.log(selected);
             formdata.append("selected", JSON.stringify(selected));
             fetch(selection_form.action, {
                 method: 'POST',
@@ -332,7 +379,7 @@
                     console.log(data.errors);
                 } else {
                   console.log(data.status);
-                  if (data.status != 404){
+                  if (data.status == 200){
                     if (!document.getElementById("fin_text")){
                       if (document.getElementById("status")){document.getElementById("status").innerText = '';}
                       const pdf_elem = document.createElement("embed");
@@ -375,8 +422,33 @@
                   else{
                     document.getElementById("status").innerHTML = ``;
                     stats = document.getElementById("status");
-                    // stats.style.textAlign = "center";
-                    stats.innerText = "Data Unavailable";
+                    stats.style.textAlign = "center";
+                    console.log(data.pdfs);
+                    if(data.status == 404){
+                      stats.innerHTML = `<a>No such company available.</a>`;  
+                    }
+                    else{
+                      go = 0
+                      if (data.pdfs){
+                      for(i=0;i<data.pdfs.length;i++){
+                        if (data.pdfs[i] != '')
+                        { go = i; }
+                        else{
+                          go = 0;
+                        }
+                      }
+                      if (go != 0)
+                      {
+                        stats.innerHTML = `<a href=`+data.pdfs[go]+`>Click to Generate</a>`;
+                      }
+                      else{
+                        stats.innerHTML = `<a>PDFs are not available</a>`;
+                      }
+                    }
+                    else{
+
+                    }
+                    }
                   }
                 }
             })
@@ -398,7 +470,7 @@
             .then(data => {
                 if (data.status == 404) {
                   console.log(data.errors);
-                  senti_content.innerHTML = `<div class="mx-auto p-2" style="display: block; font-size: smaller;">Setiment data unavilable</div>`;
+                  senti_content.innerHTML = `<div class="mx-auto p-2" style="display: block; font-size: small;">Setiment data unavilable</div>`;
                 }
                 else{
                   score = data.score;
@@ -409,7 +481,7 @@
                   pos = data.pos;
                   neg = data.neg;
                   neu = data.neu;
-                  senti_content.innerHTML = `<div class="mx-auto p-2" style="display: block; font-size: smaller;">Positive: <a class="hyperlink" id="poss" data-bs-toggle="modal" data-bs-target="#sentimentmodal">${sarray[0]}%</a>, Negative: <a class='hyperlink' id="negs" data-bs-toggle="modal" data-bs-target="#sentimentmodal">${sarray[2]}%</a> and Neutral: <a class='hyperlink' id="neus" data-bs-toggle="modal" data-bs-target="#sentimentmodal">${sarray[1]}%</a>`;
+                  senti_content.innerHTML = `<div class="mx-auto p-2" style="display: block;">Positive: <a class="hyperlink" id="poss" data-bs-toggle="modal" data-bs-target="#sentimentmodal">${sarray[0]}%</a>, Negative: <a class='hyperlink' id="negs" data-bs-toggle="modal" data-bs-target="#sentimentmodal">${sarray[2]}%</a> and Neutral: <a class='hyperlink' id="neus" data-bs-toggle="modal" data-bs-target="#sentimentmodal">${sarray[1]}%</a>`;
                   poss.addEventListener("click", () => {
                     sentimentmodalLabel.innerText = "Sentiment - Positive";
                     sentiment_sentences.innerText = pos;
@@ -424,11 +496,14 @@
                   });
                   // console.log(data);
                 }
+              })
+              .catch(error =>{
+                console.error(error);
               });
-        }
-        else {
-          alert("Must make selections for each of the criteria")
-        }
+        // }
+        // else {
+        //   alert("Must make selections for each of the criteria")
+        // }
         });
     
     function elaborate(elem){
@@ -438,5 +513,4 @@
 
     }    
   </script>
-</body>
 </html>

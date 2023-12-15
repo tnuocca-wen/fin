@@ -9,10 +9,16 @@ import pandas as pd
 # Create your views here.
 def index(request):
     c = Company.objects.all()
-    cdict = {}
+    cdict = []
     tickers = c.values_list('bse_ticker', flat=True)
     for i in range(len(tickers)):
-        cdict[tickers[i]] = c.get(pk=tickers[i]).company_name
+        n = c.get(pk=tickers[i]).company_name
+        t = tickers[i]
+        cy = c.get(pk=tickers[i]).cur_year
+        cq = c.get(pk=tickers[i]).cur_quarter
+        ay = c.get(pk=tickers[i]).a_year
+        aq = c.get(pk=tickers[i]).a_quarter
+        cdict.append([n, t, cy, cq, ay, aq])
     return render(request, "retrieval/index.html", {'cdict':cdict})
 
 @csrf_exempt
@@ -24,9 +30,15 @@ def retrieve(request):
         sel = json.loads(request.POST.get('selected'))
         # print("This is the request", type(sel))
         ticker = sel[0]
-        year = int(sel[1])
-        qrtr = int(sel[2])
-        srvc = int(sel[3])
+        try: 
+            year = int(sel[1])
+        except ValueError:
+            year = 0
+        try: 
+            qrtr = int(sel[2])
+        except:
+            qrtr = 0
+        srvc = int(sel[3]) if sel[3] != '' else 0
 
         if srvc == 1:
             fn = "summary"
@@ -61,7 +73,22 @@ def retrieve(request):
 
             return JsonResponse({'text': text, "ticker": ticker, "year": year, "qrtr": qrtr, "status": status, "ktr": 1 if srvc != 1 else 0, "ktdata": ktdata})
         else:
-            return JsonResponse({'text': '', "ticker": '', "qrtr": '', "status": 404})
+            try:
+                c = Company.objects.get(pk=ticker).pdf_data_set.all()[0]
+            except:
+                c = None
+            print(c)
+            if c is not None:
+                
+                yr = c.pdf1[1] if c.pdf1 != [] else ''
+                qr = c.pdf1[2] if c.pdf1 != [] else ''
+                pdf1 = c.pdf1[0] if c.pdf1 != [] else ''
+                pdf2 = c.pdf2[0] if c.pdf2 != [] else ''
+                pdf3 = c.pdf3[0] if c.pdf3 != [] else ''
+                pdf4 = c.pdf4[0] if c.pdf4 != [] else ''
+                return JsonResponse({'text': '', "ticker": '', "year": yr, "qrtr": qr, "status": 207, "pdfs": [pdf1, pdf2, pdf3, pdf4]}) 
+            else:
+                return JsonResponse({'text': '', "ticker": '', "year": '', "qrtr": '', "status": 404, "pdfs": []})
 
 def text_extract(fp):
     with open(fp, 'r', encoding="utf8") as file:
@@ -86,21 +113,28 @@ def sentiment(request):
     if request.method == 'POST':
         sel = json.loads(request.POST.get('selected'))
         ticker = sel[0]
-        year = int(sel[1])
-        qrtr = int(sel[2])
+        try: 
+            year = int(sel[1])
+        except ValueError:
+            year = 0
+        try: 
+            qrtr = int(sel[2])
+        except:
+            qrtr = 0
         fn = "sentiment"
         fp = f"static/documents/{ticker}/{year}/{qrtr}/{fn}/{ticker}_POS.txt"
         fpn = f"static/documents/{ticker}/{year}/{qrtr}/{fn}/{ticker}_NEG.txt"
         fpe = f"static/documents/{ticker}/{year}/{qrtr}/{fn}/{ticker}_NEU.txt"
         fps = f"static/documents/{ticker}/{year}/{qrtr}/{fn}/{ticker}_SCO.txt"
-        if not os.path.exists(f"static/documents/{ticker}/{year}/{qrtr}/{fn}/"):
-            os.makedirs(f"static/documents/{ticker}/{year}/{qrtr}/{fn}/")
-        if file_exists(f"fin/{ticker}/{year}/{qrtr}/{fn}/{ticker}_POS.txt") is True and os.path.exists(fp) is False:
-            status = 0
-            download_blob(f"fin/{ticker}/{year}/{qrtr}/{fn}/{ticker}_POS.txt",f"{fp}")
-            download_blob(f"fin/{ticker}/{year}/{qrtr}/{fn}/{ticker}_NEG.txt",f"{fpn}")
-            download_blob(f"fin/{ticker}/{year}/{qrtr}/{fn}/{ticker}_NEU.txt",f"{fpe}")
-            download_blob(f"fin/{ticker}/{year}/{qrtr}/{fn}/{ticker}_SCO.txt",f"{fps}")
+        if file_exists(f"fin/{ticker}/{year}/{qrtr}/{fn}/{ticker}_POS.txt") is True:
+            if not os.path.exists(f"static/documents/{ticker}/{year}/{qrtr}/{fn}/"):
+                os.makedirs(f"static/documents/{ticker}/{year}/{qrtr}/{fn}/")
+            if os.path.exists(fp) is False:
+                status = 0
+                download_blob(f"fin/{ticker}/{year}/{qrtr}/{fn}/{ticker}_POS.txt",f"{fp}")
+                download_blob(f"fin/{ticker}/{year}/{qrtr}/{fn}/{ticker}_NEG.txt",f"{fpn}")
+                download_blob(f"fin/{ticker}/{year}/{qrtr}/{fn}/{ticker}_NEU.txt",f"{fpe}")
+                download_blob(f"fin/{ticker}/{year}/{qrtr}/{fn}/{ticker}_SCO.txt",f"{fps}")
 
         score = ''
         pos = ''
@@ -115,3 +149,18 @@ def sentiment(request):
             neg = text_extract(fpn)
             neu = text_extract(fpe)
         return JsonResponse({"score": score, "pos": pos, "neg": neg, "neu": neu, "ticker": ticker, "year": year, "qrtr": qrtr, "status": 200})
+    
+
+def auto_complete(request):
+    c = Company.objects.all()
+    cdict = []
+    tickers = c.values_list('bse_ticker', flat=True)
+    for i in range(len(tickers)):
+        n = c.get(pk=tickers[i]).company_name
+        t = tickers[i]
+        cy = c.get(pk=tickers[i]).cur_year
+        cq = c.get(pk=tickers[i]).cur_quarter
+        ay = c.get(pk=tickers[i]).a_year
+        aq = c.get(pk=tickers[i]).a_quarter
+        cdict.append([n, t, cy, cq, ay, aq])
+        return

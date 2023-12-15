@@ -1,0 +1,145 @@
+Dipak K. Bohra: A warm welcome to our Q2 FY24 Earnings Call.
+Q2 was yet another quarter of strong deal booking for us.
+This is the highest in the last nine quarters and this represents 79% year-on-year growth and a 6% growth on quarter-on-quarter basis.
+During the quarter, we booked 14 deals in the greater than $30 million TCV range versus 10 in the previous quarter.
+Total bookings from a TCV standpoint stand at $3.8 billion, which is also a growth of 6% year-on-year.
+So, we've doubled the number of accounts in the $100 million category.
+As has been the case for several quarters now, cash flow has remained strong at 145% of net income in Q2.
+EBIT or earnings before tax and interest of our IT services segment has increased 6% year-on-year.
+wipro.com All of that gives us confidence that we're winning in the market against a backdrop of economic weakness.
+They are hyper-focused on efficiency, on optimization of existing investments and faster return on new ones.
+Lower discretionary spending is a reality today.
+All of this has impacted our top line growth as well.
+But even though there's some softness in top line growth.
+We are continuing to hold margins steady.
+This is 110% basis points higher than our operating margin in the first half of FY22.
+One in our Americas-I market unit revenue grew 1% quarter-on-quarter in constant currency terms in Q2.
+This revenue growth was led by a strong performance in our healthcare business as well as in the technology products and platforms business.
+Order bookings in terms of TCV grew 36% year-on-year.
+Having said that, we are seeing strong traction on the order booking side, which in total contract value terms increased 10% in Q2 year-on-year.
+Given our strong bookings in this market, we are confident of a swift rebound.
+For that, we are leveraging our global scale and domain expertise to actually continue to move our portfolio towards higher value transformation project.
+This focus on improving the quality of revenue is now reflecting in our margin performance, which has improved 330 basis points over the last five quarters.
+Being able to sustain margin despite softer revenue is largely due to our ongoing transformation efforts.
+This includes several programs around delivery excellence and operational efficiencies.
+Across the board, we are pivoting our business towards high quality, high potential businesses and reducing our loss-making accounts.
+We're also working on faster bench deployment.
+In the last quarter, talent utilization increased to 84.5%, an improvement of 80 basis points quarter-over-quarter.
+Third, our segmentation strategy together with the one-way pro approach is helping us seal bigger deals with existing clients and win in a consolidating market.
+And I'm proud that we are seeing these benefits within three months of moving to the new four global business line operating model.
+wipro.com Both on the delivery assurance and efficiencies, these actions are having an immediate positive impact while also setting us up for long-term margin resilience, because profitable and sustainable growth is our top priority.
+In Europe, we closed three large consolidation deals in Q2 at a 100% bid to win rate.
+This will deliver better customer experience, analytics and drive significant operational efficiency.
+Our partnership strategy continues to stay strong.
+Booking through our partners as a percentage of total bookings have continued to increase quarter-after-quarter, from 25% in FY22 to 44% in FY23, and it was at 53% in Q2.
+Increasingly, clients are not just looking to migrate to the cloud, but also run and grow their businesses more efficiently on the cloud.
+Our full stride cloud services with its full stack cloud offering is setting us apart from competition and letting us tap into opportunities across the cloud journey.
+As a strategic technology partner, we will build AI and automation solutions to drive speed to market, better client experience and reduce their cost.
+Our highperformance software engineering program will bring them at least 20% more efficiency.
+Now, if you look at the bigger picture in this, you will see that our ongoing transformation is driving a substantial improvement in our market position and that's in turn reflected in the types of deals we are winning.
+That's reflecting in the latest customer satisfaction survey as well with our NPS expanding by 840 basis points, which is quite substantial.
+We are working with our alliance partners to further enhance AI learning pathways through our AI and cloud academies.
+Let me give you examples, in the HR functions, our teams are seeing significant productivity gains by using GenAI for candidate background verification.
+In sales, we're deploying GenAI for research to improve sales collaboration and to generate responses.
+One of the areas with the biggest productivity gain is in quality engineering and quality assurance testing.
+Initial pilots of these GenAI apps have been so successful that we are now rolling them out to our all our employees.
+There's a tremendous interest in exploring new use cases as well as understanding the benefits and implications of this technology.
+Today, we are seeing a doubling of GenAI active projects than we did just one quarter ago.
+For now, we're seeing rapid adoption in healthcare, consumer and financial services, but also in hi tech and utilities.
+This solution is driving 30% to 40% reduction in operation costs, significant improvements in agent productivity and improving net promoter scores.
+Working with different vendor tools and software kits, we are generating high quality synthetic data which allows the client to not only increase cross-border collaboration, but also mitigate buyers and eliminate distribution limitations that exist in real data.
+As the technology evolve and GenAI output becomes more accurate, we expect demand for our GenAI services and expertise to increase greatly over the next 6 to 12 months.
+Frankly, very excited by the opportunity GenAI presents and we are investing in new use cases, solutioning for clients as well as upskilling our employees because we really want to take a leadership position in this space.
+On our guidance now, for the next quarter we are guiding for a sequential growth of -3.5% to -1.5% in constant currency terms.
+We expect margins to stay range bound as we've seen over the last few quarters.
+As the market starts to turn around on the back of our transformation and efficiency place, we expect to start seeing improvements in the coming quarters.
+Despite the global slowdown across businesses, Wipro will continue to invest in its people through training opportunities, leadership development, global exposure to new clients and technologies, and by obviously also rewarding them with merit-based salary increases.
+We're continuing to strengthen our foundation, streamline our operations and moving towards a more modern dynamic culture.
+We have the right strategy and vision to keep us competitive and resilient.
+We reported yet another quarter of healthy deal booking in total contract value terms.
+We closed large deals to the tune of USD$1.3 billion, which is a 79% year-on-year growth.
+Total bookings from a TCV standpoint stands at US$3.8 billion, which grew 6% year-on-year.
+wipro.com Turning to margins, our ongoing focus on operational improvement has ensured that the margin remains steady even in a softening revenue environment.
+Our operating margins for the second quarter were 16.1%, an expansion of 100 basis points year-on-year.
+Cash flow has been strong for the first half at 137% of net income.
+Our EPS grew 4.1% year-on-year.
+Our DSO for the quarter is at 79 days, which is an improvement of three days year-on-year.
+This translates to a sequential guidance of -3.5% to -1.5% in constant currency terms.
+I will share some updates on our business transformation and how that's reflecting in our steady margin performance.
+Our new four global business line model has allowed us to deliver a “One Wipro” service excellence approach to our clients.
+It is reflected in our latest customer satisfaction survey with our NPS expanding by 840 basis points.
+This directly reflects our performance with clients, delivery, program governance and our capabilities, and this is further strengthening our delivery-led sales.
+On the delivery excellence side, we have been very focused on consistency, efficiency and productivity for our clients.
+Over the last quarter, on the operational efficiency front, utilization is now up to 84.5%.
+In fact, utilization has increased by almost 470 basis points in the last four quarters, including utilization of next gen associates.
+We have taken several actions here from sustained bench reduction efforts, pyramid optimization to onshore, offshore rationalization and rigor around subcontracting costs.
+These are collaborative initiatives with our clients providing a skilling road map for our teams to serve them better.
+I am pleased with the progress we have made so far and a lot more lies ahead.
+Over the last two quarters, your revenue from existing customers have reached almost close to 100% about 99.6 or so number which was about 95, 96 sorts of a percent last year.
+I understand that you don't disclose those data, but this challenge of high deal win not translating into revenue is not just unique to you, we have seen with other companies as well, but at least their guidance or the commentary do suggest that in the coming quarters they are going to see a much better growth outlook, whereas in contrast, your outlook suggests that the growth is going to further deaccelerate from hereon and it's absolutely in contrast to the deal win TCV, which you're reporting.
+I think you are certainly reflecting on the fact that indeed bookings in TCV have been very solid over the last quarter, that is true.
+What we are seeing is we are winning more large deals.
+There's a good balance between new and renewals.
+I think you will recognize also what we've said because the market has not dramatically changed versus the previous last quarter is that while we win large deals that may take a little bit more time to convert into revenue.
+On one side, there's a very decent volume of business in the market.
+We have a strong pipeline and we are winning a nice share of these deals.
+We are winning more larger than before.
+Every quarter we improve.
+We've moved from occasionally a big one to now more systematically I would say win large deals this time to close to half a billion-dollar deal for the same quarter is a sign of that.
+And yet at the same time, discretionary spend is lower.
+And even if we know that it will be the first one to bounce back when the demand is there.
+But we also believe that should the market remain as it is, we will slowly bounce back.
+And that makes a lot more sense to invest into partnership relationship with clients
+wipro.com that will allow you to drive significant growth, there's a potential of significant growth.
+We've doubled the number of these accounts in two years from 11 to 22, as simple as that.
+Second thing, if you look at what we call our middle account, which are our top 80 accounts, they've actually resisted a lot better than the smaller ones.
+I think it's just the confirmation that this is the right strategy.
+We need to continue to focus our attention on those accounts where there will be growth over the next quarters, but also accounts that are shaping our industry and reduce the wasted investments in accounts where we will never go beyond a certain point.
+Kumar Rakesh: The rationale behind the strategy is very well appreciated.
+What have we done in terms of growth strategy over the last three years, in the first two years has been a period of significant growth, there was significant growth in this market.
+We've gone all in, and we have really got a good share of the growth.
+Over 40% increase in size in 10 quarters, market has changed.
+For us, what's key is to continue our focus on our transformation; continue to be more relevant, continue to drive our investment priorities around AI, around cloud, around security; continue to upgrade our talent; continue to be more nimble, more efficient and that's how we are, you will recognize that's how we continue to maintain and actually deliver the level of margins we are at in Q2.
+And so that's we are ready for when the market will bounce back to go back into growth mode.
+wipro.com a few years ago, we were not getting our fair share of larger deals and you know, large deals are giving you a certain level of resilience and also a certain level of impact with the client and that is completely in the center of our strategy to develop as I said.
+We've also obviously refocused our account executives and our leaders to be ready to go for larger deals.
+It has positioned us to engage at a different level with our clients.
+And we've started to win larger deals.
+It started with one big one and then another big one, but it was more erratic at the beginning and then we started to win more of these large deals and larger ones in size.
+Thierry Delaporte: So, yes, that is, I would grab on the pipeline, I would say there is certainly an evolution of the type of deals that we are seeing and the attention to cost takeout, cost optimization, margin productivity and so on is certainly a lot bigger than it was some quarters ago.
+First, about sales and marketing increase.
+There is a good uptake Q-o-Q, Y-o-Y.
+Now this quarter again it is increased.
+The second piece that you said on the number of accounts being moderated, you know Thierry just answered that it is a part of the strategy, we are focusing on increasing and expanding our top client relationships and it is in line with what we are pursuing as a strategy overall.
+To your third question that you had asked on the reconciling items, last quarter that is in Q1 of this fiscal, we had announced that knowing to a turn in the macroeconomic environment and for us in line with all the transformation that we are pursuing, we wanted to be more agile and we had announced a restructuring program under which we had taken in
+Are we seeing that the runoff of discretionary projects that we have witnessed over the last couple of quarters, is that coming to an end or you expect general demand to improve further?
+So, we are staying certainly cautious and as you know, we are not guiding beyond this quarter, but it feels that we can reasonably expect a rebound to come after.
+So, on order backlog you mentioned, so while you know we are winning deals, so inflow is good, at the same time there is depletion of current book of business.
+So, I know we don't give that number, but any color in terms of how the order backlog has improved over the past few quarters, given these two movements in different directions.
+So, I would say the nature of these deals has certainly continued to evolve.
+Therefore, producing business case, delivering outcomes, those are typically what we are seeing in the deals that we are closing, and I would say also we are seeing good volume of deals of clients working on the consolidation of their providers where we are seeing opportunities to expand our position in these accounts.
+Girish Pai: Thierry, how would you characterize the mood of clients, would you say they seem more optimistic or pessimistic today compared to say when you interact with them three months back or six months back?
+They're very curious about how AI and GenAI is either impacting or transforming or helping them be more efficient in their industry, and a lot of those discussions are around that.
+In your operations, to what extent are you using Generative AI today and where are you on that journey and where do you think maybe like 12 months down the road and what are the kind of productivity gains you had and connected with that are the clients you mentioned that lot of the conversations around Generative AI, are they actually asking for?
+So, we have been very, very aggressive and in the last six months we have adopted Generative AI to streamline our technology business processes as well as people.
+And this is very, very early, but early signs are indicative of productivity gains and in many areas, we talked a little bit about in the HR space, specifically around background checks, a lot of work we do is around employee hiring, retention training and managing.
+So, a lot of our work is now being streamlined, at least in early parts of our work with Generative AI in this space are very positive and encouraging in terms of productivity gains.
+Similarly on the quality assurance and testing practice, this has been quite interesting because in the last 2 to 3 months, the kind of highlights we've ran are indicative that we can significantly
+wipro.com reduce the amount of time or the number of hours it would take for us to be able to perform functional testing or perform specifically around data generation environment setup.
+So, the early tests and early pilots are very encouraging, and we hope to continue to give you updates on this and the rollout as well as how we'll take our learnings from internal adoption to our customers shortly.
+The growth that this organization, this leadership team has been able to drive over the last 3 years is actually a pretty decent level of growth.
+We are happy with where we are for sure.
+We're always trying to do more, and we are always ambitious to do more, but we are looking ahead of us, quite confident at our opportunity to get back into growth as the market gets a little better frankly.
+Sandeep Shah: And just a related question, when you expect a pickup in the growth and rebound in the growth, is it fair to assume that fourth quarter onwards the guidance may not indicate any kind of a Q-on-Q dip?
+Are you indicating a rebound from 4Q or maybe 1Q of the next financial year?
+We've done very well on remaining resilient in the first half.
+I think we've done very well in the US as well.
+We just highlighted the 100% score in Europe because we consider that this is quite a performance, but the performance, the win rate is actually improving and strong in the US, like it is in in Europe or actually in Asia PAC, Ravi.
+Ravi Menon: So, overall, you would say that you've seen win rates improved and your pipeline as well and that's why we're seeing the deal TCV, right overall….
+Thierry Delaporte: What we are seeing is that we are getting better at qualifying the deals that we see in the pipeline to reduce the lost investments, if you like.
+And so, it is definitely delivering results.
+Pipeline continues to be strong in Europe.
+The leadership team in Europe is pretty bullish.
+So, it gives confidence that Europe will bounce back rapidly.
+So, do you see this as an opportunity for incumbents such as Wipro or should that be more continued pressure?
+A company recognized globally for its comprehensive portfolio of services, strong commitment to sustainability and good corpor ate citizenship, we have over 240,000 dedicated employees serving clients across six continents.

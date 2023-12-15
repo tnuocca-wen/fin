@@ -1,0 +1,64 @@
+L&T Technology Services Limited shares their address and contact information. They provide a transcript of the Q2 FY24 Earnings Conference Call on October 17, 2023. Management members present at the call are introduced. The conference call is being recorded. Pinku Pappan, Head of Investor Relations, welcomes everyone and provides information about the call's duration. He introduces the leadership team and mentions that Amit Chadha will begin with an overview of the company's performance and outlook, followed by Rajeev Gupta discussing the financial performance.
+
+Amit Chadha thanked everyone for joining the call and wished them a Happy Navratri. He provided key highlights of Q2 performance: 
+- 3.2% sequential growth in constant currency
+- All segments grew sequentially
+- Transport and Plant Engineering led growth with around 4% growth each
+- 7 deals of $10M+ and 6 deals above $15M, as well as 2 significant empanelment deals
+- Operational performance remained healthy with EBIT margins of 17.1% 
+- Transportation segment had a good quarter with 4.4% QoQ growth in all sub-segments
+- Focus on software defined vehicles (SDV) with partnership for building next-gen chips and software
+- Strong EV play in Trucks and Off Highway, new build conversations starting in Aero
+- Plant Engineering had a strong quarter with nearly 4% QoQ growth across FMCG, O&G, and Chemicals
+- O&G investing in shale, low-carbon energy, carbon capture, and renewables
+- FMCG focusing on capacity expansion with automation and digital twin
+- Healthy deal pipeline in the US and Europe for Industrial Products, slight growth challenges in Electrical Machinery and Power and Utilities.
+
+Digital manufacturing and AI are driving demand for us.
+Customers are using these technologies to improve efficiency and speed up time-to-market.
+In Q2, we won a large deal with a global machinery company to establish a software center in India for their digital transformation.
+Sustainability is also driving growth as customers focus on measuring and tracking carbon footprint.
+Decision-making delays and stress in the customer set have slowed down our growth momentum.
+We are seeing growth in IP, driven by digital products and manufacturing.
+In Telecom & Hitech, we grew by 2% sequentially despite challenges in Semcon and Consumer Electronics portfolios.
+In Semiconductors, we are focusing on new age chip sets for AI and cloud computing, allowing us to continue growing.
+Our Palo Alto partnership is progressing well, and we are discussing OT and cybersecurity services with enterprise customers.
+We won a large deal leveraging SWC capabilities in the global market to establish a 5G center of excellence.
+In the Nex Gen Comms and Sustainable Smart World space, we won two large orders in India - one for a metro rail communication system and the other for a state-wide smart metering system.
+In Media, there are opportunities for large deals with vendor consolidation and cost optimization.
+Overall, we are optimistic about growth with our key pipeline and deals.
+In Medical, we improved sequentially and won two deals worth close to $20M.
+These deals involve developing a next-generation platform and helping with manufacturing optimization.
+Digital solutions and cybersecurity are in high demand in the Medical sector.
+Q3 will be a soft quarter due to seasonality, but we expect growth to bounce back in Q4.
+Highlights of our Digital Engineering and Technology progress are as follows:
+
+
+
+The engineers are continuing to innovate and have filed 53 patents in Q2. The company's cumulative filings are close to 1,200 now, up from 1,000 a year ago. This is the 10th consecutive quarter that they have filed 50 patents. The company has been rated as a top service provider in Electric, Autonomous, and Connected domains. They have also been rated as a leader in digital factory and manufacturing solutions. The company is investing in software defined vehicles, AI, and cybersecurity and plans to train 2,000 employees. The deal pipeline is promising, but there is uncertainty due to recent events. As a result, the revenue growth guidance for FY24 has been revised to 17.5% to 18.5%. Despite this, the company had a good quarter and is confident in its investments. The Q2 financials show a growth of 3.7% in revenue and a 4.6% YoY growth. The EBIT margin is 17.1% and in line with the company's goals. Other Income was lower due to decreased investment income. The Effective Tax Rate for Q2 was 27.6%.
+
+Net income for the quarter was 5% YoY at INR315 crores, 13.2% of revenue. DSO was 102 days, Unbilled days was 16 in Q2. Combined DSO stood at 118 days. YTD Free Cash Flows were ₹430 crores, 69% of net income. Cash and Investments at ₹2,270 crores. Revenue growth was 3.2% in constant currency. Segmental margin improved in 3 out of 5 segments. Offshore percentage stands at 59.6%. T&M revenue mix was 64.2%. Client profile and contribution to revenue improved. Headcount increased while attrition dropped. Rupee depreciated by 1% against the dollar. EBIT margin trajectory remains focused on profitable growth. Aspiration to reach 17% EBIT levels in FY24 and 18% by H1 FY26. Thank you, and now we will take questions.
+
+Vibhor Singhal congratulates the company on its broad-based growth and asks about the discrepancy in revenue and the impact on future quarters. Amit Chadha explains that although the number of deals in the pipeline has increased, deal velocity has slowed and average deal size has become longer. However, they have signed several large deals in the current quarter. The company has been cautious in their guidance due to external factors such as the UAW strikes and uncertainty in the global situation. They have considered these factors in revising their guidance and will provide updates in January. Despite these challenges, the company remains optimistic and continues to invest and hire.
+
+Amit Chadha expressed optimism in the industry and thanked Amit for his positive words. The first question was about the Telecom segment and whether the mix of clients will change. Amit Chadha explained that the mix has already changed in favor of Telecom service providers due to the SWC acquisition. He also mentioned that the company's expertise has improved, allowing for more mature conversations with Telecom Infra OEMs and Operators. The company closed a $10M+ deal with a US customer, as well as a cyber deal of the same value with an international customer. The work won in India includes in-house software development and collaborations with Semcon and Telecom Infra companies. The company now has end-to-end project ownership and has expanded its sales team in the Middle East. The future looks promising according to the plan.
+
+Akshay Ramnani asked about SWC seasonality and mentioned that SWC had strong sequential growth in Q2. He also wanted clarification on the seasonality of SWC and how it was performing in the current quarter. Amit Chadha explained that their goal was to take the SWC business internationally and reduce seasonality and cyclicality. They are actively working on deals for their Nex Gen Comms business and will provide updates. There are also two packaged solutions and they won their first order for the license. Akshay's question on SWC seasonality remained unanswered, and Amit said they will see how Q3 and Q4 perform.
+
+Akshay asked about headcount additions and mentioned that the addition of less than 500 people in the last quarter was lower than expected. He asked if this was due to deteriorating demand and if our utilization levels were closer to peak levels. Amit responded by explaining that attrition levels have stabilized, allowing us to leverage the bench better and have a smaller bench. The number of additions could be attributed to some people joining in October instead of September. Amit emphasized the company's focus on sustainable growth and mentioned ongoing efforts in training and reskilling. He also mentioned that they had hired around 2,000 freshers last year and will be honoring the remaining offers in the next two quarters. The company is discussing college campus hiring for next year as well. Sulabh asked about the split of the revised guidance apart from SWC, which Amit explained as an integrated business approach with a focus on an 17.5% to 18.5% growth rate, favoring the upper end of the spectrum.
+
+Sulabh asked why SG&A expenses have declined even though there are more sales employees. Rajeev explained that the decline is planned and comes from the synergies of the SWC acquisition, consolidation of facilities, and optimization of costs like travel and welfare. The lower stock option cost and adjustments to variable pay provision also contributed to the decline. Rajeev believes they can sustain the levels at 9.5% to 10% and sees opportunities to improve gross margin through employee utilization, optimizing subcontracting and travel costs, and offshoring. They aim for a 17% EBIT for FY24. Sulabh asked if the full-year guidance and 18% expectation in 1H FY26 are conservative due to wage hikes being absorbed in this quarter.
+
+Rajeev Gupta mentioned that revenue needs to be carefully evaluated. Q3 is a challenging quarter. Cost optimization and technology investment are priorities. Karan Uppal asked about decision cycles and achieving the guidance. Amit Chadha confirmed higher internal targets and mentioned caution in decision-making. More data is being requested by clients. Efforts are being made to increase the pipeline. Alind Saxena added that there is sufficient pipeline and provisions for backups.
+
+In the Q2 FY24 earnings call, there have been some delays in decisions, but the company is confident they can close them in time. They expect the momentum to continue and remain stable in the next few months and weeks. On the SDV-related area, the company is engaging in partnerships with silicon majors and training their people on the latest chips. They are also pursuing contracts for semiconductor design for SDV and working closely with OEMs and Tier 1s. They have developed tools and components leveraging Gen AI for the OEMs and Tier 1s. There are deals in progress and a ramp-up happening across the US, Europe, and Japan. In terms of softness, there may be some in the semiconductor area, but the company believes it will improve in Q4.
+
+The UAW strike has put some projects on hold, uncertain if they will be completed this quarter or next. Deals in progress could benefit us in the current and next quarter. Ravi asks about concerns for EV transition, but we have offerings beyond just auto and are investing in SDV, AI, cybersecurity, next-gen compute, and next-gen comms. We cross leverage skills from different areas and remain engaged across all verticals. Our pipeline is growing, and we have a specific program to ramp up the SDV pipeline.
+
+Bhavik Mehta asked Amit Chadha about decision-making delays and if they affect deal closures or project ramp-up. Bhavik also asked about the growth in Europe and India and the softness in the US, specifically which verticals face headwinds. Amit explained that the deal tenure has increased, causing longer ramp-up periods. He also mentioned that there is some hesitation and wait-and-watch approach from clients. However, Amit clarified that there is still vendor consolidation and growth in new age areas. Europe, Japan, and India have shown significant growth, particularly in transportation and digital manufacturing. Japan is also expanding in automotive, hitech, and industrial products.
+
+In the Q2 FY24 Earnings Call on October 17, 2023, there were headwinds in the U.S. semiconductor and ISV space, which impacted the company's performance. The UAW strike reduced their earnings by $700-800K this quarter. However, they have expanded their sales engine and started ideation processes. The status of furloughs in the December quarter is uncertain. The company is cautious about their guidance due to current uncertainties. The company is confident in achieving growth but acknowledges the need to sell and deliver deals in their pipeline.
+
+Deals in Europe, India, and the Middle East are being worked on. There was a mistake in interpreting the growth rate. Some concerns about the consumer electronics sector, but expecting improvements in the future. Certain projects and tools developed will help gain market share. Some slowdown in recent trends, but furloughs are expected to be better than last year.
+
+They don't expect a Christmas quarter. The cues from different customers are different. They provide guidance by considering various items. They don't have a crystal ball. They want to build credibility with the management team. Pinku Pappan thanks everyone for joining and invites follow-up questions. The conference concludes.

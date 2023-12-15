@@ -1,0 +1,74 @@
+This is a letter from L&T Technology Services Limited providing the transcript of their earnings conference call for the quarter ended June 30, 2023. The call was held on July 18, 2023. The company's management team includes CEO & MD Amit Chadha, COO & Executive Director Abhishek Sinha, President Sales & Executive Director Alind Saxena, CFO Rajeev Gupta, and Head of Investor Relations Pinku Pappan. The call lasts for 60 minutes, with management remarks wrapping up in 20 minutes before opening up for Q&A. The audio recording of the call will be available on their website.
+
+Amit Chadha thanked everyone for joining the call. Despite challenges, there was growth in Q1. Overall growth was 10% YoY. Revenue grew by 0.6% sequentially, with Transportation leading at 4%. EBIT margin was at 17.2%, PAT was up 13% YoY. They signed 6 deals above $10M, including a $50M deal. They filed 55 patents and were rated as a Great Place to Work. Attrition is down to 18.9%. In Transportation, there was 4% QoQ growth. Demand is strong, especially in EV and Connected Cars. They won a $10M+ deal and are investing in capabilities for software-defined vehicles. In Plant Engineering, Q1 was impacted by delays. However, a bounce back is expected in the next quarter.
+
+FMCG customers are expanding capacity and winning a $15M deal for engineering design services. They will also set up a local office in Europe. The company expects good growth in Q2 and beyond. In the Industrial Products segment, there was slight growth in the Machinery and Electrical segment but delays in Building Technologies and Power segments. Digital adoption is increasing, leading to opportunities in AI, private 5G, and cybersecurity. The Telecom & Hitech segment had a marginal decline organically but a $50M deal with a Hitech customer for digital video platforms. More opportunities are expected in the Media sub-segment. There is weakness in the Semiconductor side, but the company is winning deals in key areas. They are also partnering with chip companies for growth.
+
+We are seeing opportunities as ER&D companies move manufacturing to India.
+We won a $10M deal in Q1 to provide Wireless and Product engineering to a global technology giant.
+We have integrated SWC into the Telecom & Hitech organization.
+We have activated two channels for SWC, including partnerships with telecom service providers and equipment manufacturers.
+We are working on partnerships with key players like Palo Alto Networks and Bharat Sanchar Nigam Limited.
+We are working with Qualcomm to offer next-generation connectivity solutions.
+In Medical, there is strong demand for Digital.
+We signed a $15M deal to develop a Digital Surgery Platform.
+We are building reusable solutions for Complaints management and QARA.
+We are confident in our growth momentum as large deals close.
+We have a customer advisory council in Washington DC with CXOs and board members of 16 of our customers.
+
+- Organizations are advising us on our direction and investments to improve our offerings and customer relationships.
+- We won a large deal in the quarter, showing that our customers are investing in transformation technologies.
+- We are increasing our investments in AI, SDV, and Cybersecurity.
+- We have partnered with Palo Alto Networks for cybersecurity and are focusing on Auto, Manufacturing, and Medical segments for AI.
+- Despite delays in decisions and deal closures, we grew in Q1 and expect growth momentum in the coming quarters.
+- Our FY24 revenue growth guidance is 20% plus in constant currency.
+- We aim for a $1.5 billion run rate in FY25.
+- Q1 FY24 performance has been good with healthy deal additions and strong operations.
+- We have included SWC in our financials since April 1, 2022.
+- Q1 revenue grew 0.6% sequentially and 12.6% YoY organically.
+- On a combined basis, Q1 revenue was ₹2,301 crores with a YoY growth of 14.7%.
+- Q1 FY24 combined EBIT margin was 17.2%.
+- Margins slightly decreased organically due to investments for large deals and the lower margin profile of SWC business.
+- Other income was ₹35 crores, slightly lower due to lower investment income.
+- Effective tax rate for Q1 was 27.6%.
+- Q1 net income was ₹311 crores, up 13% YoY and 13.5% of revenue.
+
+During the Q1 FY24 earnings call, the following key points were highlighted:
+
+- The DSO for the organic business increased from 90 days in Q4 FY23 to 92 days in Q1 FY24. The DSO for SWC at the time of acquisition was over 400 days, but it has since improved.
+- The combined DSO for Q1 FY24 was 117 days, within the expected range of 115-125 days for FY24. Efforts will continue to improve on combined DSO.
+- Shareholder funds decreased from ₹4,951 crores in Q4 FY23 to ₹4,817 crores in Q1 FY24 due to an accounting adjustment.
+- Free Cash Flow was ₹228 crores, representing 73% of Net Income, reflecting operational improvements in DSO.
+- Cash and investments increased to ₹2,394 crores by the end of Q1 FY24, even after the payment of ₹800 crores for the SWC acquisition.
+- $ revenue increased by 9.1% in reported terms and 10.0% in constant currency terms on a YoY basis. Organically, $ revenue saw a 0.6% sequential growth, driven by the Transportation segment.
+- Segmental margins were better in 2 out of 5 segments on a sequential basis. Telecom & Hitech margins decreased to 8.8% in Q1 compared to 12% in Q4 FY23 due to the lower margin profile of SWC business and investment in a large deal win.
+- Offshore percentage increased to 59.3% compared to around 57% in Q4 FY23 due to the SWC business being completely offshore based. Fixed price percentage increased to 35.6% compared to around 29% in Q4 FY23 due to the majority of SWC business being executed on a fixed price model.
+- The number of million dollar plus accounts showed sequential improvement in various categories. SWC added large customers including one $30M+ account and three additional $10M+ accounts.
+- Top 5, Top 10, and Top 20 client contributions to revenue slightly increased compared to Q4.
+- Headcount increased to 23,392 at the end of Q1 compared to 22,233 at the end of Q4 FY23, including around 800 employees from the SWC acquisition.
+- Attrition rate decreased to 19% due to efforts on employee engagement and is expected to continue trending downwards.
+- The realized rupee for Q1 was at 82.2 to the US dollar, flat compared to Q4 FY23.
+- The company aims for a 17% EBIT level in FY24 and an 18% EBIT level by H1 FY26, focusing on profitable growth and operational rigor.
+- The company plans to offset wage hike headwinds in Q2 FY24 through a combination of growth and operational efficiencies.
+
+Mukul Garg from Motilal Oswal Financial Services asked Amit Chadha about the confidence in delivering a 10% organic growth in FY24 despite delays and push-outs in the first quarter. Amit Chadha explained that some deals were delayed but eventually signed, and the Plant Engineering business was delayed due to customer input. There is uncertainty with Semcon, but the pipeline is stronger, and 6 deals are being executed. Amit Chadha is confident in meeting the guidance, especially with better business expected in H2. They have been working on speeding up decision-making and expect to close deals faster. Headcount will increase by 750 people in Q2.
+
+The company is working on updates and held a client advisory council. They had good conversations and are comfortable. Rajeev explains that the other expenses in the SWC business will not change much. They are confident that the volatility in the Plant Engineering business will not recur in the coming quarters. They have a backlog of orders and are winning new deals. They are adding resources and establishing outposts in the US and Europe. They are comfortable with the situation.
+
+In this quarter, subcontracting costs and legal costs are lower. The SWC business is not related to these expenses. The SWC business is seasonal, with better performance in the second half of the year. In terms of business mix, the second half accounts for 60% and the first half accounts for 40%. The dip from Q4 to Q1 is a common feature of this business. Comparing Q1 of this year to Q1 of last year, the performance has improved. There is an opportunity for us to participate in the trend of global companies setting up GCCs in India. We can partner with them or see them as potential competition. The number of STEM graduates in India is high, providing a talent pool for GCCs.
+
+During the Q1 FY24 earnings call on July 18, 2023, it was mentioned that a significant portion of business previously given to China has been diverted to India, resulting in the growth of the Indian market. In the past, there was competition between different companies, but now the industry has learned to coexist. Discussions in customer premises are often focused on different employee badges, with blue or green badges representing their own employees and red badges representing external people like us. Companies are willing to outsource non-core tasks to us. Global Capability Centers (GCCs) have expertise in specific areas, but struggle to provide cross-vertical domain expertise. The world is shifting towards fixed price, consolidated work models, which benefits us as customers entrust us to handle projects without worrying about attrition. The presence of GCCs in India is welcomed as it adds to the overall ER&D business ecosystem. Comparatively, the cost structure of GCCs is higher as they work on a cost center model, while we work on a profit center model. GCCs offer limited career growth and job enrichment opportunities due to their focused expertise, while we can provide a comprehensive package that includes career growth, job enrichment, job rotation, and customer interactions. Although we may not pay less, our overall offering to engineers is more attractive than what GCCs can provide. Together, we are creating an ecosystem that benefits India and sourcing from India.
+
+Ravi Menon asks about growth in North America. Rajeev Gupta explains that the growth is relative and due to changes in financials. Ravi Menon asks about the semiconductor industry and the duration of the pain. Amit Chadha explains the shift towards data center and AI chips, unsure of the duration of the shift. Alind Saxena adds that the trajectory in the market is driven by AI and data center requirements, expecting growth in a quarter's time. Ravi Menon asks if the downturns in the semiconductor industry are being used to enhance capabilities.
+
+Amit Chadha believes the company has capability across different areas and has executed projects on a 7nm chip. They are working with a global ecosystem. Sandeep Shah asks about growth guidance, Amit Chadha confirms 20%+ constant currency growth and more than 10% organic growth. Bhavik Mehta asks about growth within the portfolio, Amit Chadha mentions strong growth in Transportation and Industrial Products due to investments in EV, SDV, digital, software platforms, and AI. Growth is also expected in the Plant sector.
+
+The US outpost has been staffed and will grow confidently. There is concern about Hitech, Semcon, and Consumer Electronics. Medical shows good traction but it is uncertain how much they will do in the same quarter. Investments are being made in AI and SDV for growth. SWC acquisition fits into the SDV space, especially in cybersecurity. There are already SDV programs for European customers. AI will focus on Manufacturing, Automotive, and Medical with domain expertise. Internal trainings and partnerships are being invested in for both areas. More information will be provided in the future.
+
+Rohan Nagpal asked about the $10M reduction in the India business, wondering if it was due to SWC seasonality. Amit Chadha confirmed that it was largely due to SWC. Rohan Nagpal then asked about the timeline of deals and the current pipeline. Amit Chadha explained that the $50M deal took about 4 months to sign and has already moved to execution. The other 5 deals, worth $10M+, went into execution in the last week of June and are ramping up. Amit Chadha mentioned that they have improved their funnel and increased the number of deals they are chasing by hiring more salespeople. He emphasized that once deals are signed, the ramp up is immediate and they have invested in hiring and holding resources for some deals. They have more deals in progress and will provide updates.
+
+Mihir asked about internal KPIs and progress, deal pipeline improvements, and the external environment. Rajeev explained that the SWC acquisition has led to international growth, improved EBIT margins, and reduced DSO. Amit discussed the diversified portfolio and confidence in different segments. The challenge lies in closing larger deals.
+
+The company is confident in their investments in EV, digital manufacturing, and VLSI capabilities. Deals are now taking 4 signatures instead of 2, causing delays. There are some challenges in Semcon and Consumer Electronics, but they are being agile and looking at areas like SDV and AI. They aim to improve ROE over the next 5-6 quarters. The conference call concludes with closing remarks and thanks.
+
+The transcript has been edited. It is on page 20.

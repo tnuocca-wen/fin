@@ -1,0 +1,155 @@
+Let me start with the key highlights on our Q3 performance: • Our deal wins were strong this quarter with 5 deals greater than $10M in TCV and a significant empanelment from Airbus for which we have also issued a press release today • From a revenue standpoint, sequential growth was muted this quarter due to seasonality and higher than expected impact from furloughs, especially in Plant Engineering.
+• Inspite of this, we have improved EBIT to 18.7% and crossed the ₹ 300 Cr milestone in Net margins per quarter.
+• From a Technology standpoint, we surpassed the 1,000 Patents filing mark as an acknowledgment of the Tech Prowess of LTTS.
+Starting with Transportation, • We had a good performance with 4.4% QoQ growth that was broad-based across the sub-segments - Auto, Trucks & Off-Highway (T&OH) and Aero.
+We are also seeing increased demand for cybersecurity as part of the software development platform work that we do.
+• For Trucks & Off-Highway, similar trends of electrification and platform development continue to provide us good opportunities.
+• In Aero, driven by the rise in air travel, we are seeing demand for avionics.
+I want to highlight our selection by Airbus as a strategic engineering partner – This empanelment is significant recognition of our Digital engineering capabilities and Aerospace domain knowledge.
+The growth in Transportation will continue into FY24.
+We see growth coming back from Q4 onwards.
+We see a strong deal pipeline in both US, Europe and Middle East that will help drive growth for us in Q4 and beyond.
+At Industrial Products, • We had a good growth in the quarter led by Electrical, Machinery and Power and Utilities.
+• For Q3, three of the 5 large deals that we won were in Industrial Products in the areas of digital twin and sustainability-driven product development, innovation and research.
+• We see good demand in Digital Manufacturing to support automation and Software platform development to improve equipment performance and reliability.
+Q3 FY23 Earnings Call January 19, 2023 • We have been talking about energy transition, including green energy initiatives using Hydrogen as a fuel, creating new opportunities for us.
+Overall, for Industrial Products, we see growth continuing to be driven by digital manufacturing and sustainability-led new product and process development.
+• We are seeing growth in 5G lab-as-a-service, network engineering and cybersecurity.
+With SWC, we now have an end-end capability that will give us an edge in the market.
+• As customers look to squeeze efficiency, we are also seeing Cost takeout deals in the pipeline.
+These could give us an opportunity to consolidate and provide greater value to our customers.
+Overall, we expect the pace in Telecom and Hitech to gradually pick up as the environment improves.
+Lastly, in Medical, • We had a soft quarter which has had more to do with customers shifting their spend to 2023.
+• In Q3, we won a large deal from a global OEM to assist in engineering solutions for their medical devices on annuity basis.
+We see growth in Medical in Q4 picking back up based on our wins and good pipeline.
+• On the innovation front, our engineers continue to innovate and have filed 25 patents for us and 30+ for our customers in Q3.
+• We have been able to maintain this pace of about 25 + 25 patents per quarter for 7 quarters now.
+• We are also proud that we've crossed 1,000 patent filing mark.
+However, we are optimistic about growth coming back in Q4 on account of o The 5 deal wins and the significant empanelment with Airbus that we won o A growth bounce back at Plant Engineering in Q4 with the furloughs behind us.
+• We are now looking at FY23 USD revenue growth to be around 15% organic, on constant currency, using Q4 FY22 currency rates as baseline.
+• Finally, as we start the new year, we are having conversations and deal discussions have picked up pace over the last few weeks.
+Therefore, Q4 will see us adding at least 500 net headcount in order to get ready for FY24 as well as service Q4.
+Good evening to all of you and hope you're doing well.
+Overall, our Q3 FY23 performance showed another quarter of double-digit revenue growth on a year-on-year basis, good operational execution resulting in improvement of EBIT margin and crossing a new milestone of ₹ 300 Cr in Net profit.
+Our revenue for the quarter was ₹ 2,049 crores, a growth of 2.7% on a sequential basis.
+Our double-digit YoY growth trajectory continues with Q3 revenue up 21.4% on a YoY basis.
+EBIT margin at 18.7% increased by 60 bps compared to Q2 FY23.
+During the quarter, we had benefits from improved employee productivity, better offshore mix and exchange gains, offset by a slight increase in SG&A%.
+Moving to below EBIT Other income came at ₹ 62 crores, higher on a sequential basis due to higher foreign exchange gains compared to previous quarter.
+Effective Tax Rate for Q3 was 31.5%, higher due to conclusion of certain past year assessments, we expect this to stabilize in the 27% range going forward.
+Net income touched a new milestone of ₹ 304 Cr at 14.8% of revenue and up 8% on a sequential basis, driven primarily by operating margin improvement.
+DSO improved to 77 days at the end of Q3 compared to 78 days in Q2.
+The combined DSO including Unbilled improved to 94 days compared to 96 days in Q2, and in our target range of less than 95 days.
+Our cash and investments rose to ₹ 2,652 crores by end of Q3 FY23.
+Moving to Revenue metrics: On a sequential basis, $ revenue was flat on a constant currency basis and up 0.4% in reported terms, mainly led by Transportation and Industrial Products segments.
+The segmental margin performance was better in all the 5 segments on a sequential basis led by Plant Engineering and Medical Devices.
+Now let me comment on operational metrics: The Onsite:Offshore mix has shifted towards offshore and is at 57%.
+Our aspiration is to improve this ratio to 60% level in the medium term.
+Client profile – which indicates the number of Million dollar plus accounts – has shown a sequential improvement in the $10M+, $5M+ & $1M+ categories.
+The client profile numbers have seen an improvement over the past few quarters, and this trend will continue in the coming quarters.
+Headcount improved sequentially by 175 employees, while Attrition moved down to 23.3% and is showing signs of softening.
+Q3 FY23 Earnings Call January 19, 2023 The SWC acquisition is a significant move, deliberative and thought about and thought through to add capabilities, solutions, technology and most importantly, pre-qualifications that help us getting qualified for large deals in the Communications segment Post our call on the 12th, where we shared initial details and rationale of our acquisition.
+The queries were in three broad areas: 1) How are we going to achieve the turnaround of shifting the business to services?
+On Communications, which is a space in which LTTS has a solid presence – with a customer base of 6 of TOP 10 Telecom Infra OEMs and 4 of top 10 Telecom Operators in North America and Europe.
+We are going to leverage this customer base and our global sales engine and reach to sell these capabilities.
+The competition is also fragmented here and the spending is also increasing.
+SWC now fills the critical gap of SOC, NOC and a greater and stronger 5G capability.
+In addition, we will leverage our partnerships with Qualcomm, Nvidia and Mavenir as well as our other hyperscaler relationships to penetrate the market faster.
+We will also work with our Indian customers and offer a more service led model around Core and RAN capability with the expertise that SWC and LTTS together possess.
+Both portfolios will grow going forward.
+The heritage LTTS portfolio will see accelerated growth as we offer SWC capabilities, while the SWC portfolio will keep growing at a slightly less pace as we change positioning to more services, for which the current pipeline and client relationships gives us a lot of confidence.
+The joint power of solutioning 5G use cases across a broad spectrum and technical assets like the gEDGE data center, 5G lab-as-a-service gives us the confidence that the combined portfolio will be transformed to be largely Service-led.
+We have consulted experts who have validated that there is a sizable spending due to COP27 commitments from governments in US, Canada and Europe.
+We also spoke to our Top 100 clients who have expressed interest in our joint capability that they would like to leverage in their plants, to improve their sustainability and digitization quotient.
+SWC's Fusion platform, coupled with our i-BEMS and UbiqWeise platforms along with their software foundry in Hyderabad will help us accelerate solutions that can be commercialized for customers.
+We expect an accelerated growth for the combined portfolio as we target our enterprise customers and new markets that are ready for such solutions at scale and transform from a master system integrator to a master software solutions player in this space.
+We are looking at almost tripling our combined revenues of $10M currently, over the next 2 years.
+Our global reach, existing strong relationships with Telecom Operators and Telecom Infra OEMs gives us confidence of growth.
+3) Both SWC and LTTS portfolios will grow year after year, and together, we will grow the combined portfolio at a pace faster than company growth.
+4) Another added synergy benefit that we will be able to leverage is a 360-degree partnership that will help us expand our relationship with Industrial Products customers or discrete manufacturing customers as they are vendors to our Sustainable Spaces business.
+5) Finally, I would like to confirm that we have the leadership bandwidth to take up this integration and are excited to take this opportunity forward.
+• With the transformational levers that Amit has earlier discussed in respect to SWC acquisition, we aspire to get back to 18% EBIT margin by H1 FY26.
+If I look at what happened in 3Q, was it just a function of furloughs or whether also cases where, let's say, a lot of the deals you had won over the last eight to nine months did not ramp up as per your expectations?
+And secondly, to Rajeev on 3Q performance on margins despite flat growth.
+But the good news is that they've since come back and they confirmed at the time when they were slowing it down that it will come back up on January 2nd onwards as 1st is holiday.
+And it did ramp back up from January 2nd, the team started again.
+We are happy to share that the $10M+ deals that we have had.
+In fact, we have done well on utilization last quarter.
+What we've done is that we've again given you a number, quantified the least possible increase in headcount.
+We're fairly comfortable at this stage.
+One, if you look at across all the five segments, we are certainly showing improvement in terms of EBITDA.
+I think the operating model that we've been talking about in the past, including the economies of scale has played out quite well for us.
+We remain fairly comfortable that we should be able to hold for LTTS, the margin improvement that has come about.
+But to sum it all, the operating model, the economics of scale have played out well for us.
+That gives us the confidence in terms of maintaining the margin going forward.
+When I look at a company based in Delhi, a company, which has a business mix and portfolio similar to yours, they seem to be doing better on the far larger scale on growth.
+I would, in fact, say that if I look at our market share and our size that we have got going on, I think we are expanding with our clients.
+And you've seen a number of clients growing in the $1M bracket, the $5M bracket, the $10M, the $20M as well as the $30M.
+And I can confirm to you that market share has expanded rather than declining.
+I do believe that we stand in a position now, having crossed $1B revenue in constant currency and with now with Smart World, I do believe that we are head-to-head with a lot of people that are there and our aspirations to get to $1.5B, as confirmed by Rajeev FY25, remain.
+In fact, we've seen the growth in that as well in spite of a, shall I say, smaller quarter seasonally.
+Industrial Products is spending in specific areas of digital manufacturing as well as digitization of their products and that continues to happen, we don't see any slowdown.
+You've seen that in the growth as well as our commentary for Q4.
+But given the QARA pressures that they are under and notices they're receiving from various agencies and their need to check that, etc, as well as digitalization, we are seeing spend and you will start seeing that growth, right?
+But we believe that the growth in Telecom and M&E should be able to overcome that.
+We are actively hiring, ramping up in Baroda and Chennai as well as in the US and Europe for this particular segment.
+So, I'm still cautiously optimistic about CY23.
+Amit, you mentioned, I mean, we saw a very strong growth in the Transport division in this quarter.
+So just wanted to basically understand the traction that we are seeing in the Aerospace division.
+We've seen travel rebound significantly across the globe.
+Q3 FY23 Earnings Call January 19, 2023 And is it that kind of leading to more traction in this division?
+And do you think it can sustain going forward in the next year, I mean, as an industry, do you think there could be more similar kind of deals either for us or for the industry as a whole in this segment over the coming quarters, given that most of the Airlines’ profitability and other values are basically now into the green again, and they might start spending again on both the fronts.
+And I'm happy that after years, we got empaneled first as a provider and then got selected.
+In fact, he was in our Board meeting today, and he said one thing – “you delivered very nicely done.” It has been a dream, right?
+So that's good news, number one & this is not just for us, but everybody.
+So you will see spend in Aero growing as you move forward, right?
+So a lot of positivity in that sector that I believe gives a lot of breather to a lot of people.
+But from thereafter, it is going to be a progressive improvement, looking at both revenue synergies and cost synergies.
+What we believe is quarter-on-quarter, you will see that progressive improvement coming through, which is where our aspiration is to come back in terms of 18% EBIT in H1 of FY26.
+Ravi Menon: So within Transportation, would you say that Automotive is the fastest-growing this year, followed primarily by Off-highway with Aerospace a little further behind.
+Ravi Menon: I was saying within Transportation over this year, would you say that Automotive was the fastest growing and maybe followed by Off-highway and Aerospace further behind?
+Amit Chadha: Number one, Transportation did grow, right?
+Companies, however, have to remain profitable to be able to spend.
+B) T&OH - Construction of highway is seeing added autonomous as well as electrification and connected spend coming in.
+And we believe that we are well positioned in that area because we are more electrical embedded driven than mechanical driven in this area.
+So overall, do I see the growth?
+I absolutely see good growth coming in this area, continuing in CY23 Ravi Menon: And a follow-up on the Telecom & Hitech.
+Or do you think that more shifts offshore will actually compensate for that or maybe even provide some growth?
+So I do believe that, that part will continue to grow.
+So overall, I do think that the Hitech recovery may start in the second quarter calendar year and then go up from there.
+That's how I broadly see it -- for us specifically, though my commentaries hold that I do see our Q4 Telecom & Hitech being better.
+One is on the Auto vertical, particularly, which has been doing well for us as well as industry as a whole.
+There were earlier wins that have ramped up in Auto as well.
+There are some exciting deals in progress in Auto as well.
+But I would not worry about Automotive -- all I would say is that we continue to grow in this area, expand, hire, etc.
+Though $10M+ grew one sequentially and $5M grew one sequentially.
+And of course, $1M grew by 8.
+As we move forward, our focus on account mining scale continues to be laser sharp so that we can expand.
+Mihir Manohar: Largely, I wanted to understand on the North American geography side, I mean, North America hasn't grown for this particular quarter.
+So any signs of demand moderation across this particular geography?
+So just wanted to understand, given the fact that our penetration and our capabilities are improving on the Aero side.
+And my third question was on the guidance that we have given the 15% constant currency guidance that we have given, and it implies 4.5% to 5% kind of a growth for balance part of the year.
+So, I mean what is bringing us that confidence that given a muted growth this quarter, we are still hopeful about having 4.5% to 5% growth for the balance part of the year?
+Number one, you can see that North America, actually, there was a 0.7% de-growth it shows here because of this revenue, the way we count currency, but India shows 6.4%.
+So, I would like to confirm to you that Europe, North America - both of these and ROW have grown, the India growth that you see, you should actually count it towards the 3 Geos because for India, we do very little, maybe some $1M/$2M per quarter to that extent, $3M.
+They've in fact given us a ramp-up plan, etcetera.
+But I'm fairly confident that it will ramp up.
+Third, Aero do we see growth?
+Lastly, guidance, 15% constant currency amounts to more than 3% growth as far as we are concerned.
+So see, we were at about a 4% growth rate in last year, and we had done that whatever, 19% to 20% that we grew last year.
+If you look at of course can't share number, but if you look at our growth, of Airbus in the last couple of quarters, it has been actually one of the fastest-growing accounts for us.
+Our relationship with Airbus is at a very advanced very strategically placed.
+But I think we are in a good space and this partnership that Amit spoke of that we won the empanelment.
+I think that augurs well for us in the digital manufacturing space, especially.
+So, in your opening remarks, you mentioned that we see offshore revenue mix going up to 60%.
+And we know that, that's a big lever from a margin perspective.
+One of the things we have done well this quarter and hope to continue to in the coming quarters is a very high degree of focus on fresher utilization.
+Not only do we make sure that they are ready to get into billable projects that helps in margins, but more importantly, that also help in pulling more work offshore.
+So would it be fair to say that our utilization, which came back to about 75% would have now normalized to the comfort range of 78% to 80%.
+So, number one, we did -- so number one was, yes, Q2 and Q3 saw us improving utilization, rationalizing pyramid, etc.
+We've reached levels that we are comfortable with because we are a tech company.
+We are comfortable with the utilization that we see now.
+And therefore, you will see headcount increasing now sequentially as we move forward quarterly.
+I did mention it earlier that given we've done 18.7% EBIT in Q3 with all the operational levers and improvement in offshore and many of those things that we've talked about earlier, we do see a fair bit of comfort of sustaining this margin organically as we spoke.
+But like I have said earlier that progressively, we should be able to see both revenue synergies and cost synergies play out.
+How much do you think it trends down to before it starts recovering once the synergies kick in?

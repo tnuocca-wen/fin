@@ -1,0 +1,367 @@
+L&T Technology Services Limited A.M. Naik Tower,6th Floor, L&T Campus, Gate No.3, Jogeshwari-Vikhroli Link Road, Powai, Mumbai-400072.
+www.ltts.com July 25, 2023 National Stock Exchange of India Limited Exchange Plaza, Bandra-Kurla Complex Bandra (East), Mumbai — 400 051.
+NSE Symbol: LTTS BSE Limited Phiroze Jeejeebhoy Towers, Dalal Street, Mumbai- 400001 BSE script Code: 540115 Subject: Transcript of Earnings Conference Call for L&T Technology Services Limited (LTTS) for the quarter ended June 30, 2023 Dear Sir / Madam, Please find attached the transcript of Earnings Conference Call organized by the Company on July 18, 2023, for the quarter ended June 30, 2023, for your information and records.
+Thanking You, Yours sincerely, For L&T Technology Services Limited Prajakta Ashish Powle Digitally signed by Prajakta Ashish Powle Date: 2023.07.25 17:16:55 +05'30' Prajakta Powle Company Secretary & Compliance Officer (M. No.
+A 20135) Encl: As above Registered Office: L&T House, N. M. Marg, Ballard Estate, Mumbai - 400 001.
+INDIA Tel: +91 22 6752 5656 Fax: +91 2267525858 L&T Technology Services is a subsidiary of Larsen & Toubro Limited CIN: L72900MH2012PLC232169
+L&T Technology Services Q1 FY24 Earnings Conference Call Transcript For the Earnings Call held on July 18, 2023, 19:00hrs IST MANAGEMENT: MR. AMIT CHADHA – CEO & MD, MR. ABHISHEK SINHA – COO & EXECUTIVE DIRECTOR, MR. ALIND SAXENA – PRESIDENT SALES & EXECUTIVE DIRECTOR, MR. RAJEEV GUPTA – CFO, MR. PINKU PAPPAN – HEAD, INVESTOR RELATIONS
+Q1 FY24 Earnings Call July 18, 2023 Disclaimer: Certain statements in this release concerning our future growth prospects are forward-looking statements, which involve number of risks, and uncertainties that could cause our actual results to differ materially from those in such forward-looking statements.
+L&T Technology Services Limited (LTTS) does not undertake to update any forward-looking statement that may be made from time to time by us or on our behalf.
+Moderator: Ladies and gentlemen, good day, and welcome to L&T Technology Services Limited Q1 FY24 Earnings Conference Call.
+As a reminder, all participant lines will be in the listen-only mode and there will be an opportunity for you to ask questions after the presentation concludes.
+Should you need assistance during the conference call, please signal an operator by pressing ‘*’ then ‘0’ on your touchtone phone.
+Please note that this conference is being recorded.
+I now hand the conference over to Mr. Pinku Pappan, Head of Investor Relations.
+Thank you, and over to you, sir.
+Pinku Pappan: Hello everyone, and welcome to the Earnings Call of L&T Technology Services for the First Quarter of FY24.
+I'm Pinku, Head of Investor Relations.
+Our financial results, investor release and press release have been filed in the stock exchanges and are also available on our website, www.ltts.com.
+I hope you have had a chance to go through them.
+This call is for 60 minutes.
+We will try to wrap up the management remarks in 20 minutes and then open up for Q&A.
+The audio recording of this call will be available on our website approximately one hour after this call ends.
+With that, let me introduce the leadership team present on this call.
+We have Amit Chadha – CEO and MD; Abhishek – COO and Executive Director; Alind Saxena – President Sales and Executive Director; Rajeev Gupta – CFO.
+We will begin with Amit providing an overview of the company's performance and outlook, followed by Rajeev who will walk you through the financial performance.
+Let me now turn the call over to Amit.
+Amit Chadha: Thank you Pinku and thank you all for joining us today on the call.
+Trust all of you are doing well.
+Page 2 of 20
+• Our large deal engine continues to fire with a total of 6 deals above $10M, of which one is a $50M TCV deal that we signed this quarter.
+All deals have moved to execution.
+• On other dimensions, happy to share that we filed 55 patents for our customers and ourselves taking the cumulative count to 1,145 patents.
+Moving on to segmental performance and outlook.
+We are working on creating a digital architecture for a future state SDV that will require a centralized platform with high compute processing power, cybersecurity, and high-speed connectivity.
+We again filed 8 patents in Transportation in this quarter.
+My colleague, Abhishek, as required, will provide more details on SDV.
+Page 3 of 20
+Q1 FY24 Earnings Call July 18, 2023 • FMCG customers are undertaking capacity expansion as we move towards more localization.
+to meet their sustainability goals.
+This segment filed 20 Patents in this quarter and remains a flagship segment in Innovation.
+We will enhance their suite of Page 4 of 20
+On the SWC business, • We have fully integrated this into our Telecom & Hitech organization, with a dedicated sales team and leadership in place in the US, Canada, Europe, Singapore, and the Middle East.
+• The operational improvements will be discussed by Rajeev in his commentary.
+• The SWC business requires an ecosystem play.
+To this end, we are working out partnership with key players: o You would have seen the announcement of LTTS partnering with Palo Alto Networks to provide enterprises with Operations Technology (OT) and Page 5 of 20
+Q1 FY24 Earnings Call July 18, 2023 cyber security services.
+Teams have been formed on either side to take it forward.
+o Another one is a partner with Bharat Sanchar Nigam Limited (BSNL) to drive and enable global enterprises in their private 5G network deployments.
+o With Qualcomm in North America, LTTS is working together to offer 5G driven next-generation connectivity solutions.
+This leverages LTTS's chipto-cloud expertise.
+• We are building reusable solutions for various areas like Complaints management and QARA.
+Let me now discuss the outlook.
+Happy to share that we are the first customer advisory council in Washington DC, comprising of CXOs, board members of 16 of our customers with a collective market cap of $2T and a revenue of $400B.
+Page 6 of 20
+• I talked about our investment in SDV and our partnership with Palo Alto Networks for cybersecurity.
+• In AI, our focus will be on the Auto, Manufacturing and Medical segments, and we will partner with Hyper-scaler and Semiconductor companies with joint development or readily deployable solutions.
+• We also reconfirm our aspiration of $1.5 Bn run rate in FY25.
+Will stay around for questions.
+Thank you so much, and I now hand over to Rajeev.
+Rajeev Gupta: Thank you, Amit.
+Good evening to all of you, and I hope you're keeping safe and healthy.
+This is our first quarter of reporting financials after completion of the SWC acquisition.
+In compliance with Ind AS requirements applicable to common control transaction, we have restated our past financials to include SWC from 1st April 2022.
+As a result, all figures in the Investor release including the comparisons reflect this restatement.
+Let me take you through the Q1 FY24 financials.
+Through the commentary, I will elaborate on the restated combined financials that includes SWC in all the comparable quarters, as well as organic numbers excluding SWC.
+Page 7 of 20
+On the combined financials, Revenue for the quarter was ₹ 2,301 crores.
+A YoY comparison is more accurate indicator as Q1 FY23 numbers have also been restated to include SWC.
+Moving to EBIT Earlier in our Q4 commentary, we had indicated that we aspired for FY24 combined EBIT margin to be in the 17% range.
+Let me explain the evolution of margins from 18.7% that we reported in Q4 FY23 to the 17.2% in Q1 FY24.
+Effective tax rate for Q1 was 27.6%, in the same range as our expectation of 27.5%.
+Page 8 of 20
+Q1 FY24 Earnings Call July 18, 2023 Moving to Balance sheet, let me highlight the key line items.
+To begin with DSO.
+DSO for the organic business was 92 days versus 90 days that we have reported in Q4 FY23.
+As indicated in our previous commentary, SWC is a high working capital business and had DSO of over 400 days at the time of acquisition.
+On Shareholder funds.
+Shareholder funds was at ₹ 4,817 crores at the end of Q1 versus ₹4,951 crores that we have reported at the end of Q4 FY23.
+As per accounting standards applicable to the common control transaction, the excess of purchase consideration paid over the net assets acquired is shown as a reduction to shareholder funds.
+The reported value of ₹4,817 crores, therefore, reflects the adjustment of this impact.
+Now talking about cash flows.
+Our Free Cash Flow came in at ₹ 228 crores, which is a healthy 73% of Net Income.
+Page 9 of 20
+SWC business is largely executed on a fixed price model.
+Moving to Headcount Headcount stands at 23,392 at end of Q1 vs 22,233 then reported at end of Q4 FY23.
+This is as a result of our various efforts on employee engagement.
+Before I conclude, let me give some visibility on the EBIT margin trajectory going forward.
+This is as per plan to roll-out wage hikes committed to our employees.
+In the medium term, we aspire for 18% EBIT level by H1 FY26.
+With that, thank you to everyone.
+Operator, now we can take the questions please.
+Page 10 of 20
+Q1 FY24 Earnings Call July 18, 2023 Moderator: Thank you very much.
+The first question is from the line of Mukul Garg from Motilal Oswal Financial Services.
+Please go ahead.
+Mukul Garg: Amit, just one question from my side.
+And I think – sorry about this being a recurring topic.
+What really are you seeing in terms of client visibility that such issues might not recur anytime over the next 3 quarters?
+Amit Chadha: Thank you, Mukul.
+So, a couple of things here, and I'll answer it broadly.
+So, we look at growth, right?
+Number one, some of the deals did get delayed in terms of decisions.
+We were expecting them to be signed end of April, early May, but they got signed towards the end of June, right?
+Second, if I look at Plant Engineering, it was not a deal problem.
+It was more a – getting inputs from customer on time problem.
+So, that book of business still is with us and therefore can be accelerated, executed.
+So, I don't have a problem there.
+I have an issue in Semcon, which I don't know if it will be a 1 quarter pain or is it a 1.5 quarter pain, right?
+So that's the only blip that I see.
+So overall, that 20% plus holds that we are at this stage.
+Mukul Garg: Right.
+Sir, just a quick follow-up on that.
+Amit Chadha: Yes, Mukul.
+See, I'll tell you what we did.
+So, after I went back in April, we have spent time talking to the clients, working with them through their decision-making process.
+One, reality is where a deal would take 2 signatures, it now takes 4 signatures, right?
+That's the reality.
+So how do we get that done quickly – is the whole thing that we continue to work on.
+Page 11 of 20
+Q1 FY24 Earnings Call July 18, 2023 But we'll keep you updated, Mukul.
+I mean we've always been very transparent, very direct, and we thank you all for your confidence in us.
+So, we continue to work on this and come back to you.
+We, in fact, hosted a client advisory council first time ever in our history.
+So about 16 clients controlling a huge amount of revenue and market cap came together, spent some time with us.
+So, we've got some trends from them.
+We've got some information on – why don't you approve what you don't approve also.
+Moderator: Thank you.
+The next question is from the line of Sulabh Govila from Morgan Stanley.
+Please go ahead.
+Sulabh Govila: My first question is on SWC.
+So, on the numbers that is reported, which is 1Q FY23 and the 4Q FY23 I just wanted to understand that in this business, is there some variability involved in other expenses because they don't change much as a percentage of revenues?
+Rajeev Gupta: Sulabh, this is Rajeev here.
+I'll take that question.
+So, like I said, we've had to restate financials of the previous quarter to include SWC.
+So, what you see in terms of other expenses is more like-to-like.
+And hence, there is nothing in addition.
+This pretty much reflects what is the reality of that business.
+Sulabh Govila: Sure.
+Understood.
+Maybe I'll take that offline.
+My second question is with respect to Plant Engineering business.
+Amit Chadha: Sure.
+So, if I look back at our Plant Engineering and I'm scrolling through data as I look at it for you, right.
+And if I look at Q1 now, we've had a blip, and we are sharing with you that some of these decisions – design decisions from the customers were delayed and it was not a budget issue.
+And therefore, with the backlog that we have got, the new orders that we have signed, with the rigor that we have put in, I do believe that this will be in the past.
+In fact, now we are adding some resources that we can immediately, hands on deck, to make sure we're able to deliver.
+Rajeev Gupta: Sulabh, this is Rajeev again.
+You may have seen, of course, our SEBI financials and tried to compare the other expenses for any variability.
+To clarify, in this quarter, there are lower Page 12 of 20
+Again, I just wanted to add because it’s more like-to-like.
+I hope that clarifies your points on other expense.
+Moderator: Thank you.
+We have the next question from the line of Nitin Padmanabhan from Investec.
+Please go ahead.
+Nitin Padmanabhan: So, when you look at the SWC business on the numbers that we have reported, is the Q4 to Q1 dip the usual sort of seasonality in the business.
+And typically, if you could give some color in terms of typically what's the sort of the mix between first half and second half, how does it normally look?
+Amit Chadha: Rajeev, do you want to take that?
+Rajeev Gupta: Sure.
+So, Nitin, to your point, yes, this business is seasonal in nature.
+In terms of mix of business, you will see H2 to be at 60% vs H1 at 40%.
+Nitin Padmanabhan: Sure.
+And the variability from Q4 to Q1 that we have seen this time, is there a common feature of this business?
+Or do you think as we – you spoke about, I think, one $30M and three $10M deals, as these deals keep adding up, that should sort of come off?
+How should we think about it at least as we go over the next 12 to 24 months?
+Rajeev Gupta: 2 points here.
+That's one.
+I hope that clarifies your point, Nitin.
+Moderator: Thank you.
+The next question is from the line of Vimal Gohil from Alchemy Capital Management.
+Please go ahead.
+Vimal Gohil: My question on SWC has been answered.
+Second question is on the industry per se.
+We have seen a lot of influx or a lot of news on lot of global companies setting up GCCs in India.
+How do we participate in this particular trend?
+Do we partner with them in this entire process of setting up their centers?
+Or do we look at these GCCs as our potential competition?
+Amit Chadha: Sure.
+Vimal, thank you.
+So, I'm part of the – I just joined the NASSCOM Executive Council and the only ER&D company member on the council other than gentleman who's been co-opted from the ER&D council.
+So here, GCCs are an opportunity.
+It's more than 2 million people coming out per year in STEM, right?
+All the business that was potentially going up to Ukraine or going up to Russia or going up to other parts of Eastern Europe has started getting Page 13 of 20
+Q1 FY24 Earnings Call July 18, 2023 diverted to India.
+A significant part of what was being given to China has been given to India.
+Second, if you would have talked to me 15 years ago, I would have said they are all competition.
+But I've learned, the industry has learned, everybody has learned to co-exist.
+In our customer premises, often there are discussions that happen about green badge and red badge or blue badge and red badge.
+Blue badge or green badge is their own employees, while red badges are people like us.
+They continue to look at – what is core, they will keep; whatever that could be contextual or that was core yesterday could be given to us today.
+Additionally, GCCs focused on only their area of focus.
+So, an Automotive GCC will focus on Automotive.
+Telecom will focus on Telecom.
+But if they need cross-vertical domain expertise, they will not be able to deliver that.
+For example, I've been executing a number of connectivity projects for a lot of my Auto customers who have their centers here, but I work with their teams in Europe and US, and they give me work directly, right?
+So that cross-vertical domain expertise that we bring is not there with GCCs because they are single cylinder focused.
+Lastly, the fact to be considered is that the world is moving to a lot more fixed price, consolidated work kind of model.
+So therefore, we are the gainers there because they look at us and they actually let us deliver on an envelope basis rather than worrying about attrition etc.
+So, I do welcome GCCs being here.
+We've been hiring from them.
+They've been hiring from us.
+It's a two-way street.
+Vimal Gohil: Amit, just a follow-up to that.
+How do you look at our cost structure versus the GCC cost structure?
+Amit Chadha: Vimal, 2 things here actually.
+Number one is that GCCs, their cost structures are higher than us.
+That's clearly the case.
+One, they work on a cost center model, and we work on a profit center model, right.
+Two, because they are single cylinder, they can't offer a lot of career growth or job enrichment to their software engineers or hardware engineers, etc., because they have to do the same work, and in our case, we are able to provide that.
+But if I look at the total package of what we would be able to offer to our engineers, which is career growth, which is job enrichment, which is job rotation, plus customer interactions, is something that we are able to provide that are not there in an in-house setup.
+So, we do believe that's there.
+Moderator: Thank you.
+The next question is from the line of Ravi Menon from Macquarie.
+Please go ahead.
+Page 14 of 20
+Q1 FY24 Earnings Call July 18, 2023 Ravi Menon: I just want to check on the growth in North America.
+So, what were the things that came in well this quarter.
+Rajeev Gupta: Ravi, Rajeev here, I'll take this one.
+So, it's just relative.
+That's what I would say, Ravi.
+So, I want to check, but you also said that you don't know if it's probably one quarter pain or more than one quarter.
+So, could you just explain that?
+Amit Chadha: I'll answer it 2 ways, right?
+I will share but I will then request my colleague, Alind, to add to what he's seeing in the market as well.
+They are all trying to switch to data center chips and AI chips today.
+All of a sudden, AI is the only word they use, everybody uses, right, including all of us.
+Now will that come in a quarter, will it be 2 quarters?
+To be seen.
+I would request Alind to add on the color of the market as he sees today in North America.
+Alind Saxena: So, we have worked with more than one Semcon companies.
+Totally if you look at about 4 or 5 Semcon companies.
+If you look at the trajectory, which is broadly driven by AI and then by default the requirements that the data center for them to be up and running, we see that continuing.
+There are chips which are going to come in markets which are going to change fundamentally the way that compute is going to happen.
+We are lucky that we are involved in quite a few of them.
+Ravi Menon: And are you using those downturns or semiconductor to deepen your capabilities in any areas, any white spaces maybe in the analog side or anything else where you think you lack?
+Amit Chadha: So, it's Amit again.
+We are working towards -- in fact, we've executed projects now on 7 nanometer (7 nm) chip as well, and we continue to work on different areas and are tying up with this global ecosystem as well.
+So, we just have to start; some of these have to get signed off and start.
+Moderator: Thank you.
+The next question is from the line of Sandeep Shah from Equirus Securities.
+Please go ahead.
+Whether that assumption Page 15 of 20
+Q1 FY24 Earnings Call July 18, 2023 changed?
+Amit Chadha: Sandeep, thank you.
+So, the way we look at it is, number one, as you've seen in the numbers, we have reported SWC mostly in the Telecom segment, right?
+Because operationally, we have integrated.
+I mean there are leaders from our SWC family that today are responsible for 2 of our centers in India, execution centers.
+There are leaders, senior leaders from the LTTS heritage side, that are responsible for the nexGen communication business, which has been integrated between both of them.
+So, we do commit to that 20% plus constant currency, and we are watchful that we won't sign lower margin deals and that has been a conscious effort.
+And shall I say, cadence developed in the last 3 months in the company to ensure that.
+And broadly, the split will be what we have told you.
+Sandeep Shah: Okay.
+Amit Chadha: At this stage, 20% plus, yes, organic 10% plus and that's where we are.
+But you should know that both teams have merged and integrated.
+Moderator: Thank you.
+The next question is from the line of Bhavik Mehta from JPMorgan.
+Please go ahead.
+Bhavik Mehta: Just one question from my side.
+Just going back to the guidance, how should we look at the mix of growth within your portfolio?
+Just a color on that would be helpful.
+Amit Chadha: Sure.
+In fact, I'm going to answer this in 2 ways if I may.
+One, I'm going to give you an industry view and then I'm going to ask my colleague here, Abhishek, to talk to you about what we are doing in SDV and AI because that's a huge path forward for us.
+When it comes to Industrial Products, given the fact that we are seeing deal closures happening for us in digital as well as software platforms and people discussing AI in a very interesting manner for shop floor application for us.
+Plant, we do see the growth coming back next quarter and then continuing from there.
+So that's something that I'm a little concerned about at this stage and cautious is the right word.
+But it's, again, how much do they want to give and do in the same quarter is to be seen.
+So that's where we broadly see it.
+Abhishek Sinha: Yes.
+Thanks, Amit.
+So clearly, with our customers, Amit earlier mentioned about the Advisory Council, we are clearly seeing SDV, AI and Cybersecurity as the 3 legs – where we see a lot of investments are coming in.
+And why I say that is because if you look at the software kind of vehicle architecture, a lot of it is a high compute architecture and what that means is the skills that come from 5G, internet and such areas are directly relevant for the way the vehicles are going to be designed.
+And that is probably going to be one of the key differentiators as we get into the space.
+Coming to AI, our sweet spot there is going to be Manufacturing, Automotive and Medical.
+So we will be, of course, focusing on these 3 segments.
+But apart from that, the investments we have done over the last couple of years – we have patents on some AI-specific solutions as well.
+That should help us.
+And you will definitely hear more from us in the coming quarters on these areas.
+Moderator: Thank you.
+The next question is from the line of Rohan Nagpal from Helios Capital Management, India.
+Please go ahead.
+Page 17 of 20
+Is it just on account of SWC seasonality or what is going on here?
+Amit Chadha: Yes, that's largely SWC.
+I don't see it another way.
+Rohan Nagpal: Okay.
+And then one of the things you mentioned was the deals that you've signed have already gone in for execution, they’re fairly swift.
+Could you provide some color on the timeline of deals in terms of what is the typical timeline from signing to execution?
+And some color on the pipeline that you're currently seeing?
+Amit Chadha: Sure.
+When it comes to the deals that we signed, the $50M deal was something that we had been pursuing for more than about 4 months.
+And it took time and, we were waiting, we were investing and waiting, right?
+And it took a lot of decision, approval, etc., to go through with that, but it's already moved to execution, and we have gone live.
+So, we are continuing to work on those.
+Now as an example, one of the Hitech deals that we signed, $10M+, not the $50M+, that took us 3 months multiple meetings to sign.
+We have hired more salespeople.
+They are on the ground and leaders as well.
+The moment the deal gets signed, right, the ramp up is fairly immediate.
+So, these are not long-term that they'll take 6 months, 9 months to do.
+Ramp up is immediate.
+In fact, in one of the deals that we signed, which was not a 1$0M deal because it's a shorter period, we had invested in hiring and holding about 100+ resources for some period, and they have gone live now and billing.
+So, some of that training upfront, before execution, is required.
+And we have more deals on the back of these that we are working on, we will continue to update you as we close them.
+Moderator: Thank you.
+The next question is from the line of Mihir Manohar from Carnelian Asset Advisors.
+Please go ahead.
+Mihir Manohar: Sir, largely wanted to understand on the synergy, which is the SWC acquisition.
+So, which are the internal KPIs that we are tracking?
+And how are we progressing on those KPIs -- that internal KPIs, that will be really helpful.
+My second question was on the deal pipeline.
+Page 18 of 20
+And my last question was just on the external environment.
+So, if you can throw some more color, I mean is the external environment worry just behind us?
+And how do you see the external environment per se?
+Yes.
+So those were the questions.
+Rajeev Gupta: So, this is Rajeev here.
+Let me take the part on the synergies from SWC acquisition.
+So, we've, of course, briefed this earlier as well – 3 areas that we are working towards.
+The integration did conclude as of April 1, 2023, so both the companies are now together.
+And we are reporting SWC under our Telecom & Hitech segment.
+In terms of synergies, 3 areas: First, internationalization of revenue.
+And clearly, the idea is to build pipeline.
+Some of that progress indeed has happened.
+DSO because the deals that we're executing in India are deals that are like -- are with the government entities.
+These are the 3 areas.
+We'll continue to update.
+We did mention that our aspiration in terms of the combined EBIT margin is 17% levels.
+In terms of DSO, the range that we maintained combined is between 115 to 117 and we will continue to update on that.
+Amit, do you want to take the second one?
+Amit Chadha: Sure pipeline – where and its external environment.
+That's point number one.
+Now having said that, I'll tell you where the problem is.
+One, the problem is that some of these deals that we are talking about, and we have chunkier deals like the $50M that we closed in our pipeline.
+That is driven Page 19 of 20
+Q1 FY24 Earnings Call July 18, 2023 by the fact that some of the investments we made in EV, some of the investments we made in digital manufacturing, some of the investments that we made in VLSI capabilities and digital skills is coming to bear.
+Now the issue is, firstly, instead of 2 signatures, deals are taking 4 signatures.
+The reality, I will not shy away.
+I will acknowledge it.
+I mean I should tell you the number of miles that Alind or even Rajeev, Abhishek, our HR head Lakshmanan, is putting on in the last 2 quarters is much higher than they would have traveled over the last year because clients need that reconfirmation from the entire management team and not just one or two people, right.
+I cannot quantify for you how long, but that's the reality.
+So, these are 3 realities that are there.
+We continue to look at various areas like I requested Abhishek to talk about today on SDV and AI.
+Moderator: Thank you.
+The next question is from the line of Aniket Kulkarni from BMSPL Capital.
+Please go ahead.
+Aniket Kulkarni: Yes.
+So just a small question from my side.
+It is regarding the ROE number which you are doing right now.
+Or is there any specific bracket where we want to be going forward?
+Rajeev Gupta: Aniket, this is Rajeev here.
+So of course, you may be looking at ROE at a quarter level, but we certainly try to aspire for an annualized number.
+At this stage, we are comfortable in terms of the ROE, where we are or rather where we ended for FY23.
+But at this stage, we are comfortable with where it is.
+Moderator: Thank you.
+Ladies and gentlemen, we will take that as a last question for today.
+I would now like to hand the conference over to Mr. Pinku Pappan for closing comments.
+Over to you, sir.
+Pinku Pappan: Thank you all for joining us on the call today.
+We hope we were able to answer most of your queries and happy to do follow-ups with you through the quarter.
+Thanks.
+Moderator: Thank you.
+On behalf of L&T Technology Services Limited, that concludes this conference.
+Thank you for joining us.
+You may now disconnect your lines.
+Note: This transcript has been lightly edited for clarity and accuracy.
+Page 20 of 20

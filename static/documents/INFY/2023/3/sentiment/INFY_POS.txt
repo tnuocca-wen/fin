@@ -1,0 +1,261 @@
+Let me start by wishing everyone a very happy New Year.
+We are delighted to share with you that our Q3 performance was strong with year-onyear growth of 13.7% and quarter-on-quarter growth of 2.4%.
+We continue to gain market share.
+Growth in Q3 was broad-based, with most industries and geographies growing in double digits in constant currency.
+Growth in constant currency for nine months of FY23 was 17.8% compared to the same period of FY22.
+Our large deal value was $3.3 bn, the highest in eight quarters.
+Our pipeline of large deals remain strong.
+Our digital revenue grew at 22% in the quarter in constant currency and are now close to 63% of our overall revenue.
+Our core services revenue grew at 2.4%.
+We are seeing growth in both areas of our business, digital and core services.
+This is a testament to our industry-leading digital capabilities, including our Cobalt Cloud capability and our industry-leading automation capabilities, both of which are resonating with our clients.
+Our large deal pipeline is seeing increased traction for automation and cost efficiency programs.
+Our results reflect our deep-rooted client relationships, coupled with clientcentric strategy, differentiated digital and cloud capabilities, strength in automation and the ability to pivot our business rapidly to changing client needs.
+Our cloud revenues continue to have healthy growth this quarter.
+Our clients are focused on accelerating the digital and cloud transformation, both to grow and to become operationally more efficient.
+Two examples of this, - Cobalt is helping accelerate business growth and resilience for a large telco and making their decision-making more data driven.
+- We are supporting a leading aerospace company by automation of their customer experience area, leveraging a modernized technology infrastructure, driving material cost efficiency.
+Strong growth was accompanied by stable operating margin at 21.5%.
+This was driven by healthy revenue growth and cost optimization benefits.
+We are encouraged by the immense confidence and trust that clients have in us.
+We are confident that the strength of our digital and cloud capabilities and our automation capabilities will continue to position us well in the market.
+Driven by our growth of 17.8% in constant currency for the first nine months of FY23 and strong large deal value for Q3, we are increasing our revenue growth guidance, which was at 15% to 16% earlier to 16% to 16.5%, despite the changing global economic conditions.
+Let me start by wishing everyone a very happy and safe 2023.
+Q3 was another quarter of resilient performance.
+Our revenue grew by 13.7% year-onyear and 2.4% sequentially in constant currency terms, despite seasonal weakness.
+Most of our business segments and geos grew in double digits year-on-year in constant currency.
+Specifically, manufacturing grew by 36.8%, EURS by 25.9% and Europe grew by 25.3%.
+Digital revenues constitute 62.9% of total revenues and grew by 21.7% year-on-year in constant currency.
+Core revenue saw another quarter of growth reflecting the accelerated client focus on cost take-out.
+Client metrics continue to remain strong with year-on-year increases in client counts across revenue buckets.
+Number of $50 mn clients increased by 15 to 79, number of $200 mn clients increased by 5, while number of $300 mn clients increased by 3 over
+the same quarter last year, reflecting our strong ability to mine top clients.
+During the quarter, we added 134 new clients.
+On-site effort mix remained stable at 24.5%.
+We expect attrition to reduce further in the near-term.
+Revenue growth was 17.8% in constant currency terms over nine months FY23.
+Operating margin for the same period was 21.0%, in-line with the lower-end of our full year guidance as called out earlier.
+Q3 operating margin remained steady at 21.5%.
+The major components of QoQ margin movement are as follows: Tailwinds of - approximately 40 basis points due to benefits from Rupee depreciation and cross currency, offset by lower benefits from revenue hedges.
+- 70 basis points from cost optimization, including lower subcon.
+Q3 EPS grew by 13.4% in Rupee terms on a YoY basis.
+DSO increased by three days sequentially to 68, reflecting higher billing during the quarter.
+Our balance sheet continues to remain strong and debt-free.
+ROE increased by 2.2% YoY to 32.6%.
+Yield on cash balances increased to 6.3% in Q3.
+Q3 marked the 30th consecutive quarter of delivering positive forex income despite the volatile currency environment.
+We initiated the buyback on December 7th and till date have bought back $31.3 mn shares worth ₹4,790 crores or 51.5% of the total authorization of ₹9,300 crores at an average price of approximately ₹1,531 per share compared to the maximum buyback price of ₹1,850 per share.
+Coming to segment performance We signed 32 large deals in Q3, which is the highest ever.
+TCV was $3.3 bn, the highest in the last eight quarters with 36% net new.
+Deal pipeline continue to be strong and oriented towards cost takeout and tech/ops transformation transformation.
+Our competitive position in the industry as demonstrated in the past years, remains very strong.
+However, at the same time, direct-to-consumer and digital commerce are opening up many new opportunities on the back of our growing presence in leading e-commerce platforms and also our very own Infosys Equinox.
+We have healthy deal flow in the Communications segment, along with continued steady pipeline.
+Energy, Utility, Resources and Services Segment reported strong growth along with healthy level of large deal wins during the quarter.
+The deal pipeline is strong and on increasing trend versus the previous quarter, given medium-term growth visibility.
+Manufacturing segment continues to be robust, supported by healthy pipeline of deals in both traditional and new technology areas.
+For Digital service capabilities in Q3, we have been ranked as leader in 7 ratings for our cloud services, digital engineering services and Salesforce implementation services.
+We have also been positioned as a major player in 7 ratings for our IoT and engineering, security and automation services.
+We believe, the structural levers for medium to long-term growth for the industry remains intact and Infosys is well positioned to support its customers in their transformational journey.
+With strong revenue performance in the first nine months of the year, the revenue guidance for FY23 has changed to 16% - 16.5%.
+My question was around the increase in cost of software packages, that is up by almost $69 mn sequentially.
+We have to see where we end up for Q4, but I think, this is part of our overall offering and it is actually giving us traction in the market in many of our service lines.
+And basically, at least earlier in the past, we have suggested that the new level would sort of sustain.
+I am curious, if you would say there is a material change in the way that clients are behaving now versus three months ago, in your reported 2Q, because the areas you are citing weakness, I think were the same ones, the pockets of weakness that you talked about.
+Having said that, we have, for example clients in energy or utilities or manufacturing, those industries are still looking quite strong in terms of their outlook.
+And then on the large deals, the renewals were a big component of that TCV and you have also cited benefits from consolidation in the commentary, are you taking any different approach as it relates to proactive renewals to try to drive more vendor consolidation opportunities?
+Salil Parekh Some large deals, as you pointed out, we have had a very strong result, $3.3 bn and 32 deals.
+And there, we have, we believe, very strong capability, which is helping us.
+However, we see, given our market share gain
+Pipeline, we have a very strong large deals pipeline.
+So we are feeling good that the pipeline is at a level which is in good shape.
+We see good traction of large deals, and we have seen more-and-more relevance, connect with our clients on the cost efficiency and automation plays and in the areas, in the industries where there is economics support, a good traction of Cobalt and the digital transformation plays.
+So the pipeline is looking quite good today, based on what we see in the deals flow.
+This was something which had very strong traction more recently.
+Salil Parekh On the first part, we see some of the growth transformation plays impacted in those industries that we talked about, for example, mortgage, investment banking, retail, hitech, etcetera.
+There, and in many places, we see essentially clients looking to use the cost efficiency to fund the transformation because in many cases, they still need to drive digital or cloud transformation to keep their market growth or their client connect, customer connect going.
+Salil Parekh Yes, there on new clients, we have seen -- while we don't disclose the number, we have seen a very good new client acquisition in Q3.
+And on vendor consolidation -- there's no contradiction in there to at least -- both are carrying on within our sales expansion, new client acquisition continues to be important as well.
+First, on the strong TCV wins this quarter.
+Can you at least qualify how much of the strength was on account of share gains, which you guys have made, versus the resilience, which is there on the technology spend?
+So if you can just help us break out these two, to get a sense of the deals win momentum?
+Salil Parekh I think the large deal momentum for us is really a function of what we have seen that we have put in place, we still, within this mix of $3.3 bn, have digital transformation deal, and we have cost efficiency automation deals.
+So we are ensuring that both of those engines continue to work well with our clients.
+Can you just help us with the -- what are the pools which you are seeing on profitability, given that the supply scenario is easing rapidly?
+Is there some portion of the pressure which is on account of the higher share of cost efficiency deals, which you guys are winning with initial ramp-up cost?
+And as we start putting these freshers onto the production floor, you will automatically get a pyramid benefit.
+So that will be a double value benefit for us.
+We also have subcons today, we have dramatically reduced our subcons literally in three quarters.
+If you look at our pricing, it has been quite stable.
+We continue to push with clients on where all we can get price increases.
+So, is it fair to assume that we should see at least better profitability in the next quarter, given that we have a number of levers with us?
+Thanks for the opportunity and congrats on a good quarter.
+And many forward-looking indicators like deal wins, pipeline and CIO surveys still continue to be very strong, even 11, 12 months into this macro concerns.
+And we are also seeing that the opportunities for cost optimization and efficiency are expanding within the work that we are doing.
+So in many ways, we are in a good position to be able to work on both sides.
+And so while it is difficult to predict what the way the situation in the economy will evolve, we feel quite balanced.
+Our sales team is quite agile.
+We have pivoted quite quickly and developed various points of view on different efficiency scenarios in different industries that we feel comfortable that the pipeline is looking good at this stage, and we will continue to work on that.
+So, is it a right understanding to say that we are now in a much better position to navigate this macro weakness, probably through more than enough compensation from the cost efficiency deal and vendor consolidation deal?
+All the best for the future.
+Moshe Katri Thank you, and happy New Year, and congrats on strong execution in a pretty tough environment.
+First, March guidance upgrades is pretty unusual from a seasonality perspective and given the macro concerns.
+So it seems like you have better visibility, now, can you share any views on the budget cycle itself?
+Equally, we do see good behavior with the budgets moving ahead as in the past, with energy, utilities, manufacturing.
+When we met in Bangalore back in December, you pointed to pivot in the nature of the new deals flow towards, as you said, cost optimizations and vendor consolidation.
+In many instances these are areas where given the evolving economic situation, clients are looking to reduce their tech spend across the enterprise, in many cases, use some of that savings to fund transformation programs.
+So let’s say – there are clients who may have five or six vendors and when we benefit from the consolidation we see tremendous efficiency that can be created.
+Our automation tools become quite useful.
+We typically add automation on our ongoing programs, which give an annual benefit.
+But when we see something of scale where we have not been involved earlier, we have an ability to provide a much greater benefit.
+In aggregate, the profitability of these deals is within the range of the rest of our company and especially has been more-and-more over time
+leverage the automation tools and our capabilities, we see these becoming stable high profit deals.
+Is it higher, lower versus, say, what it was six months back?
+Overall, we have a good healthy pipeline while we publicly disclose more about the larger deals.
+Are you seeing the pressure there more than normal, either because clients are pushing for more discounts or because of competitive intensity?
+Salil Parekh So there, the pricing in Q3, we have seen quite stable within the mix, we have not seen a change.
+It looks stable at this stage.
+Ankur Rudra Hi, thank you and congratulations on strong headline numbers there.
+And that is why the headline, TCV was declining, but growth was still quite healthy.
+This time, of course, both have done well.
+But just looking backwards, we see the mix of deals remaining in good shape across the board.
+Salil Parekh So there, Ankur, our view is, we have had very strong growth in the US at over 10% in Q3 in constant currency.
+Europe, of course, has been a standout in the growth that we
+We feel the traction, the pipeline, the work remains pretty strong, as we have described earlier, across the two dimensions, transformation and cost, across the geographies.
+If you look at the economic situation, we do see the European side a little more impacted, but we see good traction on the pipeline on both sides.
+We had a very successful Europe program over the last 18, 24 months, and that is also helping us with the growth in this quarter.
+So I think -- just to, show that we have a very strong pipeline there.
+Is that improving, staying the same or maybe becoming a bit lower than before?
+How is that trending versus before?
+Yes, absolutely new deals, I mean since many clients want the productivity, efficiencies upfront.
+But like we have shown in the past, at the same time, our existing deals are reaching higher profitability, and that offsets some of this pressure which is coming from the newly signed deals, where the margins will typically be lower.
+Thanks for taking my question and congrats on a solid quarter.
+And how do you believe the benefit of this could actually percolate to our margins?
+But in terms of the direction, do you think it is going to aid our margins?
+Absolutely, this should have a positive impact on margins.
+So as looking ahead in attrition, as an impact both the macroeconomic and also the internal policies we are doing in terms of promoting within, etcetera, should benefit us.
+Salil Parekh So there, we don't necessarily provide that much sort of granularity, same comments on a global level on manufacturing that we mentioned earlier and for energy, which is looking stronger, and more sort of, let's say, attention to the economy on retail in this case.
+But if I look at performance for the last few quarters, I think Europe has been performing better than North America as a whole.
+We have had a very strong Europe program, both on transformation and cost over the last 18, 24 months.
+So, some of that comes through in the benefits we see, even in this quarter.
+Firstly, we commented that manufacturing is doing well for us, but actually the vertical is doing exceedingly well in European region, where it is up 60% YoY, but is much weaker in the US, where it is up 7% YoY.
+So, what is that we are doing so well in Europe?
+But we do have good traction, as you pointed out, within a European business in manufacturing.
+For the quarter, it is up 17% YoY or let say, CC would be 20% or 21%.
+I just wanted to understand with cost optimization deals more in the pipeline and in the TCV, has the average deal tenure gone up in the last couple of quarters?
+Girish Pai Okay, you said that the third-party items, have given you a lot of traction in terms of getting deals.
+Now the number has gone up from about less than 2% of revenue to almost like -- I think this quarter is -- in this quarter, it comes to almost 6.5% of revenue.
+Do you see this number going up in the coming quarters and years?
+We are seeing some benefits coming through with large clients.
+Fantastic to have our Q3 close out, 13.7% growth, 21.5% operating margin, $3.3 bn in large deals, very happy with that outcome.
+We can see a guidance increase on our growth for that.
+And we can see both sides of our business on transformation, digital work and core services, cost automation working well.
+And so we feel good with the current environment and how we can play and support our clients on both sides.
+Rishi Basu A very good evening, everyone, and a very happy New Year.
+We are delighted to share with you that our Q3 performance was strong, with year-on-year growth of 13.7%, quarter-on-quarter growth of 2.4% – this in a seasonally weak quarter for us and amid a changing global economy.
+We continue to benefit from consolidation.
+Growth in Q3 was broad-based, with most industries and geographies growing in double digits in constant currency.
+Our large-deal value was at $3.3 bn, the highest in eight quarters.
+Our pipeline of large deals remains strong.
+Our digital revenues grew at 22% in the quarter at constant currency and are now close to 63% of our overall revenue.
+Our core services revenue grew as well at 2.4%.
+We are seeing growth in both areas of our business – digital and core services.
+This is a testament to our industry-leading digital capabilities, including our Cobalt cloud capability and our industry-leading automation capabilities, both of which are resonating with our clients.
+Our large-deals pipeline is seeing increased traction for automation and cost-efficiency programs.
+Strong growth was accompanied by stable operating margins at 21.5%.
+This was driven by healthy revenue growth and cost optimization benefits.
+While we are encouraged by the immense confidence and trust our clients have in us, the signs around are showing a slowing global economy.
+We are confident that the strength of our digital and cloud capabilities and our automation capabilities will continue to position us well in this market.
+Our operating model and offerings are agile to deliver value for our clients in this evolving macro environment.
+Driven by a growth of 17.8% in constant currency for the first nine months of FY'23 and the strong large-deal value for Q3, we are increasing our revenue growth guidance, which was at 15% to 16%, we are increasing it to 16% to 16.5% for the full financial 3
+We are retaining our operating margin guidance for FY '23 at 21% to 22%.
+Ritu Singh Hi, thank you, you said you have increased your revenue growth guidance despite changing global conditions.
+What gave you this confidence?
+And these large deals that you say continue to be strong in the pipeline, are you seeing more renewals or newer deals that you expect to win?
+We had exceptionally strong growth QoQ 2.4%, YoY 13.7%, for the first nine months, we are at 17.8%.
+Then we had very strong large deals.
+At $3.3 bn, it is the largest we have had in eight quarters.
+And the number of deals is also a testament to the environment for us, at 32 deals, it was very strong.
+Given all of those factors, we saw that it was right to increase our guidance.
+But keeping all that in balance, there were some things that give us a lot of support while we see other factors in the environment changing.
+But keeping all that in balance, we were ready to increase our guidance.
+On attrition, before we go to the margin and so on, we have seen a steady quarter-on-quarter decline for the last several quarters.
+We believe many of the policies we have put in place to make sure that we are more and more aligned to where our employees are focused on, is 4
+On hiring, we have the number of hiring based on what we saw on the demand, and we have also had a very strong hiring for the full year in FY'23 and also before that.
+So, we got a net benefit of about 40 basis points from currency, net of our hedges.
+We got another benefit of about 70 bps from our cost optimization, for instance, our subcon costs, etcetera.
+And from a headwind perspective, there is about 30 basis points additional spend on our SG&A.
+Salil, the question for you is, there has been a strong execution and deal win in Q3 that led to the guidance upgrade as well.
+Can we extrapolate this to believe that the client budget will be robust and double-digit revenue growth will sustain in FY'24?
+Could there be a sharp reversal in margins from Q4 onwards?
+On the first part, I think we talked a little bit about why the margin was increased in terms of what we see in the environment.
+For example, we have seen extremely strong growth in energy, utilities, that part of our business, and we continue to see that in Q3.
+We saw very strong growth in manufacturing, and we continue to see some of that traction in our business in Q3.
+And in fact, that will give us some headroom, for growth looking ahead.
+Looking ahead, of course, subcon costs, we have brought them down.
+And have you seen a trend of small deal sizes compared to what we saw in the last two years?
+We are also seeing much more demand today for automation, cost efficiency, operational improvement programs.
+But we see that both of our engines, the one for digital and cloud driving transformation and the one for automation driving cost efficiency, both are working and growing for us.
+We are seeing today more economic changes in the European market relative to US.
+We are seeing good traction in some industries, for example, energy utilities, and that is across geography, while we see some constraints which are in Hi-Tech and parts of Financial Services.
+Nilanjan Roy On the pricing side I think, we have seen a much more stable pricing regime than what we have seen historically.
+So some of that, we are trying to work with our clients to pass that on, and we have had some successes there.
+Nandan Mandayam I just want to know, how long do you expect the softness in BFSI to persist in the US?
+Is it going to exceed what we have seen in FY'23 so far?
+We have places, where because of consolidation of partners, we are actually seeing some growth across some clients as well.
+Inaudible question Salil Parekh On Europe, I think we are fortunate to see a very strong growth.
+We have had a good focus on that geography for the past several years, and we continue to see traction from some of the work and programs that we have started a while ago.
+Uma Kannan Congrats on a strong quarter.
+And how this will actually help in servicing your clients better?
+In terms of automation, we made tremendous progress, and that is one of the reasons, because we have used artificial intelligence, machine learning, we have benefited from clients' needs to be more efficient with their technology spend.
+And that is really the reason why we see both our digital business and our core services business growing.
+We see the progress they have made.
+Huge congratulations to what they have done.
+We have examples where we are using ChatGPT with client situations, that is starting to further increase productivity and automation.
+Another question is you had a very strong quarter, but do you think we will go back to a single-digit growth?
+Salil Parekh On the first one, I think we have a huge focus and commitment through the past several years on automation, artificial intelligence, machine learning.
+But we are looking at the way to really work with and partner with, and there are many technologies which enable a way to do lowcode/no-code enhancement or efficiency of building code faster.
+With attrition coming down, will the pressure on giving out more bonuses and increments ease out for you?
+And like we have talked about in the past, it was an investment we are ready to make because you cannot overnight flip the model of putting freshers.
+Over a period of time, that will start actually helping us.
+So Salil, in the press release, you have said you have gained market share.
+And, also about the deal win, it has come at an elevated number right now.
+So, do you think going forward, it is sustainable?
+Do you think your automation capabilities helped in terms of winning a lot of cost-based deals?
+Salil Parekh So, on what are the reasons for some of these deals that we are winning or the size and scale of it, I think you are absolutely right, the automation piece, the fact that we have a real strength and industry-leading capability has absolutely helped us.
+We think we are gaining market share, because if you look at the growth, average growth over the last 12 months, 24 months, 36 months, including in this quarter of the industry and you look at our growth, we 10
+So, we are gaining market share from people who are below that average and it is in multiple areas.
+We have gained tremendous market share on cloud because of Cobalt, on the digital areas on data, on analytics and also on cost efficiency and automation, because we have the ability to take large platforms and programs and make them more efficient for our clients.
+Hi, Salil and team, wishing you a very happy new year, first of all.
+It is small right now, so it is not a large part of what we do, but we are seeing a steady sort of improvement on that.
+But outside of that, we want to make sure that the employees have the ability to do some of this to improve and enhance their learning.
+We have seen good growth in digital all through the year and including in Q3.
+We do not split out the cloud growth specifically, but it is in good shape for us as the cloud business is growing based on Cobalt.
+Overall, we have seen that there is a focus in some of the industry or some verticals that I mentioned earlier, where there is more attention to what should be done with these transformation programs and much more focus now on how to be more cost efficient.
+So that is going on as an overlay, but the cloud remains a strong part across all industries.
+Salil Parekh On vendor consolidation, we see a tremendous benefit for us.
+And the other question is, given the uncertainty, could you give any colour on how close to the growth your customer teams or any steps that you have taken to be able to capitalize when we see an upturn?
+So, if you look at, for example, in energy or utilities clients, if you look at manufacturing, we see a huge movement today already with cloud with all of the components of our Cobalt capability.
+Could you give any colour on how close to the growth your customer teams or any steps that you have taken to be able to capitalize for the time when we see an upturn?
+Salil Parekh So there, I think we are positioned well with the fact that we have a very strong digital transformation capability.
+And in that same time, the focus on cost efficiency will give us benefit.
+Does this show that employee costs have still remained high in the sector despite falling attrition rate?
+You have raised guidance for FY'23 on the back of a strong quarter.
+Revenue from India saw a 5.4% Y-o-Y constant currency decline, while the rest of the world, including Europe saw growth.
+I think that is just a reflection of our utilization over the year, which was about 88%, and now we are at 81%.
+So, our margins have, like I said, quarter-on-quarter, remained stable.
+We think that’s a metric, which is more stable and more indicative of how the underlying business is doing.
+The reality is we have a huge large-deals number at $3.3 bn, and that makes a big difference as we look ahead into what is going on with the future of the business.
+For Salil, you said Europe sees more stress, but segment revenue shows the region's share of revenue is going up.
+For our own work, Europe is very strong.
+We have had a really good platform there, put in place over the last 18-24 months.
+For Nilanjan, despite a fall in attrition and benefits coming from operational efficiency, why did operating margin not improve in Q3?
+When can we see revenue per employee inching up?
+And the other one - large deals continue to perform well.
+At 21.5%, we are actually well above where we started around FY'20.
+So, despite all the large deals, we have seen that, as we go through the deal cycles, we have seen the improvement in margins.
+This is in line with ICRA's report that predicts moderation of growth in the IT sector over the medium term.
+Nilanjan Roy If you look at our constant currency, we have grown in all the three geographies as Rest of the World, in Europe and in North America.
+But we are seeing a very strong pipeline in all the markets, like Salil has mentioned.
+Salil Parekh On recruitment, I think we have already mentioned – first that we are increasing our growth guidance.
+And as we see the demand environment building up, as we see utilization inching up, we will make sure that the recruitment utilization and the way we are training all of the college graduates makes it an efficient model for us to grow with them.
