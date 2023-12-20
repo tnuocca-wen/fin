@@ -5,21 +5,11 @@ from .models import Company
 from.bucket import download_blob, file_exists
 import json, os
 import pandas as pd
+from django.db.models import Q
 
 # Create your views here.
 def index(request):
-    c = Company.objects.all()
-    cdict = []
-    tickers = c.values_list('bse_ticker', flat=True)
-    for i in range(len(tickers)):
-        n = c.get(pk=tickers[i]).company_name
-        t = tickers[i]
-        cy = c.get(pk=tickers[i]).cur_year
-        cq = c.get(pk=tickers[i]).cur_quarter
-        ay = c.get(pk=tickers[i]).a_year
-        aq = c.get(pk=tickers[i]).a_quarter
-        cdict.append([n, t, cy, cq, ay, aq])
-    return render(request, "retrieval/index.html", {'cdict':cdict})
+    return render(request, "retrieval/index.html")
 
 @csrf_exempt
 def retrieve(request):
@@ -33,11 +23,11 @@ def retrieve(request):
         try: 
             year = int(sel[1])
         except ValueError:
-            year = 0
+            year = None
         try: 
             qrtr = int(sel[2])
         except:
-            qrtr = 0
+            qrtr = None
         srvc = int(sel[3]) if sel[3] != '' else 0
 
         if srvc == 1:
@@ -77,18 +67,29 @@ def retrieve(request):
                 c = Company.objects.get(pk=ticker).pdf_data_set.all()[0]
             except:
                 c = None
-            print(c)
             if c is not None:
-                
-                yr = c.pdf1[1] if c.pdf1 != [] else ''
-                qr = c.pdf1[2] if c.pdf1 != [] else ''
-                pdf1 = c.pdf1[0] if c.pdf1 != [] else ''
-                pdf2 = c.pdf2[0] if c.pdf2 != [] else ''
-                pdf3 = c.pdf3[0] if c.pdf3 != [] else ''
-                pdf4 = c.pdf4[0] if c.pdf4 != [] else ''
-                return JsonResponse({'text': '', "ticker": '', "year": yr, "qrtr": qr, "status": 207, "pdfs": [pdf1, pdf2, pdf3, pdf4]}) 
+                wrkarr = [c.pdf1,c.pdf2,c.pdf3,c.pdf4]
+                for i in wrkarr:
+                    if i != []:
+                        if i[1] == year and i[2] == qrtr:
+                            pdf = i[0] #if c.pdf1 != [] else ''
+                            yr = i[1] # if c.pdf1 != [] else ''
+                            qr = i[2] # if c.pdf1 != [] else ''
+                            break
+                        else:
+                            yr = ''
+                            qr = ''
+                            pdf = ''
+                    else:
+                        yr = ''
+                        qr = ''
+                        pdf = ''
+                    # pdf2 = c.pdf2[0] if c.pdf2 != [] else ''
+                    # pdf3 = c.pdf3[0] if c.pdf3 != [] else ''
+                    # pdf4 = c.pdf4[0] if c.pdf4 != [] else ''
+                return JsonResponse({'text': '', "ticker": '', "year": yr, "qrtr": qr, "status": 207, "pdf": pdf}) 
             else:
-                return JsonResponse({'text': '', "ticker": '', "year": '', "qrtr": '', "status": 404, "pdfs": []})
+                return JsonResponse({'text': '', "ticker": '', "year": '', "qrtr": '', "status": 404, "pdf": []})
 
 def text_extract(fp):
     with open(fp, 'r', encoding="utf8") as file:
@@ -116,11 +117,11 @@ def sentiment(request):
         try: 
             year = int(sel[1])
         except ValueError:
-            year = 0
+            year = None
         try: 
             qrtr = int(sel[2])
         except:
-            qrtr = 0
+            qrtr = None
         fn = "sentiment"
         fp = f"static/documents/{ticker}/{year}/{qrtr}/{fn}/{ticker}_POS.txt"
         fpn = f"static/documents/{ticker}/{year}/{qrtr}/{fn}/{ticker}_NEG.txt"
@@ -150,17 +151,69 @@ def sentiment(request):
             neu = text_extract(fpe)
         return JsonResponse({"score": score, "pos": pos, "neg": neg, "neu": neu, "ticker": ticker, "year": year, "qrtr": qrtr, "status": 200})
     
-
+start = 0
+@csrf_exempt
 def auto_complete(request):
-    c = Company.objects.all()
-    cdict = []
-    tickers = c.values_list('bse_ticker', flat=True)
-    for i in range(len(tickers)):
-        n = c.get(pk=tickers[i]).company_name
-        t = tickers[i]
-        cy = c.get(pk=tickers[i]).cur_year
-        cq = c.get(pk=tickers[i]).cur_quarter
-        ay = c.get(pk=tickers[i]).a_year
-        aq = c.get(pk=tickers[i]).a_quarter
-        cdict.append([n, t, cy, cq, ay, aq])
-        return
+    global start
+    print("\n",1)
+    start = 1
+    if request.method == 'POST':
+        val = request.POST.get('nameval') 
+        if len(val) == 1:
+            c = Company.objects.filter(Q(company_name__istartswith=val) | Q(bse_ticker__istartswith=val))
+        elif len(val) > 4:
+            c = Company.objects.filter(Q(company_name__icontains=val) | Q(bse_ticker__istartswith=val))
+        else:
+            c = Company.objects.filter(Q(company_name__istartswith=val) | Q(bse_ticker__istartswith=val))
+        print(c)
+        cdict = []
+        tickers = None
+        tickers = c.values_list('bse_ticker', flat=True)
+        for i in range(len(tickers)):
+            if start == 1:
+                n = c.get(pk=tickers[i]).company_name
+                t = tickers[i]
+                cy = c.get(pk=tickers[i]).cur_year
+                cq = c.get(pk=tickers[i]).cur_quarter
+                ay = c.get(pk=tickers[i]).a_year
+                aq = c.get(pk=tickers[i]).a_quarter
+                j = c.get(pk=tickers[i]).pdf_data_set.all()[0]
+                print(j)
+                print(ay,j.pdf1, j.pdf2, j.pdf3, j.pdf4)
+                if ay == [] and (j.pdf1 != [] or j.pdf2 != [] or j.pdf3 != [] or j.pdf4 != []):
+                    for k in ay:
+                        if j.pdf1[1] == k:
+                            continue
+                        else:
+                            ay.append(j.pdf1[1])
+                        if j.pdf2[1] == k:
+                            continue
+                        else:
+                            ay.append(j.pdf2[1])
+                        if j.pdf3[1] == k:
+                            continue
+                        else:
+                            ay.append(j.pdf3[1])
+                        if j.pdf4[1] == k:
+                            continue
+                        else:
+                            ay.append(j.pdf4[1])
+                    cy = j.pdf1[1]
+                    # ay.append(j.pdf1[1])
+                    try:
+                        ay.append(j.pdf2[1])
+                    except:
+                        pass
+                    try:
+                        ay.append(j.pdf3[1])
+                    except:
+                        pass
+                    try:
+                        ay.append(j.pdf4[1])
+                    except:
+                        pass
+                    cq = j.pdf1[2]
+                    print(j.pdf1[1],j.pdf1[2])
+                cdict.append([n, t, cy, cq, ay, aq])
+        start = 0
+        return JsonResponse({"cdict":cdict})
