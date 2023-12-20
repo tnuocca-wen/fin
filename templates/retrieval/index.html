@@ -26,7 +26,7 @@
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 p-2 align-items-center">
           <div class="col-3">
             <div class="form-floating" style="position: relative; z-index: 1; width: auto;">
-              <textarea class="form-control" type="text" id="company_field" placeholder="Enter Company Name" autocomplete="off"></textarea>
+              <textarea class="form-control" type="text" id="company_field" placeholder="Enter Company Name" autocomplete="off" spellcheck="false"></textarea>
               <label for="company_field">Company Name</label>
               <!-- <div class="parent-options" id="parent-options">
               </div> -->
@@ -40,17 +40,17 @@
                 <option value="2023">2023</option>
                 <option value="2022">2022</option> -->
               </select>
-              <label for="YearSelect">Choose Year</label>
+              <label for="YearSelect">Choose Fiscal Year</label>
             </div>
           </div>
           <div class="col-3">
             <div class="form-floating" style="position: relative; z-index: 0; width: auto;">
               <select class="form-select" id="QuarterSelect" aria-label="Select Quarter">
                 <option value="">select Quarter</option>
-                <option value="1">One (Q1)</option>
+                <!-- <option value="1">One (Q1)</option>
                 <option value="2">Two (Q2)</option>
                 <option value="3">Three (Q3)</option>
-                <option value="4">Four (Q4)</option>
+                <option value="4">Four (Q4)</option> -->
               </select>
               <label for="QuarterSelect">Choose Quarter</label>
             </div>
@@ -101,11 +101,11 @@
 
   <script>
     console.log("Hi");
-    var companies = "{{ cdict|escapejs|safe }}";
-    companies = companies.replace(/(?<=\[)'|'(?=\])|'(?=,)/g, '"');
-    companies = companies.replace(/(?<=,)[^']'/g,' "');
-    companies = companies.replace(/\\xa0/,' ');
-    companies = JSON.parse(companies);
+    // var companies = "{{ cdict|escapejs|safe }}";
+    // companies = companies.replace(/(?<=\[)'|'(?=\])|'(?=,)/g, '"');
+    // companies = companies.replace(/(?<=,)[^']'/g,' "');
+    // companies = companies.replace(/\\xa0/,' ');
+    // companies = JSON.parse(companies);
     // console.log(companies);
 
     
@@ -125,13 +125,46 @@
     // }});
 
     
-
+      companies = null;
 
     /*
     autocomplete company names
     */
+    let controller = null;
+    function get_arr(val){
+      if (controller) {
+        controller.abort();
+        controller = null;
+      }
+
+      controller = new AbortController();
+
+      formdata = new FormData();
+      formdata.append("nameval", val);
+      return fetch("{% url 'autocomplete' %}", {
+                method: 'POST',
+                body: formdata,
+                signal: controller.signal
+            })
+            .then(response => response.json())
+            .then(data => {
+              return data.cdict;
+            })
+            .catch(error => {
+              console.error(error);
+            });
+            // .finally(() => {
+            //   controller = null;
+            // })
+
+    }
+    // let arr = null;
+    // get_arr("tat").then(result =>{
+    //   arr = result;
+    //   console.log(arr);
+    // });
     
-    function autocomplete(inp, year, quar, arr) {
+    function autocomplete(inp, year, quar) {
       /*the function has three arguments the textarea, the select element for the year and the select element for the quarter.*/
     var currentFocus;
     // a = document.getElementById('parent-options');
@@ -139,12 +172,20 @@
     inp.addEventListener("input", function(e) {
         var b, i, val = this.value;
         /*close any already open lists of autocompleted values*/
-        closeAllLists();
         if (!val) { 
           closeAllLists();
           return false;
         }
-        currentFocus = 1;
+        currentFocus = -1;
+        if (val!=''){
+        get_arr(val).then(result => {
+          closeAllLists();
+          if (!val) { 
+          closeAllLists();
+          return false;
+        }
+          arr = result;
+          companies = result;
         /*create a DIV element that will contain the items (values):*/
         a = document.createElement("div");
         a.id="parent-options";
@@ -155,7 +196,7 @@
         /*for each item in the array...*/
         for (i = 0; i < arr.length; i++) {
           /*check if the item starts with the same letters as the t ext field value:*/
-          if (arr[i][0].substr(0, val.length).toUpperCase() == val.toUpperCase() || arr[i][1].substr(0, val.length).toUpperCase() == val.toUpperCase()) {
+          // if (arr[i][0].substr(0, val.length).toUpperCase() == val.toUpperCase() || arr[i][1].substr(0, val.length).toUpperCase() == val.toUpperCase()) {
             /*create a DIV element for each matching element:*/
             b = document.createElement("div");
             b.classList.add("options");
@@ -173,16 +214,17 @@
               for(j=0;j<arr.length;j++){
                 if (this.getElementsByTagName("input")[0].value == arr[j][0]){
                   tarr = [];
+                  tarr.push(arr[j][2]);
                   for (l=0;l<arr[j][4].length;l++){
                   tarr.push(arr[j][4][l]);}
-                  tarr.push(arr[j][2]);
+                  console.log(tarr);
                   tarr.sort(function(a, b) {
                       return b - a;
                   });
                   while (year.firstChild) {
                       year.removeChild(year.firstChild);
                   }
-                  for (k=0;k<arr[j][4].length;k++){
+                  for (k=0;k<tarr.length;k++){
                     if (tarr[k-1]!=tarr[k]){
                     var option = document.createElement("option");
                     option.text = tarr[k]; // Set text for each option
@@ -238,27 +280,42 @@
               /*close the list of autocompleted values,
               (or any other open lists of autocompleted values:*/
               closeAllLists();
+              document.getElementById('submit-btn').click();
             });
             a.appendChild(b);
+            // }
           }
-        }
+        })
+        .then(() => {
+          const keydown = new KeyboardEvent('keydown', {
+            keyCode: 40});
+          inp.dispatchEvent(keydown);
+        });
+      }
     });
     /*execute a function presses a key on the keyboard:*/
     inp.addEventListener("keydown", function(e) {
-        var x = document.getElementById('parent-options');
-        if (x) x = x.getElementsByTagName("div");
+        var y = document.getElementById('parent-options');
+        if (y) x = y.getElementsByTagName("div");
         if (e.keyCode == 40) {
+          e.preventDefault();
           /*If the arrow DOWN key is pressed,
           increase the currentFocus variable:*/
+          console.log(currentFocus);
           currentFocus++;
           /*and and make the current item more visible:*/
           addActive(x);
+          console.log(x[currentFocus].offsetTop);
+          console.log(y.offsetTop);
+          y.scrollTop = x[currentFocus].offsetTop - y.offsetTop;
         } else if (e.keyCode == 38) { //up
+          e.preventDefault();
           /*If the arrow UP key is pressed,
           decrease the currentFocus variable:*/
           currentFocus--;
           /*and and make the current item more visible:*/
           addActive(x);
+          y.scrollTop = x[currentFocus].offsetTop - y.offsetTop;
         } else if (e.keyCode == 13) {
           /*If the ENTER key is pressed, prevent the form from being submitted,*/
           e.preventDefault();
@@ -268,12 +325,14 @@
           }
         }
     });
+
+
     function addActive(x) {
       /*a function to classify an item as "active":*/
       if (!x) return false;
       /*start by removing the "active" class on all items:*/
       removeActive(x);
-      if (currentFocus >= x.length) currentFocus = 0;
+      if (currentFocus >= x.length) currentFocus = x.length-1;
       if (currentFocus < 0) currentFocus = (x.length - 1);
       /*add class "autocomplete-active":*/
       x[currentFocus].classList.add("options-active");
@@ -298,12 +357,12 @@
   document.addEventListener("click", function (e) {
       closeAllLists(e.target);
   });
-  }
+}
 
   
   
   // the rest  
-  autocomplete(document.getElementById("company_field"), document.getElementById("YearSelect"), document.getElementById("QuarterSelect"), companies);
+  autocomplete(document.getElementById("company_field"), document.getElementById("YearSelect"), document.getElementById("QuarterSelect"));
 
     prev_doc = ''; 
     
@@ -318,7 +377,8 @@
     if (currentScrollY > lastScrollY) {
       // Scrolling down
       floatingDiv.classList.add("d-none");
-      // window.scroll(0,1);
+      displayDiv.scrollIntoView({behavior: "smooth", block: "start"});
+      // window.scroll(1,0);
       // displayDiv.classList.add("fixed-top");
     } else {
       // Scrolling up
@@ -329,6 +389,16 @@
     // lastScrollY = currentScrollY;
   });
 
+  function growLoader() {
+    senti_content.innerHTML = ``;
+    document.getElementById("status").innerHTML = `<div class="spinner-grow" style="border-radius: .5px;" role="status">
+                                                          <span class="visually-hidden">Loading...</span>
+                                                            </div>`;
+    if (document.getElementById("fin_text")){
+        document.getElementById("fin_text").remove();
+        document.getElementById("pdf_doc").remove();}
+  }
+
     var selection_form = document.getElementById('selection-form');
     var qselect = document.getElementById('QuarterSelect');
     var sselect = document.getElementById('ServiceSelect');
@@ -337,13 +407,36 @@
 
     ktdata = null;
 
+    
     document.addEventListener("keydown", (e) => {
       if (e.keyCode == 13) {
-        if (coselect.value != '' && yselect.value != '' && qselect.value != '' && sselect.value != '') {
+        if (coselect.value != '') {
           document.getElementById('submit-btn').click();
         }
       }
-    })
+    });
+
+    qselect.addEventListener("change", (e) => {
+      growLoader();
+      setTimeout(() => {
+        document.getElementById('submit-btn').click();
+      }, 2000);
+    });
+
+    yselect.addEventListener("change", (e) => {
+      growLoader();
+      setTimeout(() => {
+        document.getElementById('submit-btn').click();
+      }, 2000);
+    });
+
+    sselect.addEventListener("change", (e) => {
+      growLoader();
+      setTimeout(() => {
+        document.getElementById('submit-btn').click();
+    }, 2000);
+    });
+
 
     document.getElementById('submit-btn').addEventListener('click', function(e) {
       e.preventDefault();
@@ -354,19 +447,12 @@
         break;
       }
     }
-    senti_content.innerHTML = ``;
     // if (cselect != '' && yselect.value != '' && qselect.value != '' && sselect.value != '')
     // {
           // senti.innerHTML=`<span class="loader"></span>`;
-          document.getElementById("status").innerHTML = `<div class="spinner-grow" style="border-radius: .5px;" role="status">
-                                                          <span class="visually-hidden">Loading...</span>
-                                                            </div>`;
-            if (document.getElementById("fin_text")){
-              document.getElementById("fin_text").remove();
-              document.getElementById("pdf_doc").remove();}
+          growLoader();
             formdata = new FormData();
             selected = [cselect, yselect.value, qselect.value, sselect.value];
-            console.log(selected);
             formdata.append("selected", JSON.stringify(selected));
             fetch(selection_form.action, {
                 method: 'POST',
@@ -415,7 +501,7 @@
                       document.getElementById("fin_parent").appendChild(fin_text);
                     }
                     else{
-                      pdf_doc.src = "{% static 'documents/' %}"+data.ticker+"/"+data.qrtr+"/"+data.ticker+".pdf";
+                      pdf_doc.src = "{% static 'documents/' %}"+data.ticker+"/"+data.year+"/"+data.qrtr+"/"+data.ticker+".pdf";
                       fin_text.innerText = data.text;
                     }
                 }
@@ -423,31 +509,29 @@
                     document.getElementById("status").innerHTML = ``;
                     stats = document.getElementById("status");
                     stats.style.textAlign = "center";
-                    console.log(data.pdfs);
+                    console.log(data.pdf);
                     if(data.status == 404){
                       stats.innerHTML = `<a>No such company available.</a>`;  
                     }
                     else{
                       go = 0
-                      if (data.pdfs){
-                      for(i=0;i<data.pdfs.length;i++){
-                        if (data.pdfs[i] != '')
-                        { go = i; }
-                        else{
-                          go = 0;
-                        }
-                      }
-                      if (go != 0)
-                      {
-                        stats.innerHTML = `<a href=`+data.pdfs[go]+`>Click to Generate</a>`;
-                      }
+                      if (data.pdf){
+                        // console.log(data.pdf);
+                      // for(i=0;i<data.pdfs.length;i++){
+                      //   if (data.pdfs[i] != '')
+                      //   { go = i; }
+                      //   else{
+                      //     go = 0;
+                      //   }
+                      // }
+                      // if (go != 0)
+                      // {
+                        stats.innerHTML = `<a href=`+data.pdf+`>Click to Generate</a>`;
+                      // }
+                    }
                       else{
                         stats.innerHTML = `<a>PDFs are not available</a>`;
                       }
-                    }
-                    else{
-
-                    }
                     }
                   }
                 }

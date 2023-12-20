@@ -7,4 +7,5 @@ urlpatterns = [
     path('', views.index, name="index"),
     path('retrieve/', views.retrieve, name="retrieve"),
     path('sentiment/', views.sentiment, name="sentiment"),
+    path('autoc/', views.auto_complete, name="autocomplete"),
 ]

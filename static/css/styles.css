@@ -28,6 +28,10 @@
     border-radius: .5px !important;
   }  
 
+  button[type=submit] {
+    display: none !important;
+  }
+
   input[type=text] {
     border-radius: .5px !important;
   }
