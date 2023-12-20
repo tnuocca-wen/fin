@@ -109,6 +109,9 @@ venv.bak/
 #documents
 /static/documents/
 
+#migrations
+/retrieval/migrations/
+
 # mkdocs documentation 
 /site 
 
