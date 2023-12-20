@@ -112,6 +112,12 @@ static/documents/
 # mkdocs documentation 
 /site 
 
+# migrations
+/retrieval/migrations/
+
+#pycache
+/retrieval/__pycache__/
+
 # mypy 
 .mypy_cache/ 
 
