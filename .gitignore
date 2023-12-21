@@ -113,7 +113,7 @@ venv.bak/
 migrations/
 
 #pycache
-__pycache__
+__pycache__/
 
 # mkdocs documentation 
 /site 
