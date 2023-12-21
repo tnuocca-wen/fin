@@ -155,31 +155,31 @@ start = 0
 @csrf_exempt
 def auto_complete(request):
     global start
-    print("\n",1)
+    # print("\n",1)
     start = 1
     if request.method == 'POST':
         val = request.POST.get('nameval') 
         if len(val) == 1:
-            c = Company.objects.filter(Q(company_name__istartswith=val) | Q(bse_ticker__istartswith=val))
+            c = Company.objects.filter(Q(company_name__istartswith=val) | Q(bse_ticker__istartswith=val))[:10]
         elif len(val) > 4:
-            c = Company.objects.filter(Q(company_name__icontains=val) | Q(bse_ticker__istartswith=val))
+            c = Company.objects.filter(Q(company_name__icontains=val) | Q(bse_ticker__istartswith=val))[:10]
         else:
-            c = Company.objects.filter(Q(company_name__istartswith=val) | Q(bse_ticker__istartswith=val))
-        print(c)
+            c = Company.objects.filter(Q(company_name__istartswith=val) | Q(bse_ticker__istartswith=val))[:10]
+        # print(c)
         cdict = []
         tickers = None
         tickers = c.values_list('bse_ticker', flat=True)
         for i in range(len(tickers)):
             if start == 1:
-                n = c.get(pk=tickers[i]).company_name
+                n = c[i].company_name
                 t = tickers[i]
-                cy = c.get(pk=tickers[i]).cur_year
-                cq = c.get(pk=tickers[i]).cur_quarter
-                ay = c.get(pk=tickers[i]).a_year
-                aq = c.get(pk=tickers[i]).a_quarter
-                j = c.get(pk=tickers[i]).pdf_data_set.all()[0]
-                print(j)
-                print(ay,j.pdf1, j.pdf2, j.pdf3, j.pdf4)
+                cy = c[i].cur_year
+                cq = c[i].cur_quarter
+                ay = c[i].a_year
+                aq = c[i].a_quarter
+                j = c[i].pdf_data_set.all()[0]
+                # print(j)
+                # print(ay,j.pdf1, j.pdf2, j.pdf3, j.pdf4)
                 if ay == [] and (j.pdf1 != [] or j.pdf2 != [] or j.pdf3 != [] or j.pdf4 != []):
                     for k in ay:
                         if j.pdf1[1] == k:
@@ -212,8 +212,8 @@ def auto_complete(request):
                         ay.append(j.pdf4[1])
                     except:
                         pass
-                    cq = j.pdf1[2]
-                    print(j.pdf1[1],j.pdf1[2])
+                    # cq = j.pdf1[2]
+                    # print(j.pdf1[1],j.pdf1[2])
                 cdict.append([n, t, cy, cq, ay, aq])
         start = 0
         return JsonResponse({"cdict":cdict})
