@@ -110,7 +110,7 @@ venv.bak/
 /static/documents/
 
 #migrations
-migrations
+migrations/
 
 #pycache
 __pycache__
