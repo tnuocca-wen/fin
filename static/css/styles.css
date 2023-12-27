@@ -2,16 +2,55 @@
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
   }
 
-  .btn-primary {
-    border-radius: .5px !important;
+  html::-webkit-scrollbar {
+    display: none !important;
+    scroll-behavior: unset !important;
+  }
+
+  .btn.btn-primary.checking {
+    border-radius: 3px !important;
     box-shadow: 1.5px 1.5px #888888 !important;
-    background-color: rgb(43, 40, 40) !important;
+    background-color: rgb(248, 248, 187) !important;
+    border: none !important;
+    vertical-align: middle;
+  }
+  .btn.btn-primary.checking:hover {
+    background-color: rgb(4, 50, 157) !important;
+    color: black !important;
+    box-shadow: -1.5px 1.5px #cac9c9 !important;
+  }
+  .btn.btn-primary.checking.checked {
+    background-color: rgb(4, 50, 157) !important;
+    color: black !important;
+    box-shadow: -1.5px 1.5px #cac9c9 !important;
+  }
+  .btn.btn-primary.checking.checked:hover {
+    border-radius: 3px !important;
+    box-shadow: 1.5px 1.5px #888888 !important;
+    background-color: rgb(248, 248, 187) !important;
+    border: none !important;
+    color: white !important;
+  }
+
+  .btn-check {
+    vertical-align: middle !important;
+  }
+
+  .cen {
+    display: flex;
+    align-items: center;
+  }
+
+  .btn-primary {
+    border-radius: 3px !important;
+    box-shadow: 1.5px 1.5px #dee2e6 !important;
+    background-color: rgb(43 48 53) !important;
     border: none !important;
   }
   .btn-primary:hover {
-    background-color: rgb(236, 236, 236) !important;
+    background-color: rgb(222 226 230) !important;
     color: black !important;
-    box-shadow: -1.5px 1.5px #cac9c9 !important;
+    box-shadow: -1.5px 1.5px #dee2e6 !important;
   }
   .btn-primary:active {
     background-color: rgb(0, 0, 0) !important;
@@ -24,6 +63,13 @@
     box-shadow: -1.5px 1.5px #cac9c9;
     border-color: rgba(255, 228, 196, 0.762);
   } */
+
+  .genbtn {
+    margin: auto;
+    /* margin-right: auto; */
+    display: inline-block !important;
+  }
+
   .form-select {
     border-radius: .5px !important;
   }  

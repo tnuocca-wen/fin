@@ -1,17 +1,19 @@
 from django.shortcuts import render, redirect, HttpResponse
 from django.http import JsonResponse
-from django.views.decorators.csrf import csrf_exempt,csrf_protect
+# from django.views.decorators.csrf import csrf_exempt,csrf_protect
 from .models import Company
-from.bucket import download_blob, file_exists
+from .bucket import download_blob, file_exists
+from .generate import text_extraction, split_into_paragraphs, count_words, write_to_file, summarize_stream, download_pdf, upload_data
 import json, os
 import pandas as pd
 from django.db.models import Q
+from django.http import StreamingHttpResponse
 
 # Create your views here.
 def index(request):
     return render(request, "retrieval/index.html")
 
-@csrf_exempt
+# @csrf_exempt
 def retrieve(request):
     if request.method == 'POST':
         text = ''
@@ -87,7 +89,7 @@ def retrieve(request):
                     # pdf2 = c.pdf2[0] if c.pdf2 != [] else ''
                     # pdf3 = c.pdf3[0] if c.pdf3 != [] else ''
                     # pdf4 = c.pdf4[0] if c.pdf4 != [] else ''
-                return JsonResponse({'text': '', "ticker": '', "year": yr, "qrtr": qr, "status": 207, "pdf": pdf}) 
+                return JsonResponse({'text': '', "ticker": ticker, "year": yr, "qrtr": qr, "status": 207, "pdf": pdf}) 
             else:
                 return JsonResponse({'text': '', "ticker": '', "year": '', "qrtr": '', "status": 404, "pdf": []})
 
@@ -109,7 +111,6 @@ def elaborate_fetch(ticker, year, qrtr):
         filtered = filtered.reset_index(drop=True)
         return eval(filtered['kt_elaborated'][0])
 
-@csrf_exempt
 def sentiment(request):
     if request.method == 'POST':
         sel = json.loads(request.POST.get('selected'))
@@ -152,7 +153,7 @@ def sentiment(request):
         return JsonResponse({"score": score, "pos": pos, "neg": neg, "neu": neu, "ticker": ticker, "year": year, "qrtr": qrtr, "status": 200})
     
 start = 0
-@csrf_exempt
+# @csrf_exempt
 def auto_complete(request):
     global start
     # print("\n",1)
@@ -165,7 +166,7 @@ def auto_complete(request):
             c = Company.objects.filter(Q(company_name__icontains=val) | Q(bse_ticker__istartswith=val))[:10]
         else:
             c = Company.objects.filter(Q(company_name__istartswith=val) | Q(bse_ticker__istartswith=val))[:10]
-        # print(c)
+        print(c)
         cdict = []
         tickers = None
         tickers = c.values_list('bse_ticker', flat=True)
@@ -212,8 +213,37 @@ def auto_complete(request):
                         ay.append(j.pdf4[1])
                     except:
                         pass
-                    # cq = j.pdf1[2]
+                    cq = j.pdf1[2]
                     # print(j.pdf1[1],j.pdf1[2])
                 cdict.append([n, t, cy, cq, ay, aq])
         start = 0
         return JsonResponse({"cdict":cdict})
+    
+
+def gen_content(request):
+  if request.method == 'POST':
+    model = "gpt-3.5-turbo"
+    link = request.POST.get('link')
+    tic = request.POST.get('ticker')
+    yr = request.POST.get('year')
+    qr = request.POST.get('quarter')
+    pdf_path = f"static/documents/{tic}/{yr}/{qr}/{tic}.pdf"
+    download_pdf(link, pdf_path)
+    texts = text_extraction(pdf_path)
+    textss = '\n'.join(texts)
+    paras = split_into_paragraphs(textss)
+    # for text in texts:
+        # names = namingFunc(pdf_path)
+    para_list = []
+    for i,item in enumerate(paras):
+        if count_words(item)> 700:
+            para_list.append(item)
+        elif i == len(paras)-1:
+            para_list.append(item)
+        else:
+            paras[i+1]= item + ' ' + paras[i+1]
+    response = StreamingHttpResponse(summarize_stream(model, para_list, tic, yr, qr))
+    response['Content-Type'] = 'text/plain'
+    print(response)
+    return response #HttpResponse("hi")
+ 

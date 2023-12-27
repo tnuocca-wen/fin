@@ -16,6 +16,9 @@ function get_arr(val) {
     method: "POST",
     body: formdata,
     signal: controller.signal,
+    headers: {
+      "X-CSRFToken": csrf_token
+  }
   })
     .then((response) => response.json())
     .then((data) => {

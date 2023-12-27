@@ -180,7 +180,7 @@
 
         // default params
         defaults = {
-          Title: "Default Plugin Title", // Window Title
+          Title: "Pdf", // Window Title
           TitleSize: 15, // Title font size
           TitleTextShadow: "rgb(74, 66, 66) 0px 0px 3px", // Title Text Shadow
           TitleTextColor: "rgb(255, 255, 255)", //Title Text color
@@ -190,8 +190,8 @@
 
           Width: 600, // Width
           Height: 300, // Height
-          Top: 50, // Top Position
-          Left: 50, // Left Position
+          Top: 200, // Top Position
+          Left: 900, // Left Position
 
           BannerBackground:
             "-webkit-linear-gradient(top, rgb(67, 78, 95), rgb(37, 46, 78))", // Top banner backgroud
