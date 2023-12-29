@@ -66,8 +66,6 @@
 
   .genbtn {
     margin: auto;
-    /* margin-right: auto; */
-    display: inline-block !important;
   }
 
   .form-select {
@@ -122,32 +120,40 @@
     color:rgb(247, 250, 249) !important;
   }
 
-  .loader {
-    width: 12px;
-    height: 12px;
+  /* .loader2, .loader2:before, .loader2:after {
     border-radius: 50%;
-    display: block;
-    margin:15px auto;
+    width: 2.5em;
+    height: 2.5em;
+    animation-fill-mode: both;
+    animation: bblFadInOut 1.8s infinite ease-in-out;
+  }
+  .loader2 {
+    color: #FFF;
+    font-size: 7px;
     position: relative;
-    color: #0c0c0c;
-    box-sizing: border-box;
-    animation: animloader 1s linear infinite alternate;
+    text-indent: -9999em;
+    transform: translateZ(0);
+    animation-delay: -0.16s;
+  }
+  .loader2:before,
+  .loader2:after {
+    content: '';
+    position: absolute;
+    top: 0;
+  }
+  .loader2:before {
+    left: -3.5em;
+    animation-delay: -0.32s;
+  }
+  .loader2:after {
+    left: 3.5em;
   }
   
-  @keyframes animloader {
-    0% {
-      box-shadow: -38px -12px ,  -14px 0,  14px 0, 38px 0;
-    }
-    33% {
-      box-shadow: -38px 0px, -14px -12px,  14px 0, 38px 0;
-    }
-    66% {
-      box-shadow: -38px 0px , -14px 0, 14px -12px, 38px 0;
-    }
-    100% {
-      box-shadow: -38px 0 , -14px 0, 14px 0 , 38px -12px;
-    }
-  }
+  @keyframes bblFadInOut {
+    0%, 80%, 100% { box-shadow: 0 2.5em 0 -1.3em }
+    40% { box-shadow: 0 2.5em 0 0 }
+  } */
+      
   
   .ktaways:hover {
     cursor: pointer !important;

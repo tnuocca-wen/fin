@@ -37,7 +37,7 @@ function growLoader() {
   }
   document.getElementById(
     "status"
-  ).innerHTML = `<div class="spinner-grow" style="border-radius: .5px;" role="status">
+  ).innerHTML = `<div class="spinner-grow" style="border-radius: .5px;" role="status" style="margin-top: 2%;">
                                                       <span class="visually-hidden">Loading...</span>
                                                         </div>`;
   if (document.getElementById("fin_text")) {
@@ -47,6 +47,26 @@ function growLoader() {
     }
   }
 }
+
+// function circLoader() {
+//   pdfToggleDiv.innerHTML = ``;
+//   if (fin_parent.innerHTML != ''){
+//     fin_parent.innerHTML = '';
+//   }
+//   document.getElementById(
+//     "status"
+//   ).innerHTML = `<div class="" style="border-radius: .5px;" role="" style="margin-top: 2%;">
+//                                                       <span class="loader2">Loading...</span>
+//                                                         </div>`;
+//   if (document.getElementById("fin_text")) {
+//     document.getElementById("fin_text").remove();
+//     if (document.getElementById("pdf_doc")) {
+//       document.getElementById("pdf_doc").remove();
+//     }
+//   }
+// }
+
+
 
 function sentiment_ret(cselect) {
   senti_content.innerHTML = ``;
@@ -128,7 +148,7 @@ function data_ret(cselect) {
               "/" +
               data.ticker +
               ".pdf";
-            pdfbtn_create();
+            pdfbtn_create(pdf_src);
             const fin_text = document.createElement("div");
             fin_text.id = "fin_text";
             fin_text.style.overflowY = "auto";
@@ -191,7 +211,7 @@ function data_ret(cselect) {
               // {
               fin_parent.innerHTML =
                 `<a class="btn btn-primary genbtn" target="_blank" id="gen_btn" href=` + data.pdf + `>Generate</a>`;
-              generate(data.ticker, data.year, data.qrtr);
+              generate(data.ticker, data.year, data.qrtr, sselect.value);
               // }
             } else {
               stats.innerHTML = `<a>PDFs are not available</a>`;
@@ -278,7 +298,7 @@ function elaborate(elem) {
   sentiment_sentences.innerText = ktdata[id - 2];
 }
 
-function pdfbtn_create() {
+function pdfbtn_create(src) {
   const pdf_btn = document.createElement("input");
   pdf_parent.classList.remove("col", "mx-auto");
   pdf_btn.type = "checkbox";
@@ -290,10 +310,10 @@ function pdfbtn_create() {
   pdfbtn_label.innerText = "transcript";
   pdfToggleDiv.appendChild(pdf_btn);
   pdfToggleDiv.appendChild(pdfbtn_label);
-  pdf_t();
+  pdf_t(src);
 }
 
-function pdf_t() {
+function pdf_t(pdf_src) {
   pdf_toggle.addEventListener("click", () => {
     if (pdf_toggle.checked) {
       pdf_btn = document.querySelector(".btn.checking");

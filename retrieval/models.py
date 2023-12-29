@@ -14,8 +14,8 @@ class Company(models.Model):
 
 class Pdf_Data(models.Model):
     company =  models.ForeignKey(Company, on_delete=models.CASCADE)
-    pdf1 = models.JSONField(default=list, null=True, blank=True)
-    pdf3 = models.JSONField(default=list, null=True, blank=True)
-    pdf2 = models.JSONField(default=list, null=True, blank=True)
-    pdf4 = models.JSONField(default=list, null=True, blank=True)
+    pdfs = models.JSONField(default=list, null=True, blank=True)
+    # pdf3 = models.JSONField(default=list, null=True, blank=True)
+    # pdf2 = models.JSONField(default=list, null=True, blank=True)
+    # pdf4 = models.JSONField(default=list, null=True, blank=True)
 

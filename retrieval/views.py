@@ -3,7 +3,7 @@ from django.http import JsonResponse
 # from django.views.decorators.csrf import csrf_exempt,csrf_protect
 from .models import Company
 from .bucket import download_blob, file_exists
-from .generate import text_extraction, split_into_paragraphs, count_words, write_to_file, summarize_stream, download_pdf, upload_data
+from .generate import text_extraction, split_into_paragraphs, count_words, summarize_stream, download_pdf, takeaways
 import json, os
 import pandas as pd
 from django.db.models import Q
@@ -46,7 +46,10 @@ def retrieve(request):
                 status = 200
                 text = text_extract(fp)
                 if srvc != 1:
-                    ktdata = elaborate_fetch(ticker, year, qrtr)
+                    try:
+                        ktdata = elaborate_fetch(ticker, year, qrtr)
+                    except:
+                        srvc = 1
                     print("The type of ktdata is:", type(ktdata))
             else:
                 fp1 = fp[:-4]
@@ -222,28 +225,48 @@ def auto_complete(request):
 
 def gen_content(request):
   if request.method == 'POST':
-    model = "gpt-3.5-turbo"
     link = request.POST.get('link')
     tic = request.POST.get('ticker')
     yr = request.POST.get('year')
     qr = request.POST.get('quarter')
+    sr = int(request.POST.get('service'))
     pdf_path = f"static/documents/{tic}/{yr}/{qr}/{tic}.pdf"
-    download_pdf(link, pdf_path)
-    texts = text_extraction(pdf_path)
-    textss = '\n'.join(texts)
-    paras = split_into_paragraphs(textss)
-    # for text in texts:
-        # names = namingFunc(pdf_path)
-    para_list = []
-    for i,item in enumerate(paras):
-        if count_words(item)> 700:
-            para_list.append(item)
-        elif i == len(paras)-1:
-            para_list.append(item)
+    if not (file_exists(f"fin/{tic}/{yr}/{qr}/{tic}.pdf") and os.path.exists(f"static/documents/{tic}/{yr}/{qr}/{tic}.pdf")):
+        download_pdf(link, pdf_path)
+    if sr == 1:
+        texts = text_extraction(pdf_path)
+        textss = '\n'.join(texts)
+        paras = split_into_paragraphs(textss)
+        # for text in texts:
+            # names = namingFunc(pdf_path)
+        para_list = []
+        for i,item in enumerate(paras):
+            if count_words(item)> 700:
+                para_list.append(item)
+            elif i == len(paras)-1:
+                para_list.append(item)
+            else:
+                paras[i+1]= item + ' ' + paras[i+1]
+        response = StreamingHttpResponse(summarize_stream("gpt-3.5-turbo", para_list, tic, yr, qr))
+        response['Content-Type'] = 'text/plain'
+    else:
+        if file_exists(f"fin/{tic}/{yr}/{qr}/summary/{tic}.txt") == True:
+            if os.path.exists(f"static/documents/{tic}/{yr}/{qr}/summary/{tic}.txt"):
+                with open(f"static/documents/{tic}/{yr}/{qr}/summary/{tic}.txt", "r") as f:
+                    sum = f.read()
+                    f.close()
+                sum_lst = sum.split("\n\n")
+            else:
+                download_blob(f"fin/{tic}/{yr}/{qr}/summary/{tic}.txt", f"static/documents/{tic}/{yr}/{qr}/summary/{tic}.txt")
+                with open(f"static/documents/{tic}/{yr}/{qr}/summary/{tic}.txt", "r") as f:
+                    sum = f.read()
+                    f.close()
+                sum_lst = sum.split("\n\n")
+            response = StreamingHttpResponse(takeaways("gpt-3.5-turbo", sum_lst, tic, yr, qr))
+            response['Content-Type'] = 'text/plain'
         else:
-            paras[i+1]= item + ' ' + paras[i+1]
-    response = StreamingHttpResponse(summarize_stream(model, para_list, tic, yr, qr))
-    response['Content-Type'] = 'text/plain'
+            response = HttpResponse('<p>Summary <strong>not</strong> Generated, <strong>Generate the summary first.</strong></p>', content_type='text/html')
+            response.status_code = 205
     print(response)
     return response #HttpResponse("hi")
  
