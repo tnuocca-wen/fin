@@ -7,6 +7,7 @@ let lastScrollY = 0;
 
 window.addEventListener("scroll", function (e) {
   e.preventDefault();
+  console.log("jijji");
   const floatingDiv = document.querySelector(".floating-nav");
   const displayDiv = document.querySelector("#display_div");
   const currentScrollY = window.scrollY;
@@ -41,10 +42,10 @@ function growLoader() {
                                                       <span class="visually-hidden">Loading...</span>
                                                         </div>`;
   if (document.getElementById("fin_text")) {
-    document.getElementById("fin_text").remove();
-    if (document.getElementById("pdf_doc")) {
-      document.getElementById("pdf_doc").remove();
-    }
+    document.getElementById("fin_text").remove();}
+  if (document.getElementById("pdf_parent").innerHTML != ``) {
+    pdf_parent.classList.remove("col", "mx-auto");
+    pdf_parent.innerHTML = ``;
   }
 }
 
@@ -115,6 +116,7 @@ function sentiment_ret(cselect) {
     });
 }
 
+var ktdata = [];
 function data_ret(cselect) {
   formdata = new FormData();
   selected = [cselect, yselect.value, qselect.value, sselect.value];
@@ -155,7 +157,7 @@ function data_ret(cselect) {
             fin_text.style.height = "97vh";
             fin_text.style.border = "1px dashed gray;";
             if (data.ktr == 1) {
-              console.log(data.ktdata);
+              // console.log(data.ktdata);
               ktdata = data.ktdata;
               ktaways = data.text.split("\n");
               kthtml = ``;
@@ -227,6 +229,32 @@ function data_ret(cselect) {
     });
 }
 
+function elaborate(elem) {
+  id = parseInt(elem.id.slice(7));
+  sentimentmodalLabel.innerText = "Elaborated";
+  if (typeof ktdata[0][id - 2] != 'undefined'){
+    q1 = ktdata[0][id - 2];}
+  else{
+    q1 = `<button id="q1gen" onclick="strtktelab(1)" class="btn btn-primary">Generate</button>`;
+  }
+  if (typeof ktdata[1][id - 2] != 'undefined'){
+    q2 = ktdata[1][id - 2];}
+  else{
+    q2 = `<button id="q2gen" onclick="strtktelab(2)" class="btn btn-primary">Generate</button>`;
+  }
+  console.log(ktdata[2]);
+  if (typeof ktdata[2][id - 2] != 'undefined'){
+    q3 = ktdata[2][id - 2];}
+  else{
+    q3 = `<button id="q3gen" onclick="strtktelab(3)" class="btn btn-primary">Generate</button>`;
+    }
+  sentiment_sentences.innerHTML = `<div><h3>Current Quarter</h3>`+`<div>`+q1+`</div></div>`+`<br>`+
+  `<div><h3>Last Quarter</h3>`+`<div>`+q2+`</div></div>`+`<br>`+
+  `<div><h3>The Quarter before the above..</h3>`+`<div>`+q3+`</div></div>`;
+  
+}
+
+
 var selection_form = document.getElementById("selection-form");
 var qselect = document.getElementById("QuarterSelect");
 var sselect = document.getElementById("ServiceSelect");
@@ -292,11 +320,6 @@ document.getElementById("submit-btn").addEventListener("click", function (e) {
   data_ret(cselect);
 });
 
-function elaborate(elem) {
-  id = parseInt(elem.id.slice(7));
-  sentimentmodalLabel.innerText = "Elaborated";
-  sentiment_sentences.innerText = ktdata[id - 2];
-}
 
 function pdfbtn_create(src) {
   const pdf_btn = document.createElement("input");
@@ -318,8 +341,6 @@ function pdf_t(pdf_src) {
     if (pdf_toggle.checked) {
       pdf_btn = document.querySelector(".btn.checking");
       pdf_btn.classList.add("checked");
-      console.log(pdf_btn);
-      console.log("hi");
       const pdf_elem = document.createElement("embed");
       pdf_elem.src = pdf_src;
       // pdf_elem.classList.add("mx-auto");

@@ -2,6 +2,10 @@
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
   }
 
+  body {
+    height: 100.001vh;
+  }
+  
   html::-webkit-scrollbar {
     display: none !important;
     scroll-behavior: unset !important;
@@ -154,7 +158,16 @@
     40% { box-shadow: 0 2.5em 0 0 }
   } */
       
-  
+  #fin_text *{
+    overflow-anchor: none;
+  }
+
+  #anchor {
+    overflow-anchor: auto;
+    height: 1px;
+  }
+
+
   .ktaways:hover {
     cursor: pointer !important;
     text-decoration: underline !important;

@@ -3,7 +3,7 @@ from django.http import JsonResponse
 # from django.views.decorators.csrf import csrf_exempt,csrf_protect
 from .models import Company
 from .bucket import download_blob, file_exists
-from .generate import text_extraction, split_into_paragraphs, count_words, summarize_stream, download_pdf, takeaways
+from .generate import text_extraction, split_into_paragraphs, count_words, summarize_stream, download_pdf, takeaways, elab_gen
 import json, os
 import pandas as pd
 from django.db.models import Q
@@ -73,9 +73,10 @@ def retrieve(request):
             except:
                 c = None
             if c is not None:
-                wrkarr = [c.pdf1,c.pdf2,c.pdf3,c.pdf4]
-                for i in wrkarr:
-                    if i != []:
+                wrkarr = c.pdfs
+                if wrkarr != []:
+                    for i in wrkarr:
+                        # if i != []:
                         if i[1] == year and i[2] == qrtr:
                             pdf = i[0] #if c.pdf1 != [] else ''
                             yr = i[1] # if c.pdf1 != [] else ''
@@ -85,13 +86,14 @@ def retrieve(request):
                             yr = ''
                             qr = ''
                             pdf = ''
-                    else:
-                        yr = ''
-                        qr = ''
-                        pdf = ''
+                else:
+                    yr = ''
+                    qr = ''
+                    pdf = ''
                     # pdf2 = c.pdf2[0] if c.pdf2 != [] else ''
                     # pdf3 = c.pdf3[0] if c.pdf3 != [] else ''
                     # pdf4 = c.pdf4[0] if c.pdf4 != [] else ''
+                # print({'text': '', "ticker": ticker, "year": yr, "qrtr": qr, "status": 207, "pdf": pdf})
                 return JsonResponse({'text': '', "ticker": ticker, "year": yr, "qrtr": qr, "status": 207, "pdf": pdf}) 
             else:
                 return JsonResponse({'text': '', "ticker": '', "year": '', "qrtr": '', "status": 404, "pdf": []})
@@ -102,17 +104,29 @@ def text_extract(fp):
     return fc
 
 def elaborate_fetch(ticker, year, qrtr):
-    if os.path.exists("static/documents/kt_elaborated.csv"):
-        ktdf = pd.read_csv('static/documents/kt_elaborated.csv')
-        filtered = ktdf[(ktdf['company'] == ticker) & (ktdf['year'] == year) & (ktdf['quarter'] == qrtr)]
-        filtered = filtered.reset_index(drop=True)
-        return eval(filtered['kt_elaborated'][0])
+    if os.path.exists(f"static/documents/{ticker}/{year}/{qrtr}/keytakeaways/{ticker}.csv"):
+        ktdf = pd.read_csv(f"static/documents/{ticker}/{year}/{qrtr}/keytakeaways/{ticker}.csv")
+        ktdf = ktdf.reset_index(drop=True)
+        elab1 = list(ktdf['elaboration1']) if not ktdf['elaboration1'].isnull().all() else []
+        elab2 = list(ktdf['elaboration2']) if not ktdf['elaboration2'].isnull().all() else []
+        elab3 = list(ktdf['elaboration3']) if not ktdf['elaboration3'].isnull().all() else []
+        return [elab1, elab2, elab3]
+    elif file_exists(f"fin/{ticker}/{year}/{qrtr}/keytakeaways/{ticker}.csv"):
+        download_blob(f"fin/{ticker}/{year}/{qrtr}/keytakeaways/{ticker}.csv", f"static/documents/{ticker}/{year}/{qrtr}/keytakeaways/{ticker}.csv")
+        ktdf = pd.read_csv(f"static/documents/{ticker}/{year}/{qrtr}/keytakeaways/{ticker}.csv")
+        ktdf = ktdf.reset_index(drop=True)
+        elab1 = list(ktdf['elaboration1']) if not ktdf['elaboration1'].isnull().all() else []
+        elab2 = list(ktdf['elaboration2']) if not ktdf['elaboration2'].isnull().all() else []
+        elab3 = list(ktdf['elaboration3']) if not ktdf['elaboration3'].isnull().all() else []
+        return [elab1, elab2, elab3]
     else:
-        download_blob(f"fin/kt_elaborated.csv",f"static/documents/kt_elaborated.csv")
-        ktdf = pd.read_csv('static/documents/kt_elaborated.csv')
-        filtered = ktdf[(ktdf['company'] == ticker) & (ktdf['year'] == year) & (ktdf['quarter'] == qrtr)]
-        filtered = filtered.reset_index(drop=True)
-        return eval(filtered['kt_elaborated'][0])
+        elab_gen(ticker, year, qrtr, 5)
+        ktdf = pd.read_csv(f"static/documents/{ticker}/{year}/{qrtr}/keytakeaways/{ticker}.csv")
+        ktdf = ktdf.reset_index(drop=True)
+        elab1 = list(ktdf['elaboration1']) if not ktdf['elaboration1'].isnull().all() else []
+        elab2 = list(ktdf['elaboration2']) if not ktdf['elaboration2'].isnull().all() else []
+        elab3 = list(ktdf['elaboration3']) if not ktdf['elaboration3'].isnull().all() else []
+        return [elab1, elab2, elab3]
 
 def sentiment(request):
     if request.method == 'POST':
@@ -182,44 +196,39 @@ def auto_complete(request):
                 ay = c[i].a_year
                 aq = c[i].a_quarter
                 j = c[i].pdf_data_set.all()[0]
-                # print(j)
-                # print(ay,j.pdf1, j.pdf2, j.pdf3, j.pdf4)
-                if ay == [] and (j.pdf1 != [] or j.pdf2 != [] or j.pdf3 != [] or j.pdf4 != []):
-                    for k in ay:
-                        if j.pdf1[1] == k:
-                            continue
-                        else:
-                            ay.append(j.pdf1[1])
-                        if j.pdf2[1] == k:
-                            continue
-                        else:
-                            ay.append(j.pdf2[1])
-                        if j.pdf3[1] == k:
-                            continue
-                        else:
-                            ay.append(j.pdf3[1])
-                        if j.pdf4[1] == k:
-                            continue
-                        else:
-                            ay.append(j.pdf4[1])
-                    cy = j.pdf1[1]
-                    # ay.append(j.pdf1[1])
-                    try:
-                        ay.append(j.pdf2[1])
-                    except:
-                        pass
-                    try:
-                        ay.append(j.pdf3[1])
-                    except:
-                        pass
-                    try:
-                        ay.append(j.pdf4[1])
-                    except:
-                        pass
-                    cq = j.pdf1[2]
-                    # print(j.pdf1[1],j.pdf1[2])
+                print(ay)
+                # print(j.pdfs)
+                i = 0
+                if j.pdfs != []:
+                    if ay != []:
+                        tmp = []
+                        for k in ay:
+                            print("eneres")
+                            for l in j.pdfs:
+                                # print(l[1])
+                                if l[1] == int(k):
+                                    continue
+                                else:
+                                    if l[1] in tmp:
+                                        pass
+                                    else:
+                                        tmp.append(l[1])
+                            print(tmp)
+                        for i in tmp:
+                            ay.append(i)
+                    else:
+                        for l in j.pdfs:
+                            ay.append(l[1])
+                    # for l in ay:
+                    cy = j.pdfs[0][1]
+                        # try:
+                        #     ay.append(l[1])
+                        # except:
+                        #     pass
+                    cq = j.pdfs[0][2]
                 cdict.append([n, t, cy, cq, ay, aq])
         start = 0
+        print(ay)
         return JsonResponse({"cdict":cdict})
     
 
@@ -266,7 +275,12 @@ def gen_content(request):
             response['Content-Type'] = 'text/plain'
         else:
             response = HttpResponse('<p>Summary <strong>not</strong> Generated, <strong>Generate the summary first.</strong></p>', content_type='text/html')
-            response.status_code = 205
+            response.status_code = 210
     print(response)
     return response #HttpResponse("hi")
  
+
+def strtktelab(request):
+    if request.method == 'POST':
+        elab_gen(request.POST.get("ticker"), request.POST.get("year"), request.POST.get("qrtr"), int(request.POST.get("wq")))
+        return HttpResponse()

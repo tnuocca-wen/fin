@@ -62,6 +62,7 @@ function autocomplete(inp, year, quar) {
           }
           arr = result;
           companies = result;
+          console.log(arr);
           /*create a DIV element that will contain the items (values):*/
           a = document.createElement("div");
           a.id = "parent-options";

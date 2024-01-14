@@ -30,47 +30,47 @@ class Command(BaseCommand):
                     k = i.pdf_data_set.all()[0]
                     e = 1
                 except:     
-                    k = i.pdf_data_set.create(pdf1 = [],
-                                        pdf2 = [],
-                                        pdf3 = [],
-                                        pdf4 = [])
+                    k = i.pdf_data_set.create(pdfs = [])
+                                        # pdf2 = [],
+                                        # pdf3 = [],
+                                        # pdf4 = [])
                     e = 2
-                if str(df.loc[df['Security Id'] == j, 'pdf1'].iloc[0]) != 'nan':
+                if str(df.loc[df['Security Id'] == j, 'pdfs'].iloc[0]) != 'nan':
                     if e == 1:
-                        if k.pdf1 != eval(df.loc[df['Security Id'] == j, 'pdf1'].iloc[0]):
-                            k.pdf1 = eval(df.loc[df['Security Id'] == j, 'pdf1'].iloc[0])
+                        if k.pdfs != eval(df.loc[df['Security Id'] == j, 'pdfs'].iloc[0]):
+                            k.pdfs = eval(df.loc[df['Security Id'] == j, 'pdfs'].iloc[0])
                     elif e == 2:
-                        k.pdf1 = eval(df.loc[df['Security Id'] == j, 'pdf1'].iloc[0])
+                        k.pdfs = eval(df.loc[df['Security Id'] == j, 'pdfs'].iloc[0])
                 else:
                     if e == 0:
-                        k.pdf1 = []
-                if str(df.loc[df['Security Id'] == j, 'pdf2'].iloc[0]) != 'nan':
-                    if e == 1:
-                        if k.pdf2 != eval(df.loc[df['Security Id'] == j, 'pdf2'].iloc[0]):
-                            k.pdf2 = eval(df.loc[df['Security Id'] == j, 'pdf2'].iloc[0])
-                    elif e == 2:
-                        k.pdf2 = eval(df.loc[df['Security Id'] == j, 'pdf2'].iloc[0])
-                else:
-                    if e == 0:
-                        k.pdf2 = []
-                if str(df.loc[df['Security Id'] == j, 'pdf3'].iloc[0]) != 'nan':
-                    if e == 1:
-                        if k.pdf3 != eval(df.loc[df['Security Id'] == j, 'pdf3'].iloc[0]):
-                            k.pdf3 = eval(df.loc[df['Security Id'] == j, 'pdf3'].iloc[0])
-                    elif e == 2:
-                        k.pdf3 = eval(df.loc[df['Security Id'] == j, 'pdf3'].iloc[0])
-                else:
-                    if e == 0:
-                        k.pdf3 = []
-                if str(df.loc[df['Security Id'] == j, 'pdf4'].iloc[0]) != 'nan':
-                    if e == 1:
-                        if k.pdf4 != eval(df.loc[df['Security Id'] == j, 'pdf4'].iloc[0]):
-                            k.pdf4 = eval(df.loc[df['Security Id'] == j, 'pdf4'].iloc[0])
-                    elif e == 2:
-                        k.pdf4 = eval(df.loc[df['Security Id'] == j, 'pdf4'].iloc[0])
-                else:
-                    if e == 0:
-                        k.pdf4 = []
+                        k.pdfs = []
+                # if str(df.loc[df['Security Id'] == j, 'pdf2'].iloc[0]) != 'nan':
+                #     if e == 1:
+                #         if k.pdf2 != eval(df.loc[df['Security Id'] == j, 'pdf2'].iloc[0]):
+                #             k.pdf2 = eval(df.loc[df['Security Id'] == j, 'pdf2'].iloc[0])
+                #     elif e == 2:
+                #         k.pdf2 = eval(df.loc[df['Security Id'] == j, 'pdf2'].iloc[0])
+                # else:
+                #     if e == 0:
+                #         k.pdf2 = []
+                # if str(df.loc[df['Security Id'] == j, 'pdf3'].iloc[0]) != 'nan':
+                #     if e == 1:
+                #         if k.pdf3 != eval(df.loc[df['Security Id'] == j, 'pdf3'].iloc[0]):
+                #             k.pdf3 = eval(df.loc[df['Security Id'] == j, 'pdf3'].iloc[0])
+                #     elif e == 2:
+                #         k.pdf3 = eval(df.loc[df['Security Id'] == j, 'pdf3'].iloc[0])
+                # else:
+                #     if e == 0:
+                #         k.pdf3 = []
+                # if str(df.loc[df['Security Id'] == j, 'pdf4'].iloc[0]) != 'nan':
+                #     if e == 1:
+                #         if k.pdf4 != eval(df.loc[df['Security Id'] == j, 'pdf4'].iloc[0]):
+                #             k.pdf4 = eval(df.loc[df['Security Id'] == j, 'pdf4'].iloc[0])
+                #     elif e == 2:
+                #         k.pdf4 = eval(df.loc[df['Security Id'] == j, 'pdf4'].iloc[0])
+                # else:
+                #     if e == 0:
+                #         k.pdf4 = []
                 k.save()
 
 

@@ -1,4 +1,5 @@
 from google.cloud import storage
+import os
 
 
 def download_blob( source_blob_name, destination_file_name, bucket_name="data_for_fin"):
@@ -34,7 +35,6 @@ def download_blob( source_blob_name, destination_file_name, bucket_name="data_fo
 
 def file_exists( source_blob_name, bucket_name="data_for_fin"):
     storage_client = storage.Client()
-
     bucket = storage_client.bucket(bucket_name)
     blob = bucket.blob(source_blob_name)
     try:
@@ -73,3 +73,45 @@ def upload_blob(source_file_name, destination_blob_name, bucket_name="data_for_f
     print(
         f"File {source_file_name} uploaded to {destination_blob_name}."
     )
+
+
+def download_folder(folder_prefix, destination_folder, bucket_name="data_for_fin"):
+    """Downloads all objects from a folder prefix in a GCS bucket."""
+    storage_client = storage.Client()
+    bucket = storage_client.bucket(bucket_name)
+
+    # List all blobs with a certain prefix (folder)
+    blobs = bucket.list_blobs(prefix=folder_prefix)
+
+    # print(blobs)
+
+    if not os.path.exists(destination_folder):
+        os.makedirs(destination_folder)
+
+    for blob in blobs:
+        # Destination file path
+        print(blob.name)
+        destination_file_path = f"{destination_folder}/{blob.name.split(f'{folder_prefix}'+'/')[-1]}"
+        if not os.path.exists("/".join(destination_file_path.split('/')[:-1])):
+          os.makedirs("/".join(destination_file_path.split('/')[:-1]))
+        print(destination_file_path)
+        # Download each blob to the destination folder
+        blob.download_to_filename(destination_file_path)
+        print(f"Blob {blob.name} downloaded to {destination_file_path}.")
+
+
+def upload_folder(folder_path, destination_prefix='', bucket_name="data_for_fin"):
+    """Uploads all files from a local folder to a GCS bucket."""
+    storage_client = storage.Client()
+    bucket = storage_client.bucket(bucket_name)
+
+    for root, dirs, files in os.walk(folder_path):
+        for file_name in files:
+            local_file_path = os.path.join(root, file_name)
+            blob_name = os.path.join(destination_prefix, os.path.relpath(local_file_path, folder_path))
+            blob_name = blob_name.replace("\\", "/")
+
+            # Upload file to the bucket
+            blob = bucket.blob(blob_name)
+            blob.upload_from_filename(local_file_path)
+            print(f"File {local_file_path} uploaded to {blob_name}.")

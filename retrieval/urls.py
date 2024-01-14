@@ -9,5 +9,6 @@ urlpatterns = [
     path('sentiment/', views.sentiment, name="sentiment"),
     path('autoc/', views.auto_complete, name="autocomplete"),
     path('gen/', views.gen_content, name="gen"),
-    path('upl/', generate.upload_data, name="upl")
+    path('upl/', generate.upload_data, name="upl"),
+    path('elab/', views.strtktelab, name="elab")
 ]

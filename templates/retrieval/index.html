@@ -93,38 +93,38 @@
           </button>
         </form>
       </nav>
-      <div id="senti">
-        <div
-          class="modal fade"
-          id="sentimentmodal"
-          tabindex="-1"
-          aria-labelledby="sentimentmodalLabel"
-          aria-hidden="true"
-        >
-          <div class="modal-dialog modal-fullscreen">
-            <div class="modal-content">
-              <div class="modal-header">
-                <h1 class="modal-title fs-2" id="sentimentmodalLabel"></h1>
-                <button
-                  type="button"
-                  class="btn-close"
-                  data-bs-dismiss="modal"
-                  aria-label="Close"
-                ></button>
-              </div>
-              <div class="modal-body" id="sentiment_sentences"></div>
-              <div class="modal-footer">
-                <button
-                  type="button"
-                  class="btn btn-secondary"
-                  data-bs-dismiss="modal"
-                >
-                  Close
-                </button>
-              </div>
+      <div
+        class="modal fade"
+        id="sentimentmodal"
+        tabindex="-1"
+        aria-labelledby="sentimentmodalLabel"
+        aria-hidden="true"
+      >
+        <div class="modal-dialog modal-fullscreen">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h1 class="modal-title fs-2" id="sentimentmodalLabel"></h1>
+              <button
+                type="button"
+                class="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div class="modal-body" id="sentiment_sentences"></div>
+            <div class="modal-footer">
+              <button
+                type="button"
+                class="btn btn-secondary"
+                data-bs-dismiss="modal"
+              >
+                Close
+              </button>
             </div>
           </div>
         </div>
+      </div>
+      <div id="senti">
         <div class="row">
           <div
             class="col-3 mx-auto cen"
@@ -154,6 +154,7 @@
     const doc_root = "{% static 'documents/' %}";
     const gen_url = "{% url 'gen' %}"
     const upl_url = "{% url 'upl' %}"
+    const elab_url = "{% url 'elab' %}"
     const csrf_token = document.getElementsByName("csrfmiddlewaretoken")[0].value;
   </script>
   <!-- <script src="{% static 'js/window.js' %}"></script> -->
